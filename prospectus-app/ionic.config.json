@@ -1,0 +1,7 @@
+{
+  "name": "Prospectus App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
