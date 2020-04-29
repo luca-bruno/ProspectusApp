@@ -12,12 +12,20 @@ const routes: Routes = [
     loadChildren: () => import('./folder/folder.module').then( m => m.FolderPageModule)
   },
   {
-    path: 'prospectus-institutes',
+    path: 'prospectus-institutes', //http://localhost:4200/prospectus-institutes
     loadChildren: () => import('./prospectus/prospectus-institutes/prospectus-institutes.module').then( m => m.ProspectusInstitutesPageModule)
   },
   {
-    path: 'prospectus-courses',
+    path: 'prospectus-courses', //http://localhost:4200/prospectus-courses
     loadChildren: () => import('./prospectus/prospectus-courses/prospectus-courses.module').then( m => m.ProspectusCoursesPageModule)
+  },
+  {
+    path: 'prospectus-testimonials', //http://localhost:4200/prospectus-testimonials
+    loadChildren: () => import('./prospectus-testimonials/prospectus-testimonials.module').then( m => m.ProspectusTestimonialsPageModule)
+  },
+  {
+    path: 'prospectus-pastwork', //http://localhost:4200/prospectus-pastwork
+    loadChildren: () => import('./prospectus-pastwork/prospectus-pastwork.module').then( m => m.ProspectusPastworkPageModule)
   }
 ];
 
