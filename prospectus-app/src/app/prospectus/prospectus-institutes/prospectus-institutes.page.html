@@ -1,4 +1,4 @@
-<ion-header>
+<ion-header class="ion-no-border">
   <ion-toolbar>
     <ion-buttons slot="start">
       <ion-button>
@@ -6,8 +6,14 @@
       </ion-button>
     </ion-buttons>
 
-    <ion-title>Institute Info</ion-title>
+    <ion-title class="ion-text-center">Institute Info</ion-title>
     <!-- make centred-->
+    
+    <ion-buttons slot="end">
+      <ion-button>
+        <ion-icon name="chevron-back-outline" slot="icon-only"></ion-icon>
+      </ion-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
@@ -25,13 +31,11 @@
 
       </ion-col>
       <ion-col>
-        <ion-buttons>
           <ion-button>
             <!-- move to right hand side -->
             <ion-icon name="compass-outline"></ion-icon>
             <ion-label>Find Us</ion-label>
           </ion-button>
-        </ion-buttons>
 
       </ion-col>
     </ion-row>
@@ -51,11 +55,9 @@
     </ion-card-content>
   </ion-card>
 
-  <ion-buttons>
     <ion-button>
       <!-- centre -->
       <ion-label>Course List</ion-label>
     </ion-button>
-  </ion-buttons>
 
 </ion-content>

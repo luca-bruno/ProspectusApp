@@ -1,4 +1,4 @@
-<ion-header>
+<ion-header class="ion-no-border">
   <ion-toolbar>
     <ion-buttons slot="start">
       <ion-button>
@@ -6,18 +6,34 @@
       </ion-button>
     </ion-buttons>
 
-    <ion-title>Past Students' Work</ion-title>
+    <ion-title class="ion-text-center">Student Testimonials</ion-title>
+  
+    <ion-buttons slot="end">
+      <ion-button>
+        <ion-icon name="chevron-back-outline" slot="icon-only"></ion-icon>
+      </ion-button>
+    </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
- 
-  <div class="ion-text-center">
-    Art Exhibition by Artist Giulia Grima to be displayed at Spazju Kreattiv <!-- make larger font -->
-  </div>
 
-  <!--<ion-img [src]="article.jpg"></ion-img>-->
-  
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <div class="ion-text-left">
+          Mark, 38 - Accounting <!-- make larger font -->
+        </div>
+
+      </ion-col>
+      <ion-col>
+        <ion-avatar>
+          <img src="https://www.sandiego.edu/business/images/home/persona-undergraduate.jpg">
+        </ion-avatar>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom" id="description-card">
     <ion-card-content>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
