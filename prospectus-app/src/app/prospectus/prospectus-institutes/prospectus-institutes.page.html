@@ -7,7 +7,6 @@
     </ion-buttons>
 
     <ion-title class="ion-text-center">Institute Info</ion-title>
-    <!-- make centred-->
     
     <ion-buttons slot="end">
       <ion-button>
@@ -21,43 +20,45 @@
   <ion-grid>
     <ion-row>
       <ion-col>
-        <div class="ion-text-left">
-          ICA <!-- make larger font -->
+        <div class="ion-text-left" id="institute-acronym">
+          IICT
         </div>
 
-        <div class="ion-text-left">
-          Institute of Creative Arts
+        <div id="institute-name">
+          Institute of Information and Communication Technology
         </div>
-
       </ion-col>
+
       <ion-col>
+        <div class="ion-text-right">
           <ion-button>
-            <!-- move to right hand side -->
-            <ion-icon name="compass-outline"></ion-icon>
+            <ion-icon name="compass-outline" class="prospectus-icon"></ion-icon>
             <ion-label>Find Us</ion-label>
           </ion-button>
-
+        </div>
       </ion-col>
+
     </ion-row>
   </ion-grid>
 
 <!-- Institute info paragraph 1 -->
-  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom" id="description-card">
+  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom">
     <ion-card-content>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
     </ion-card-content>
   </ion-card>
   
 <!-- Institute info paragraph 2 -->
-  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom" id="description-card">
+  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom">
     <ion-card-content>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
     </ion-card-content>
   </ion-card>
 
+  <div class="ion-text-center">
     <ion-button>
-      <!-- centre -->
       <ion-label>Course List</ion-label>
     </ion-button>
+  </div>
 
 </ion-content>

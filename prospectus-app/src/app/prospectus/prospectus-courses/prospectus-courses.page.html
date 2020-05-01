@@ -3,12 +3,11 @@
     <!-- make disappear on scroll -->
     <ion-buttons slot="start">
       <ion-button>
-        <ion-icon name="chevron-back-outline" slot="icon-only"></ion-icon>
+        <ion-icon name="chevron-back-outline" slot="icon-only" ></ion-icon>
       </ion-button>
     </ion-buttons>
 
     <ion-title class="ion-text-center">Course Info</ion-title>
-<!-- make centred-->
     <ion-buttons slot="end">
       <ion-button>
         <ion-icon name="heart" slot="icon-only" color="danger"></ion-icon>
@@ -19,34 +18,25 @@
 
 <ion-content>
   
-<ion-grid>
+<ion-grid id="course-basic-grid">
   <ion-row>
     <ion-col>
-      <div class="ion-text-left">
-        Bachelor of Arts (Honours) in
-      </div>
-
-      <div class="ion-text-left">
-        Interactive Media <!-- make larger font -->
+      <div class="ion-text-left" id="course-name">
+        Bachelor of Arts (Honours) in Interactive Media
       </div>
     </ion-col>
 
     <ion-col>
-      <div class="ion-text-right">
-              AD6-05-19
+      <div class="ion-text-right" id="course-code">
+        AD6-05-19
+        <ion-button>
+          <ion-icon name="earth-outline" class="prospectus-icon"></ion-icon>
+          <ion-label>More Info</ion-label>
+      </ion-button>
       </div>
-
     </ion-col>
   </ion-row>
 </ion-grid>
-
-  <ion-buttons>
-    <ion-button>
-      <!-- move to right hand side -->
-      <ion-icon name="earth-outline"></ion-icon>
-      <ion-label>More Info</ion-label>
-    </ion-button>
-  </ion-buttons>
 
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom" id="description-card">
 
@@ -56,26 +46,26 @@
 
   </ion-card>
 
-  <ion-grid id="details">
+  <ion-grid id="course-sub-grid">
     <ion-row>
 
         <!-- MQF level label -->
-        <ion-col>
-            <ion-icon name="school-outline"></ion-icon>  
+        <ion-col class="ion-text-left" id="mqf-col">
+            <ion-icon name="school-outline" class="prospectus-icon"></ion-icon>  
             <ion-label>MQF Level 6</ion-label>
         </ion-col>
   
         <!-- Course length label -->
-        <ion-col class="separator-col">
-            <ion-icon name="time-outline"></ion-icon>
+        <ion-col class="separator-col ion-text-center" id="course-length-col">
+            <ion-icon name="time-outline" class="prospectus-icon"></ion-icon>
             <ion-label>3 Years</ion-label>
         </ion-col>
   
         <!-- Share button -->
-        <ion-col>
-          <ion-button>
-            <ion-icon name="share-social-outline"></ion-icon>
-            <ion-label>Share</ion-label>
+        <ion-col class="ion-text-right" id="share-col">
+            <ion-button>
+              <ion-icon name="share-social-outline" class="prospectus-icon"></ion-icon>
+              <ion-label>Share</ion-label>
           </ion-button>
         </ion-col>
 
@@ -85,7 +75,7 @@
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom" id="description-card">
 
     <ion-card-content>
-      <ion-icon name="book-outline"></ion-icon>
+      <ion-icon name="book-outline" class="prospectus-icon"></ion-icon>
       <ion-label>Requirements</ion-label>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
     </ion-card-content>
@@ -95,7 +85,7 @@
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom" id="description-card">
 
     <ion-card-content>
-      <ion-icon name="briefcase-outline"></ion-icon>
+      <ion-icon name="briefcase-outline" class="prospectus-icon"></ion-icon>
       <ion-label>Career Opportunities</ion-label>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
     </ion-card-content>
