@@ -9,10 +9,17 @@
 #welcome-subtext{
     /* subtitle pinned to bottom of page */
     position: absolute;
-    bottom: 40px;
+    bottom: 100px;
     width: 100%;
     letter-spacing: 2px;
         /* to compensate for letter 
         spacing post final letter */
     margin-right: -2px;
+}
+
+#mcast-logo{
+    position: absolute;
+    bottom: 165px;
+    margin-right: 18px;
+    
 }
