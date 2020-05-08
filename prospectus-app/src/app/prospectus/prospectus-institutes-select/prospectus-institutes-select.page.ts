@@ -11,5 +11,5 @@ export class ProspectusInstitutesSelectPage implements OnInit {
 
   ngOnInit() {
   }
-
+  
 }

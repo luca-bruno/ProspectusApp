@@ -2,15 +2,15 @@
   <ion-toolbar>
     <!-- make disappear on scroll -->
     <ion-buttons slot="start">
-      <ion-button>
+      <ion-button (click)="navigate()">
         <ion-icon name="chevron-back-outline" slot="icon-only" ></ion-icon>
       </ion-button>
     </ion-buttons>
 
     <ion-title class="ion-text-center page-title">Course Info</ion-title>
     <ion-buttons slot="end">
-      <ion-button>
-        <ion-icon name="heart" slot="icon-only" color="danger"></ion-icon>
+      <ion-button (click) ="toggleSave()">
+        <ion-icon [name]="toggleIcon" slot="icon-only"></ion-icon>
       </ion-button>
     </ion-buttons>
   </ion-toolbar>
@@ -29,7 +29,7 @@
     <ion-col>
       <div class="ion-text-right" id="course-code">
         AD6-05-19
-        <ion-button>
+        <ion-button href="https://www.mcast.edu.mt/courses/ad6-05-19/">
           <ion-icon name="earth-outline" class="prospectus-icon"></ion-icon>
           <ion-label>More Info</ion-label>
       </ion-button>
@@ -63,7 +63,7 @@
   
         <!-- Share button -->
         <ion-col class="ion-text-right" id="share-col">
-            <ion-button>
+            <ion-button href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mcast.edu.mt%2Fcourses%2Fad6-05-19%2F">
               <ion-icon name="share-social-outline" class="prospectus-icon"></ion-icon>
               <ion-label>Share</ion-label>
           </ion-button>

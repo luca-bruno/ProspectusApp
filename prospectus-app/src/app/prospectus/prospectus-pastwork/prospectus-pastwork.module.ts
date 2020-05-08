@@ -7,13 +7,15 @@ import { IonicModule } from '@ionic/angular';
 import { ProspectusPastworkPageRoutingModule } from './prospectus-pastwork-routing.module';
 
 import { ProspectusPastworkPage } from './prospectus-pastwork.page';
+import { SharedComponentsModule } from 'src/app/modules/shared-components.module';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    ProspectusPastworkPageRoutingModule
+    ProspectusPastworkPageRoutingModule,
+    SharedComponentsModule
   ],
   declarations: [ProspectusPastworkPage]
 })

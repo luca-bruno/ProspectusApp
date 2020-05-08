@@ -7,13 +7,15 @@ import { IonicModule } from '@ionic/angular';
 import { ProspectusCorporateServicesPageRoutingModule } from './prospectus-corporate-services-routing.module';
 
 import { ProspectusCorporateServicesPage } from './prospectus-corporate-services.page';
+import { SharedComponentsModule } from 'src/app/modules/shared-components.module';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    ProspectusCorporateServicesPageRoutingModule
+    ProspectusCorporateServicesPageRoutingModule,
+    SharedComponentsModule
   ],
   declarations: [ProspectusCorporateServicesPage]
 })

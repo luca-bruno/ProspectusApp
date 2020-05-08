@@ -4,7 +4,7 @@ import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 const routes: Routes = [
   {
     path: '',
-    redirectTo: 'folder/Inbox',
+    redirectTo: 'home',
     pathMatch: 'full'
   },
   {
@@ -12,43 +12,67 @@ const routes: Routes = [
     loadChildren: () => import('./folder/folder.module').then( m => m.FolderPageModule)
   },
   {
-    path: 'prospectus-institutes', //http://localhost:4200/prospectus-institutes
-    loadChildren: () => import('./prospectus/prospectus-institutes/prospectus-institutes.module').then( m => m.ProspectusInstitutesPageModule)
+    path: 'institutes',
+    children: [
+    {
+      path: 'view', // http://localhost:4200/institutes/view
+      loadChildren: () => import('./prospectus/prospectus-institutes/prospectus-institutes.module').then( m => m.ProspectusInstitutesPageModule)
+    
+      },
+      {
+      path: 'select', // http://localhost:4200/institutes/select
+      loadChildren: () => import('./prospectus/prospectus-institutes-select/prospectus-institutes-select.module').then( m => m.ProspectusInstitutesSelectPageModule)
+      }
+  ]
   },
   {
-    path: 'prospectus-courses', //http://localhost:4200/prospectus-courses
-    loadChildren: () => import('./prospectus/prospectus-courses/prospectus-courses.module').then( m => m.ProspectusCoursesPageModule)
+    path: 'courses',
+    children: [
+    {
+      path: 'view', // http://localhost:4200/courses/view
+      loadChildren: () => import('./prospectus/prospectus-courses/prospectus-courses.module').then( m => m.ProspectusCoursesPageModule)
+    
+      },
+      {
+      path: 'select', // http://localhost:4200/courses/select
+      loadChildren: () => import('./prospectus/prospectus-courses-select/prospectus-courses-select.module').then( m => m.ProspectusCoursesSelectPageModule)
+      }
+  ]
   },
   {
-    path: 'prospectus-testimonials', //http://localhost:4200/prospectus-testimonials
-    loadChildren: () => import('./prospectus/prospectus-testimonials/prospectus-testimonials.module').then( m => m.ProspectusTestimonialsPageModule)
+    path: 'testimonials',
+    children: [
+    {
+      path: 'view', // http://localhost:4200/testimonials/view
+      loadChildren: () => import('./prospectus/prospectus-testimonials/prospectus-testimonials.module').then( m => m.ProspectusTestimonialsPageModule)
+    
+      },
+      {
+      path: 'select', // http://localhost:4200/testimonials/select
+      loadChildren: () => import('./prospectus/prospectus-testimonials-select/prospectus-testimonials-select.module').then( m => m.ProspectusTestimonialsSelectPageModule)
+      }
+  ]
   },
   {
-    path: 'prospectus-pastwork', //http://localhost:4200/prospectus-pastwork
-    loadChildren: () => import('./prospectus/prospectus-pastwork/prospectus-pastwork.module').then( m => m.ProspectusPastworkPageModule)
+    path: 'pastwork',
+    children: [
+    {
+      path: 'view', // http://localhost:4200/pastwork/view
+      loadChildren: () => import('./prospectus/prospectus-pastwork/prospectus-pastwork.module').then( m => m.ProspectusPastworkPageModule)
+    
+      },
+      {
+      path: 'select', // http://localhost:4200/pastwork/select
+      loadChildren: () => import('./prospectus/prospectus-pastwork-select/prospectus-pastwork-select.module').then( m => m.ProspectusPastworkSelectPageModule)
+      }
+  ]
   },
   {
-    path: 'prospectus-courses-select', //http://localhost:4200/prospectus-courses-select
-    loadChildren: () => import('./prospectus/prospectus-courses-select/prospectus-courses-select.module').then( m => m.ProspectusCoursesSelectPageModule)
-  },
-  {
-    path: 'prospectus-institutes-select', //http://localhost:4200/prospectus-institutes-select
-    loadChildren: () => import('./prospectus/prospectus-institutes-select/prospectus-institutes-select.module').then( m => m.ProspectusInstitutesSelectPageModule)
-  },
-  {
-    path: 'prospectus-pastwork-select', //http://localhost:4200/prospectus-pastwork-select
-    loadChildren: () => import('./prospectus/prospectus-pastwork-select/prospectus-pastwork-select.module').then( m => m.ProspectusPastworkSelectPageModule)
-  },
-  {
-    path: 'prospectus-testimonials-select', //http://localhost:4200/prospectus-testimonials-select
-    loadChildren: () => import('./prospectus/prospectus-testimonials-select/prospectus-testimonials-select.module').then( m => m.ProspectusTestimonialsSelectPageModule)
-  },
-  {
-    path: 'prospectus-corporate-services', //http://localhost:4200/prospectus-corporate-services
+    path: 'corporate-services', // http://localhost:4200/corporate-services
     loadChildren: () => import('./prospectus/prospectus-corporate-services/prospectus-corporate-services.module').then( m => m.ProspectusCorporateServicesPageModule)
   },
   {
-    path: 'prospectus-home', //http://localhost:4200/prospectus-home
+    path: 'home', // http://localhost:4200/home
     loadChildren: () => import('./prospectus/prospectus-home/prospectus-home.module').then( m => m.ProspectusHomePageModule)
   }
 

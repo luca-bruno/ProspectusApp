@@ -1,8 +1,21 @@
 <ion-header class="ion-no-border">
   <ion-toolbar>
     <ion-buttons slot="start">
+      <ion-menu-toggle>
       <ion-button>
         <ion-icon name="menu-outline" slot="icon-only"></ion-icon>
+      </ion-button>
+    </ion-menu-toggle>
+    </ion-buttons>
+
+    <ion-buttons slot="end">
+      <ion-button id="lang-button" (click)="toggleLang()" (click)="hidden = !hidden">
+        <div *ngIf="!hidden" [id]="boldLang1"><b>EN /</b><br>
+        MT</div>
+        <!-- make so change respective language bold -->
+        <div *ngIf="hidden" [id]="boldLang2">EN /<br>
+          <b>MT</b></div>
+          <!-- make so change respective language bold -->
       </ion-button>
     </ion-buttons>
   </ion-toolbar>
