@@ -8,6 +8,10 @@ import { Router } from '@angular/router';
 })
 export class FavouriteCoursesPage implements OnInit {
 
+  // define favouritesArray for courses favourited
+  // if none, display div
+  // if >0, print array list info
+  
   constructor(
     public router: Router
   ) { }

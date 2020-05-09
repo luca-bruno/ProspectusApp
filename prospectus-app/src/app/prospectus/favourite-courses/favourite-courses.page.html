@@ -3,25 +3,26 @@
 <ion-content>
   <ion-list>
 
-    <div class="ion-text-center">
-      You currently have no courses favourited. <!-- show div if fave-courses array empty -->
+    <div *ngIf="!favouritesArray || favouritesArray.length === 0" class="no-favourites ion-text-center" style="color: grey;">
+      You currently have no courses favourited. <!-- show div if favouritesArray empty -->
     </div>
+
+    <!-- <div *ngIf="favouritesArray || favouritesArray.length > 0">
+      <ion-row *ngFor="let item of favouritesArray">
+              <ion-button id="course-button" (click)="courseviewNav()">
+                <div class="ion-text-wrap">
+                  {{item.course}}
+              </div>
+              </ion-button>
+          </ion-row>
+      </div>
+    -->
 
     <ion-button id="course-button" (click)="courseviewNav()">
       <ion-grid>
         <ion-row>
           <div class="ion-text-wrap">
             Bachelor of Arts (Honours) in Interactive Media
-          </div>
-        </ion-row>
-      </ion-grid>
-    </ion-button>    
-
-    <ion-button id="course-button" (click)="courseviewNav()">
-      <ion-grid>
-        <ion-row>
-          <div class="ion-text-wrap">
-            Bachelor of Science (Honours) in Animal Management and Veterinary Nursing
           </div>
         </ion-row>
       </ion-grid>
