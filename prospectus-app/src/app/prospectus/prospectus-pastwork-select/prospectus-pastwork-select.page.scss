@@ -1,7 +1,22 @@
-.pastwork-button {
-    height: auto;
+.pastwork-slider{
+    --bullet-background: grey;
+    --bullet-background-active: black;
+
 }
 
-.pastwork-article {
-    font-size: 1.1em;
+.pastwork-card{
+
+    .background-image{
+        padding-bottom: 120%;
+        background-size: cover;
+        background-position: center;
+        position: relative;
+    }
+
+    .pastwork-title{
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 25px;
+        margin-bottom: 15px;
+    }
 }

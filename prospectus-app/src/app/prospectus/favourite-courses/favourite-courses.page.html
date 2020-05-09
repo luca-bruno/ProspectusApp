@@ -1,0 +1,31 @@
+<app-header-regular title="Favourite Courses"></app-header-regular>
+
+<ion-content>
+  <ion-list>
+
+    <div class="ion-text-center">
+      You currently have no courses favourited. <!-- show div if fave-courses array empty -->
+    </div>
+
+    <ion-button id="course-button" (click)="courseviewNav()">
+      <ion-grid>
+        <ion-row>
+          <div class="ion-text-wrap">
+            Bachelor of Arts (Honours) in Interactive Media
+          </div>
+        </ion-row>
+      </ion-grid>
+    </ion-button>    
+
+    <ion-button id="course-button" (click)="courseviewNav()">
+      <ion-grid>
+        <ion-row>
+          <div class="ion-text-wrap">
+            Bachelor of Science (Honours) in Animal Management and Veterinary Nursing
+          </div>
+        </ion-row>
+      </ion-grid>
+    </ion-button>
+
+  </ion-list>
+</ion-content>

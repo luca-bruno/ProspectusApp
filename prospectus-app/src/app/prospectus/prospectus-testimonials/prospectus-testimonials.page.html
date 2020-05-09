@@ -1,32 +1,46 @@
 <app-header-regular title="Student Testimonials"></app-header-regular>
 
 <ion-content>
+  
+  <div class="center">
+    <ion-slides class="testimonial-slider" pager="true">
 
-  <ion-grid>
-    <ion-row>
-      <ion-col>
-        <div id="testimonial-basic">
-        <div class="testimonial-student">
-          Mark, 38
+      <ion-slide>
+        <div class="testimonial-card">
+          <div [ngStyle]="{ 'background-image': 'url(https://gravatar.com/avatar/dba6bae8c566f9d4041fb9cd9ada7741?d=identicon&f=y)' }"
+          class="background-image">
         </div>
-        <div class="testimonial-qualification">
-          Software Development
+          <h5 class="testimonial-student">Mark, 38</h5>
+          <h6 class="testimonial-qualification ion-text-wrap">Software Development</h6>
+          <p class="testimonial-description ion-text-wrap">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos aliquam corporis error dolores accusamus at vitae doloremque, sint consequatur dolor? Esse voluptates placeat architecto culpa ipsum molestias, libero ad expedita.</p>
         </div>
-      </div>
+      </ion-slide>
 
-      </ion-col>
-      <ion-col>
-        <div>
-        <ion-avatar>
-          <ion-img class="testimonial-avatar" src="https://www.sandiego.edu/business/images/home/persona-undergraduate.jpg"> </ion-img>    </ion-avatar>
-        </div>
-      </ion-col>
-    </ion-row>
-  </ion-grid>
+      <ion-slide>
+        <div class="testimonial-card">
+          <div [ngStyle]="{ 'background-image': 'url(https://gravatar.com/avatar/dba6bae8c566f9d4041fb9cd9ada7741?d=identicon&f=y)' }"
+          class="background-image">
 
-  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom" id="testimonial-description">
-    <ion-card-content>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
-    </ion-card-content>
-  </ion-card>
+        </div>
+        <h5 class="testimonial-student">John, 24</h5>
+        <h6 class="testimonial-qualification ion-text-wrap">Graphic Design</h6>
+        <p class="testimonial-description ion-text-wrap">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, facilis! Aliquam porro provident dolores inventore expedita id sunt in explicabo rerum nihil eum impedit delectus, consequatur eos voluptatem obcaecati aperiam?</p>
+        </div>
+      </ion-slide>
+
+      <ion-slide>
+        <div class="testimonial-card">
+
+          <div [ngStyle]="{ 'background-image': 'url(https://gravatar.com/avatar/dba6bae8c566f9d4041fb9cd9ada7741?d=identicon&f=y)' }"
+          class="background-image">
+
+        </div>
+        <h5 class="testimonial-student">Amy, 23</h5>
+        <h6 class="testimonial-qualification ion-text-wrap">Maritime Engineering</h6>
+        <p class="testimonial-description ion-text-wrap">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum ipsa commodi nobis optio amet nam quaerat tempora sunt iusto architecto omnis cupiditate blanditiis, dolores deserunt cumque itaque vel corrupti eaque?</p>
+        </div>
+      </ion-slide>
+    </ion-slides>
+  </div>
+
 </ion-content>

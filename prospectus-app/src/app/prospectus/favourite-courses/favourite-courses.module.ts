@@ -4,9 +4,9 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { ProspectusTestimonialsSelectPageRoutingModule } from './prospectus-testimonials-select-routing.module';
+import { FavouriteCoursesPageRoutingModule } from './favourite-courses-routing.module';
 
-import { ProspectusTestimonialsSelectPage } from './prospectus-testimonials-select.page';
+import { FavouriteCoursesPage } from './favourite-courses.page';
 import { SharedComponentsModule } from 'src/app/modules/shared-components.module';
 
 @NgModule({
@@ -14,9 +14,9 @@ import { SharedComponentsModule } from 'src/app/modules/shared-components.module
     CommonModule,
     FormsModule,
     IonicModule,
-    ProspectusTestimonialsSelectPageRoutingModule,
+    FavouriteCoursesPageRoutingModule,
     SharedComponentsModule
   ],
-  declarations: [ProspectusTestimonialsSelectPage]
+  declarations: [FavouriteCoursesPage]
 })
-export class ProspectusTestimonialsSelectPageModule {}
+export class FavouriteCoursesPageModule {}

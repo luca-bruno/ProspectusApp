@@ -1,29 +1,33 @@
 <app-header-regular title="Past Students' Work"></app-header-regular>
 
 <ion-content>
-  <ion-list>
+  
+  <div class="center">
+    <ion-slides class="pastwork-slider" pager="true">
 
-    <ion-button class="pastwork-button" href="/pastwork/view">
-      <ion-grid>
-        <ion-row>
-          <div class="ion-text-wrap pastwork-article">
-            Startup "WebPower" Wins Business Award - Times of Malta
-          </div>
-        </ion-row>
-      </ion-grid>
-      <ion-icon name="chevron-forward-outline" class="icon-arrow" slot="end"></ion-icon>
-    </ion-button>
+      <ion-slide>
+        <div class="pastwork-card">
+          <div [ngStyle]="{ 'background-image': 'url(https://agcdn-2mrybbgckm7omi0k.netdna-ssl.com/wp-content/uploads/2019/10/alphagamma-Young-Social-Entrepreneurs-Programme-opportunities-1024x682.jpg)' }"
+          class="background-image ion-activatable ripple-parent" (click)="pastworkviewNav()">
+          <ion-ripple-effect></ion-ripple-effect>
+        </div>
+          <h5 class="pastwork-title">Youth start-up WebPower takes home 2020 Business Award</h5>
+        </div>
+      </ion-slide>
 
-    <ion-button class="pastwork-button" href="/pastwork/view">
-      <ion-grid>
-        <ion-row>
-          <div class="ion-text-wrap pastwork-article">
-            Art Exhibition by artist Giulia Grima to be Displayed at Spazju Kreattiv
-          </div>
-        </ion-row>
-      </ion-grid>
-      <ion-icon name="chevron-forward-outline" class="icon-arrow" slot="end"></ion-icon>
-    </ion-button>
+      <ion-slide>
+        <div class="pastwork-card">
 
-  </ion-list>
+          <div [ngStyle]="{ 'background-image': 'url(https://www.kreattivita.org/wp-content/uploads/2017/08/Spazju-Kreattiv-Timeline-2.jpg)' }"
+          class="background-image ion-activatable ripple-parent" (click)="pastworkviewNav()">
+          <ion-ripple-effect></ion-ripple-effect>
+
+        </div>
+          <h5 class="pastwork-title">Art Exhibition by artist Giulia Grima to be displayed at Spazju Kreattiv</h5>
+        </div>
+      </ion-slide>
+
+    </ion-slides>
+  </div>
+
 </ion-content>

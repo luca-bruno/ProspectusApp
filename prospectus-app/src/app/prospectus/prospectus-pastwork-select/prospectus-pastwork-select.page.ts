@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-prospectus-pastwork-select',
@@ -7,9 +8,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProspectusPastworkSelectPage implements OnInit {
 
-  constructor() { }
+  constructor(
+    public router: Router
+  ) { }
 
-  ngOnInit() {
+  ngOnInit() {}
+  
+  /**
+    * Navigates to the  link. 
+    */
+    public pastworkviewNav(): void {
+    this.router.navigateByUrl('/pastwork/view')
   }
-
 }

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-prospectus-institutes-select',
@@ -7,9 +8,17 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProspectusInstitutesSelectPage implements OnInit {
 
-  constructor() { }
+  constructor(
+    public router: Router
+  ) { }
 
-  ngOnInit() {
-  }
+  ngOnInit() {}
   
+  /**
+    * Navigates to the  link. 
+    */
+    public institutesviewNav(): void {
+    this.router.navigateByUrl('/institutes/view')
+  }
 }
+

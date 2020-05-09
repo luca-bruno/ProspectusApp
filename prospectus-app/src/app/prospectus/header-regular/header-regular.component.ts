@@ -17,9 +17,9 @@ export class HeaderRegularComponent implements OnInit {
   ngOnInit() {}
   
   /**
-   * Navigates to the back link. 
-   */
-    public navigate(): void {
+    * Navigates to the back link. 
+    */
+    public navigateBack(): void {
     this.navCtrl.back();
   }
 

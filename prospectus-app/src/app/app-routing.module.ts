@@ -40,20 +40,6 @@ const routes: Routes = [
   ]
   },
   {
-    path: 'testimonials',
-    children: [
-    {
-      path: 'view', // http://localhost:4200/testimonials/view
-      loadChildren: () => import('./prospectus/prospectus-testimonials/prospectus-testimonials.module').then( m => m.ProspectusTestimonialsPageModule)
-    
-      },
-      {
-      path: 'select', // http://localhost:4200/testimonials/select
-      loadChildren: () => import('./prospectus/prospectus-testimonials-select/prospectus-testimonials-select.module').then( m => m.ProspectusTestimonialsSelectPageModule)
-      }
-  ]
-  },
-  {
     path: 'pastwork',
     children: [
     {
@@ -72,9 +58,18 @@ const routes: Routes = [
     loadChildren: () => import('./prospectus/prospectus-corporate-services/prospectus-corporate-services.module').then( m => m.ProspectusCorporateServicesPageModule)
   },
   {
+    path: 'testimonials', // http://localhost:4200/testimonials
+    loadChildren: () => import('./prospectus/prospectus-testimonials/prospectus-testimonials.module').then( m => m.ProspectusTestimonialsPageModule)
+  },
+  {
     path: 'home', // http://localhost:4200/home
     loadChildren: () => import('./prospectus/prospectus-home/prospectus-home.module').then( m => m.ProspectusHomePageModule)
+  },
+  {
+    path: 'favourite-courses', // http://localhost:4200/favourite-courses
+    loadChildren: () => import('./prospectus/favourite-courses/favourite-courses.module').then( m => m.FavouriteCoursesPageModule)
   }
+
 
 
 ];

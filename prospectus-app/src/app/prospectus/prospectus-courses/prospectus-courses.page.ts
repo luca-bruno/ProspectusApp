@@ -30,7 +30,7 @@ export class ProspectusCoursesPage implements OnInit {
   /**
    * Navigates to the back link. 
    */
-  public navigate(): void {
+  public navigateBack(): void {
     this.navCtrl.back();
   }
 

@@ -2,12 +2,12 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 
 @Component({
-  selector: 'app-prospectus-courses-select',
-  templateUrl: './prospectus-courses-select.page.html',
-  styleUrls: ['./prospectus-courses-select.page.scss'],
+  selector: 'app-favourite-courses',
+  templateUrl: './favourite-courses.page.html',
+  styleUrls: ['./favourite-courses.page.scss'],
 })
-export class ProspectusCoursesSelectPage implements OnInit {
-  
+export class FavouriteCoursesPage implements OnInit {
+
   constructor(
     public router: Router
   ) { }
@@ -17,7 +17,7 @@ export class ProspectusCoursesSelectPage implements OnInit {
   /**
     * Navigates to the  link. 
     */
-    public courseview(): void {
+    public courseviewNav(): void {
     this.router.navigateByUrl('/courses/view')
   }
 }
