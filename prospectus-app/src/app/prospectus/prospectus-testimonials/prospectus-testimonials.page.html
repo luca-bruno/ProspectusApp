@@ -1,17 +1,19 @@
 <app-header-regular title="Student Testimonials"></app-header-regular>
 
 <ion-content>
-  
   <div class="center">
     <ion-slides class="testimonial-slider" pager="true">
-
+      
+      <!-- 'Testimonial' slide -->
       <ion-slide>
         <div class="testimonial-card">
-          <div [ngStyle]="{ 'background-image': 'url(https://gravatar.com/avatar/dba6bae8c566f9d4041fb9cd9ada7741?d=identicon&f=y)' }"
-          class="background-image">
-        </div>
+          <!-- 'Testimonial' image -->
+          <div [ngStyle]="{ 'background-image': 'url(https://gravatar.com/avatar/dba6bae8c566f9d4041fb9cd9ada7741?d=identicon&f=y)' }" class="background-image"></div>
+          <!-- 'Testimonial' student name & age -->
           <h5 class="testimonial-student">Mark, 38</h5>
+          <!-- 'Testimonial' student qualification -->
           <h6 class="testimonial-qualification ion-text-wrap">Software Development</h6>
+          <!-- 'Testimonial' student description -->
           <p class="testimonial-description ion-text-wrap">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos aliquam corporis error dolores accusamus at vitae doloremque, sint consequatur dolor? Esse voluptates placeat architecto culpa ipsum molestias, libero ad expedita.</p>
         </div>
       </ion-slide>

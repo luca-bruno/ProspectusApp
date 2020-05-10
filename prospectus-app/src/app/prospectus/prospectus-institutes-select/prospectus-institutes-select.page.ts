@@ -15,7 +15,7 @@ export class ProspectusInstitutesSelectPage implements OnInit {
   ngOnInit() {}
   
   /**
-    * Navigates to the  link. 
+    * Navigates to the institute link. 
     */
     public institutesviewNav(): void {
     this.router.navigateByUrl('/institutes/view')

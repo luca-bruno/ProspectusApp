@@ -9,18 +9,25 @@ import { NavController } from '@ionic/angular';
 export class ProspectusCoursesPage implements OnInit {
   
   public toggleIcon = 'heart-outline';
+
+  /**
+   * Fills/unfills heart icon when toggled [different button printed]
+   */
   toggleSave(icon:string){
     if(this.toggleIcon === 'heart-outline'){
-      alert('Course added to favourites')
+      alert('Course added to favourites') //alert temporary
       this.toggleIcon = 'heart';
     }
     else{
-      alert('Course removed from favourites')
+      alert('Course removed from favourites') //alert temporary
       this.toggleIcon = 'heart-outline';
     }
-    //make icon fill in
   }
 
+  /**
+   * Add/remove course into/from array favouritesArray when toggled
+   */
+  
   constructor(
     public navCtrl: NavController
   ) { }
@@ -28,7 +35,7 @@ export class ProspectusCoursesPage implements OnInit {
   ngOnInit() {}
     
   /**
-   * Navigates to the back link. 
+   * Navigates back to the previously-accessed page. 
    */
   public navigateBack(): void {
     this.navCtrl.back();

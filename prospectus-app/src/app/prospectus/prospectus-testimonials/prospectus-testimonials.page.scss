@@ -1,47 +1,36 @@
-
-.testimonial-student {
-    font-size: 1.5em;
-}
-
-.testimonial-qualification {
-    margin-top: 3px;
-    font-size: 1em;
-}
-
 .testimonial-slider{
     --bullet-background: grey;
     --bullet-background-active: black;
 
-}
+    .testimonial-card{
 
-.testimonial-card{
+        .background-image{
+            background-size: cover;
+            margin: auto;
+            background-position: center;
+            position: relative;
+            height: 220px;
+            width: 220px;
+            border-radius: 150px;
+        }
 
-    .background-image{
-        background-size: cover;
-        margin: auto;
-        background-position: center;
-        position: relative;
-        height: 220px;
-        width: 220px;
-        border-radius: 150px;
-    }
+        .testimonial-student{
+            font-size: 1.2em;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
 
-    .testimonial-student{
-        padding-left: 15px;
-        padding-right: 15px;
-        margin-bottom: 15px;
-    }
+        .testimonial-qualification{
+            font-size: 1em;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
 
-    .testimonial-qualification{
-        padding-left: 15px;
-        padding-right: 15px;
-        margin-bottom: 15px;
-    }
-
-    .testimonial-description{
-        padding-left: 15px;
-        padding-bottom: 25px;
-        padding-right: 15px;
-        margin-bottom: 15px;
+        .testimonial-description{
+            padding-left: 15px;
+            padding-bottom: 25px;
+            padding-right: 15px;
+            margin-bottom: 15px;
+        }
     }
 }

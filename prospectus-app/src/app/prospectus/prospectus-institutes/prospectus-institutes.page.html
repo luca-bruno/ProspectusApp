@@ -4,18 +4,20 @@
   <ion-grid>
     <ion-row>
       <ion-col>
-        <div class="ion-text-left" id="institute-acronym">
+        <div class="ion-text-left institute-acronym">
           IICT
         </div>
 
-        <div id="institute-name">
+        <div class="institute-name">
           Institute of Information and Communication Technology
         </div>
       </ion-col>
 
+      <!-- 'Find Us' button -->
+        <!-- Redirects to Google Maps institute location -->
       <ion-col>
-        <div class="ion-text-right"> <!-- make so Masters+Generic+CPD have no FIND US -->
-          <ion-button href="https://www.google.com/maps?q=MCAST,+Triq+Kordin,+Paola&hl=en" >
+        <div class="ion-text-right"> <!-- make div/button hidden for Masters Degrees/Generic Degrees/CPD -->
+          <ion-button href="https://www.google.com/maps?q=MCAST,+Triq+Kordin,+Paola&hl=en">
             <ion-icon name="location-outline" class="prospectus-icon"></ion-icon>
             <ion-label>Find Us</ion-label>
           </ion-button>
@@ -25,20 +27,21 @@
     </ion-row>
   </ion-grid>
 
-<!-- Institute info paragraph 1 -->
-  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom">
+  <!-- Institute info paragraph 1 -->
+  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom" style="margin-top: 16px">
     <ion-card-content>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
     </ion-card-content>
   </ion-card>
   
-<!-- Institute info paragraph 2 -->
+  <!-- Institute info paragraph 2 -->
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom">
     <ion-card-content>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
     </ion-card-content>
   </ion-card>
 
+  <!-- 'Course List' button -->
   <div class="ion-text-center">
     <ion-button (click)=courselistNav()>
       <ion-label>Course List</ion-label>

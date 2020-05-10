@@ -3,25 +3,29 @@
 <ion-content>
   <ion-list>
 
+    <!-- Display div if favouritesArray empty -->
     <div *ngIf="!favouritesArray || favouritesArray.length === 0" class="no-favourites ion-text-center" style="color: grey;">
-      You currently have no courses favourited. <!-- show div if favouritesArray empty -->
+      You currently have no courses favourited.
     </div>
 
+    <!-- Display div if favouritesArray populated w/ 1 entry or more -->
     <!-- <div *ngIf="favouritesArray || favouritesArray.length > 0">
       <ion-row *ngFor="let item of favouritesArray">
               <ion-button id="course-button" (click)="courseviewNav()">
-                <div class="ion-text-wrap">
-                  {{item.course}}
+                <div class="course-name ion-text-wrap">
+                  {{course}}
               </div>
               </ion-button>
           </ion-row>
       </div>
     -->
 
-    <ion-button id="course-button" (click)="courseviewNav()">
+
+    <!-- Course button to show above -->
+    <ion-button class="course-button" (click)="courseviewNav()">
       <ion-grid>
         <ion-row>
-          <div class="ion-text-wrap">
+          <div class="course-name ion-text-wrap">
             Bachelor of Arts (Honours) in Interactive Media
           </div>
         </ion-row>

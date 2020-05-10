@@ -19,7 +19,7 @@ export class FavouriteCoursesPage implements OnInit {
   ngOnInit() {}
   
   /**
-    * Navigates to the  link. 
+    * Navigates to the course link. 
     */
     public courseviewNav(): void {
     this.router.navigateByUrl('/courses/view')

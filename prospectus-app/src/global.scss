@@ -33,7 +33,7 @@
     font-size: 30px;
 }
 
-#institute-acronym{
+.institute-acronym{
     font-size: 2rem;
 }
 
@@ -41,8 +41,11 @@
     font-size: 1.1rem;
 }
 
-#course-button {
+.course-button {
     position: relative;
     height: auto;
     font-size: 0.9em;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
 }

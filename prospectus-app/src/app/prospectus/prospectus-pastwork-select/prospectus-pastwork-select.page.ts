@@ -15,7 +15,7 @@ export class ProspectusPastworkSelectPage implements OnInit {
   ngOnInit() {}
   
   /**
-    * Navigates to the  link. 
+    * Navigates to the past work link. 
     */
     public pastworkviewNav(): void {
     this.router.navigateByUrl('/pastwork/view')

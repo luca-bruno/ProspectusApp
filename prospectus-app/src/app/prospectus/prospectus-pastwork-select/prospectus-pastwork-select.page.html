@@ -4,13 +4,16 @@
   
   <div class="center">
     <ion-slides class="pastwork-slider" pager="true">
-
+      
+      <!-- 'Past work' slide -->
       <ion-slide>
         <div class="pastwork-card">
-          <div [ngStyle]="{ 'background-image': 'url(https://agcdn-2mrybbgckm7omi0k.netdna-ssl.com/wp-content/uploads/2019/10/alphagamma-Young-Social-Entrepreneurs-Programme-opportunities-1024x682.jpg)' }"
-          class="background-image ion-activatable ripple-parent" (click)="pastworkviewNav()">
-          <ion-ripple-effect></ion-ripple-effect>
-        </div>
+          <!-- 'Past work' image -->
+            <!-- Ripple effect for button UI responsiveness -->
+          <div [ngStyle]="{ 'background-image': 'url(https://agcdn-2mrybbgckm7omi0k.netdna-ssl.com/wp-content/uploads/2019/10/alphagamma-Young-Social-Entrepreneurs-Programme-opportunities-1024x682.jpg)' }" class="background-image ion-activatable ripple-parent" (click)="pastworkviewNav()">
+            <ion-ripple-effect></ion-ripple-effect>
+          </div>
+          <!-- 'Past work' title -->
           <h5 class="pastwork-title">Youth start-up WebPower takes home 2020 Business Award</h5>
         </div>
       </ion-slide>

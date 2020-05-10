@@ -8,18 +8,21 @@ import { Component, OnInit } from '@angular/core';
 export class ProspectusHomePage implements OnInit {
   
   public boldLang = 'boldLang1';
+
+  /**
+   * Boldens different language when toggled [different div printed]
+   */
   toggleLang(string){
     if(this.boldLang === 'boldLang1'){
-      alert('Lingwa mibdula għall-Malti')
+      alert('Lingwa mibdula għall-Malti') //debug confirmation, remove
       this.boldLang = 'boldLang2';
     }
     else if (this.boldLang === 'boldLang2'){
-      alert('Language switched to English')
+      alert('Language switched to English') //debug confirmation, remove
       this.boldLang = 'boldLang1';
     }
   }
 
-    //make icon switch/bold
   constructor() { }
 
   ngOnInit() {

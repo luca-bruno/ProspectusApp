@@ -7,6 +7,11 @@ import { Router } from '@angular/router';
   styleUrls: ['./prospectus-institutes.page.scss'],
 })
 export class ProspectusInstitutesPage implements OnInit {
+  
+  /**
+   * Hide 'Find Us' div/button when Masters Degrees/Generic Degrees/CPD selected
+   * ngIF url contains?
+   */
 
   constructor(
     public router: Router
@@ -15,7 +20,7 @@ export class ProspectusInstitutesPage implements OnInit {
   ngOnInit() {}
   
   /**
-    * Navigates to the  link. 
+    * Navigates to the select course list link. 
     */
     public courselistNav(): void {
     this.router.navigateByUrl('/courses/select')

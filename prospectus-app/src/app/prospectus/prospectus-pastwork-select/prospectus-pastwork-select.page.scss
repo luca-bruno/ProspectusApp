@@ -2,21 +2,20 @@
     --bullet-background: grey;
     --bullet-background-active: black;
 
-}
+    .pastwork-card{
 
-.pastwork-card{
+        .background-image{
+            padding-bottom: 120%;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
 
-    .background-image{
-        padding-bottom: 120%;
-        background-size: cover;
-        background-position: center;
-        position: relative;
-    }
-
-    .pastwork-title{
-        padding-left: 15px;
-        padding-right: 15px;
-        padding-bottom: 25px;
-        margin-bottom: 15px;
+        .pastwork-title{
+            padding-left: 15px;
+            padding-right: 15px;
+            padding-bottom: 25px;
+            margin-bottom: 15px;
+        }
     }
 }

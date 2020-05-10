@@ -1,6 +1,7 @@
 <ion-header class="ion-no-border">
   <ion-toolbar>
     <ion-buttons slot="start">
+      <!-- 'Menu' hamburger toggle button -->
       <ion-menu-toggle>
       <ion-button>
         <ion-icon name="menu-outline" slot="icon-only"></ion-icon>
@@ -9,27 +10,30 @@
     </ion-buttons>
 
     <ion-buttons slot="end">
+      <!-- 'Language' toggle button -->
+        <!-- Displays div depending on language, bold language denotes selected -->
       <ion-button id="lang-button" (click)="toggleLang()" (click)="hidden = !hidden">
-        <div *ngIf="!hidden" [id]="boldLang1"><b>EN /</b><br>
+        <div *ngIf="!hidden" [class]="boldLang1"><b>EN /</b><br>
         MT</div>
-        <!-- make so change respective language bold -->
-        <div *ngIf="hidden" [id]="boldLang2">EN /<br>
+        <div *ngIf="hidden" [class]="boldLang2">EN /<br>
           <b>MT</b></div>
-          <!-- make so change respective language bold -->
       </ion-button>
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
+  <!-- 'Welcome' label -->
   <div class="ion-text-center" id="welcome-text">
     <ion-label>Welcome</ion-label>
   </div>
 
+  <!-- 'MCAST' logo -->
   <div id="mcast-logo">
-    <img src="https://www.mcast.edu.mt/wp-content/uploads/2019/01/MCASTMAINL4.png" alt="">
+    <img src="https://www.mcast.edu.mt/wp-content/uploads/2019/01/MCASTMAINL4.png"> <!-- swap with local colour-matched edit -->
   </div>
 
+    <!-- 'Academic Year' label -->
   <div class="ion-text-center" id="welcome-subtext">
     <ion-label>Academic Year 2020/21</ion-label>
   </div>

@@ -1,20 +1,18 @@
 #welcome-text{
     margin-top: 40px;
     letter-spacing: 17px;
-        /* to compensate for letter 
-        spacing post final letter */
     margin-right: -17px;
+        //to compensate for letter spacing post-final letter
 }
 
 #welcome-subtext{
-    /* subtitle pinned to bottom of page */
+    // subtitle pinned to bottom of page
     position: absolute;
     bottom: 100px;
     width: 100%;
     letter-spacing: 2px;
-        /* to compensate for letter 
-        spacing post final letter */
     margin-right: -2px;
+        //to compensate for letter spacing post-final letter
 }
 
 #mcast-logo{
