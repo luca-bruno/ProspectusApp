@@ -33,7 +33,7 @@
         <!-- 'More Info' button -->
           <!-- Redirects to specific course page on MCAST website -->
         <ion-button href="https://www.mcast.edu.mt/courses/ad6-05-19/">
-          <ion-icon name="earth-outline" class="prospectus-icon"></ion-icon>
+          <ion-icon name="earth-outline" class="prospectus-button-icon"></ion-icon>
           <ion-label>More Info</ion-label>
       </ion-button>
       </div>
@@ -41,7 +41,7 @@
   </ion-row>
 </ion-grid>
 
-  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom course-description-card">
+  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom course-description">
     <!-- Course info paragraph -->
     <ion-card-content>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
@@ -50,25 +50,25 @@
   </ion-card>
 
   <ion-grid class="course-sub-grid">
-    <ion-row>
+    <ion-row style="align-items: center">
 
         <!-- 'MQF Level' label -->
-        <ion-col class="ion-text-left mqf-col">
-            <ion-icon name="school-outline" class="prospectus-icon"></ion-icon>  
-            <ion-label>MQF Level 6</ion-label>
+        <ion-col class="ion-text-left course-details"> 
+          <ion-icon name="school-outline" class="prospectus-icon"></ion-icon>  
+            <ion-label class="course-detail">MQF Level 6</ion-label>
         </ion-col>
   
         <!-- 'Course length' label -->
-        <ion-col class="separator-col ion-text-center course-length-col">
+        <ion-col class="separator-col ion-text-center">
             <ion-icon name="time-outline" class="prospectus-icon"></ion-icon>
-            <ion-label>3 Years</ion-label>
+            <ion-label class="course-detail">3 Years</ion-label>
         </ion-col>
   
         <!-- 'Share' button -->
           <!-- Redirects to Facebook sharing option with specific MCAST course website link -->
-        <ion-col class="ion-text-right share-col">
+        <ion-col class="ion-text-right">
             <ion-button href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mcast.edu.mt%2Fcourses%2Fad6-05-19%2F">
-              <ion-icon name="share-social-outline" class="prospectus-icon"></ion-icon>
+              <ion-icon name="share-social-outline" class="prospectus-button-icon"></ion-icon>
               <ion-label>Share</ion-label>
           </ion-button>
         </ion-col>
@@ -81,7 +81,7 @@
     <!-- 'Course Requirements' label -->
     <ion-card-content>
       <ion-icon name="book-outline" class="prospectus-icon"></ion-icon>
-      <ion-label>Requirements</ion-label>
+      <ion-label class="course-detail">Requirements</ion-label>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
     </ion-card-content>
 
@@ -92,7 +92,7 @@
     <!-- 'Career Opportunities' label -->
     <ion-card-content>
       <ion-icon name="briefcase-outline" class="prospectus-icon"></ion-icon>
-      <ion-label>Career Opportunities</ion-label>
+      <ion-label class="course-detail">Career Opportunities</ion-label>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
     </ion-card-content>
 
