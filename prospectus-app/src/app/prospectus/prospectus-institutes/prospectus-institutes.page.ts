@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
+import { ProspectusService } from 'src/app/services/prospectus.service';
+import { ActivatedRoute } from '@angular/router';
+
 
 @Component({
   selector: 'app-prospectus-institutes',
@@ -7,6 +9,12 @@ import { Router } from '@angular/router';
   styleUrls: ['./prospectus-institutes.page.scss'],
 })
 export class ProspectusInstitutesPage implements OnInit {
+    
+    /**
+     * The institute to be used with this page.
+     */
+    public institute: any = null;
+    public course: any = null;
   
   /**
    * Hide 'Find Us' div/button when Masters Degrees/Generic Degrees/CPD selected
@@ -14,16 +22,14 @@ export class ProspectusInstitutesPage implements OnInit {
    */
 
   constructor(
-    public router: Router
+    public route: ActivatedRoute,
+    public prospectusService: ProspectusService
   ) { }
 
-  ngOnInit() {}
+  ngOnInit() 
+  {  
+    const code = this.route.snapshot.params.code;
+    this.institute = this.prospectusService.getInstitute(code);
   
-  /**
-    * Navigates to the select course list link. 
-    */
-    public courselistNav(): void {
-    this.router.navigateByUrl('/courses/select')
-
   }
 }

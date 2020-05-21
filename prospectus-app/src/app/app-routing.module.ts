@@ -15,7 +15,7 @@ const routes: Routes = [
     path: 'institutes',
     children: [
     {
-      path: 'view', // http://localhost:4200/institutes/view
+      path: 'view/:code', // http://localhost:4200/institutes/view/institute-code
       loadChildren: () => import('./prospectus/prospectus-institutes/prospectus-institutes.module').then( m => m.ProspectusInstitutesPageModule)
     
       },
@@ -29,12 +29,12 @@ const routes: Routes = [
     path: 'courses',
     children: [
     {
-      path: 'view', // http://localhost:4200/courses/view
+      path: 'view/:code', // http://localhost:4200/courses/view/course-code
       loadChildren: () => import('./prospectus/prospectus-courses/prospectus-courses.module').then( m => m.ProspectusCoursesPageModule)
     
       },
       {
-      path: 'select', // http://localhost:4200/courses/select
+      path: 'select/:code', // http://localhost:4200/courses/select/institute-code
       loadChildren: () => import('./prospectus/prospectus-courses-select/prospectus-courses-select.module').then( m => m.ProspectusCoursesSelectPageModule)
       }
   ]

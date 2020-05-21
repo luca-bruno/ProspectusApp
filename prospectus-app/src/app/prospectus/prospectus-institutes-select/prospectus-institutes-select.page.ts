@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { ProspectusService } from 'src/app/services/prospectus.service';
 
 @Component({
   selector: 'app-prospectus-institutes-select',
@@ -8,17 +9,21 @@ import { Router } from '@angular/router';
 })
 export class ProspectusInstitutesSelectPage implements OnInit {
 
+    /**
+     * The institute list available to this page.
+     */
+    public institutes: any[] = [];
+
   constructor(
-    public router: Router
+    public router: Router,
+    
+    // if to be used in HTML, use public or ionic will give errors on build
+    public prospectusService: ProspectusService
   ) { }
 
-  ngOnInit() {}
-  
-  /**
-    * Navigates to the institute link. 
-    */
-    public institutesviewNav(): void {
-    this.router.navigateByUrl('/institutes/view')
+  ngOnInit() {
+    this.institutes = this.prospectusService.getInstitutes();
   }
+
 }
 

@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
+import { ProspectusService } from 'src/app/services/prospectus.service';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-prospectus-courses-select',
@@ -8,16 +9,24 @@ import { Router } from '@angular/router';
 })
 export class ProspectusCoursesSelectPage implements OnInit {
   
+    /**
+     * The institute to be used with this page.
+     */
+    public institute: any = null;
+
+        /**
+     * The institute to be used with this page.
+     */
+    public course: any = null;
+
   constructor(
-    public router: Router
+    public route: ActivatedRoute,
+    public prospectusService: ProspectusService
   ) { }
 
-  ngOnInit() {}
-  
-  /**
-    * Navigates to the course link. 
-    */
-    public courseview(): void {
-    this.router.navigateByUrl('/courses/view')
+  ngOnInit() {
+    const code = this.route.snapshot.params.code;
+    this.institute.course = this.prospectusService.getCourse(code);
   }
+
 }

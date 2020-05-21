@@ -4,12 +4,12 @@
   <ion-grid>
     <ion-row>
       <ion-col>
-        <div class="ion-text-left institute-acronym">
-          IICT
+        <div class="ion-text-left institute-acronym ion-text-uppercase">
+            {{ institute.code }}
         </div>
 
         <div class="institute-name">
-          Institute of Information and Communication Technology
+            {{ prospectusService.getInstituteName(institute) }}
         </div>
       </ion-col>
 
@@ -43,7 +43,7 @@
 
   <!-- 'Course List' button -->
   <div class="ion-text-center">
-    <ion-button (click)=courselistNav()>
+    <ion-button [routerLink]="['/courses', 'select', institute.courses.code]" >
       <ion-label>Course List</ion-label>
     </ion-button>
   </div>

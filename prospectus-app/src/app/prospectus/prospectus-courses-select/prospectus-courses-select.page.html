@@ -3,36 +3,19 @@
 <ion-content>
   <ion-list>
     
-    <ion-button class="course-button" (click)="courseview()">
+    <ion-button class="course-button"             
+    *ngFor="let institute of institutes"
+    [ngStyle]="{ 'color': institute.color }"
+    [routerLink]="['/', 'institute', institute.code]">
       <ion-grid>
         <ion-row>
           <!-- Course name -->
           <div class="ion-text-wrap">
-            Bachelor of Arts (Honours) in Interactive Media
+            {{ prospectusService.getCourseName(course) }}a
           </div>
         </ion-row>
       </ion-grid>
     </ion-button>
     
-    <ion-button class="course-button" (click)="courseview()">
-      <ion-grid>
-        <ion-row>
-          <div class="ion-text-wrap">
-            Bachelor of Science (Honours) in Animal Management and Veterinary Nursing
-          </div>
-        </ion-row>
-      </ion-grid>
-    </ion-button>
-        
-    <ion-button class="course-button" (click)="courseview()">
-      <ion-grid>
-        <ion-row>
-          <div class="course-name ion-text-wrap">
-            Extended Diploma in Foundation Studies for Security, Enforcement and Protection
-          </div>
-        </ion-row>
-      </ion-grid>
-    </ion-button>
-
   </ion-list>
 </ion-content>

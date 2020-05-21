@@ -1,0 +1,1853 @@
+[
+    {
+        "code": "ias",
+        "color": "#5da733",
+        "name_en": "Institute of Applied Sciences",
+        "desc_en": "Applied Science relates to the application of scientific knowledge to practical challenges and jobs. At the Institute of Applied Sciences, learners are prepared for technological careers within the health, pharmaceutical, environmental, food and beverage, or general engineering sectors. Students learn to appreciate how the fundamental principles of science relate to the technological operations of the workplace, while developing the skills to work in laboratories, hospitals, farms, and with environmental technologies and methodologies, as well as to apply basic scientific principles in industrial settings. The Institute building at the Main Campus includes eleven fully-equipped laboratories for training and research in several scientific and technological fields. At the Centre for Agriculture, Aquatics and Animal Sciences at the Qormi Campus, learners make use of facilities required for studies in a more practical and hands-on approach.",
+        "name_mt": "",
+        "desc_mt": "Ix-Xjenza Applikata tirrigwarda l-applikazzjoni ta\u2019 g\u0127arfien xjentifiku g\u0127al sfidi u impjiegi pratti\u010bi. Fl-Istitut tax-Xjenzi Applikati, l-istudenti jit\u0127ejjew g\u0127al karrieri teknolo\u0121i\u010bi fis-setturi tas-sa\u0127\u0127a, tal-farma\u010bewtika, ambjentali, tal-ikel u x-xorb, jew setturi \u0121enerali tal-in\u0121inerija. L-istudenti jitg\u0127allmu japprezzaw kif il-prin\u010bipji fundamentali tax-xjenza jirrelataw mal-operazzjonijiet teknolo\u0121i\u010bi tal-post tax-xog\u0127ol, filwaqt li ji\u017cviluppaw il-\u0127iliet biex ja\u0127dmu f\u2019laboratorji, sptarijiet, azjendi agrikoli, u b\u2019teknolo\u0121iji u metodolo\u0121iji ambjentali, kif ukoll kif japplikaw prin\u010bipji xjentifi\u010bi ba\u017ci\u010bi f\u2019ambjenti industrijali. Il-bini tal-Istitut fil-kampus ewlieni jinkludi \u0127dax-il laboratorju mg\u0127ammar b\u2019mod s\u0127i\u0127 g\u0127at-ta\u0127ri\u0121 u r-ri\u010berka f\u2019diversi oqsma xjentifi\u010bi u teknolo\u0121i\u010bi. Fi\u010b-\u010aentru tal-Agrikultura, Akkwatika u x-Xjenza tal-Annimali fil-kampus ta\u2019 \u0126al Qormi, l-istudenti jkunu qed jag\u0127mlu u\u017cu minn fa\u010bilitajiet li huma me\u0127tie\u0121a sabiex jag\u0127mlu l-istudji tag\u0127hom f\u2019ambjent aktar prattiku.",
+        "courses": [
+            {
+                "index": "01-01",
+                "institute": "ias",
+                "code": "AS1-01-19",
+                "title": "Introductory Certificate in Applied Science",
+                "desc_en": [
+                    "This programme of studies aims to provide the learner with the basic knowledge of science and technology and how these apply to everyday life. The study-units deal with the different disciplines of science, hence giving the learner an overview of all the main scientific concepts necessary as a basis for further vocational studies within the science sector."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji g\u0127andu l-g\u0127an li jipprovdi lill-istudent l-g\u0127arfien ba\u017ciku tax-xjenza u t-teknolo\u0121ija u kif dawn japplikaw g\u0127all-\u0127ajja ta\u2019 kuljum. L-unitajiet ta\u2019 studju jindirizzaw id-dixxiplini differenti tax-xjenza u g\u0127aldaqstant jag\u0127tu lill-istudent \u0127arsa \u0121enerali lejn il-kun\u010betti xjentifi\u010bi ewlenin kollha me\u0127tie\u0121a b\u0127ala ba\u017ci g\u0127al studji vokazzjonali ulterjuri fis-settur tax-xjenza."
+                ],
+                "mqf": 1,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assessment Tests (as may be applicable)",
+                "careers": []
+            },
+            {
+                "index": "01-02",
+                "institute": "ias",
+                "code": "AS2-01-19",
+                "title": "Foundation Certificate in Applied Science",
+                "desc_en": [
+                    "This programme of studies is aimed at giving learners the opportunity to further their studies in several diverse science-related areas including environmental, health and industrial sciences. Learners will cover various topics such as Chemistry, Physics, Biology, English, Maltese, Mathematics and IT which will be taught in an applied manner that is relevant to the various science sectors in which employment may be sought with a higher qualification. This programme is particularly suitable for learners who have a scientific or technical aptitude, even if they have not decided fully on their ultimate career choice."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji g\u0127andu l-g\u0127an li jag\u0127ti lill-istudenti l-opportunit\u00e0 biex ikomplu l-istudji tag\u0127hom f\u2019diversi oqsma differenti relatati max-xjenza inklu\u017ci x-xjenzi ambjentali, tas-sa\u0127\u0127a u industrijali. L-istudenti jkopru diversi su\u0121\u0121etti b\u0127all-Kimika, il-Fi\u017cika, il-Bijolo\u0121ija, l-Ingli\u017c, il-Malti, il-Matematika u l-IT li se ji\u0121u mg\u0127allma b\u2019mod applikat li jkun rilevanti g\u0127ad-diversi setturi tax-xjenza li fihom jistg\u0127u jsibu impjieg bi kwalifika og\u0127la. Dan il-programm huwa partikolarment xieraq g\u0127all-istudenti li g\u0127andhom xe\u0127ta g\u0127al su\u0121\u0121etti xjentifi\u010bi jew tekni\u010bi, anke jekk ma jkunux g\u0127adhom idde\u010bidew liema karriera se jid\u0127lu g\u0127aliha."
+                ],
+                "mqf": 2,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education",
+                    "MCAST Introductory Certificate"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assessment Tests (as may be applicable)",
+                "careers": []
+            },
+            {
+                "index": "01-03",
+                "institute": "ias",
+                "code": "AS3-01-19",
+                "title": "Diploma in Applied Science",
+                "desc_en": [
+                    "This programme of studies provides a strong grounding in fundamental science and technology principles, as well as an initial exposure to vocational science subjects related to health, environment, food and engineering industries. The learner will be able to understand the fundamental principles and laws of science, and how these are applied within the industrial sector.",
+                    "The learner will also be able to understand the science of different materials, and gain an awareness of the principles behind certain technologies."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji jipprovdi ba\u017ci b\u2019sa\u0127\u0127itha g\u0127all-prin\u010bipji fundamentali tax-xjenza u t-teknolo\u0121ija, kif ukoll introduzzjoni g\u0127al su\u0121\u0121etti tax-xjenza vokazzjonali relatati mal-industriji tas-sa\u0127\u0127a, l-ambjent, l-ikel u l-in\u0121inerija. L-istudent ikun jista\u2019 jifhem il-prin\u010bipji fundamentali u l-li\u0121ijiet tax-xjenza, u kif dawn huma applikati fis-settur industrijali. L-istudent ikun jista\u2019 jifhem ukoll ix-xjenza ta\u2019 materjali differenti, u jikseb g\u0127arfien dwar il-prin\u010bipji wara \u010berti teknolo\u0121iji."
+                ],
+                "mqf": 3,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "MCAST Foundation Certificate",
+                    "2 SEC\/O-Level\/SSC&P (Level 3) passes from English Language, Mathematics, Physics, Chemistry, Biology, Design and Technology, Health and Social Care"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": []
+            },
+            {
+                "index": "01-04",
+                "institute": "ias",
+                "code": "AS4-01-19",
+                "title": "Advanced Diploma for Pharmacy Technicians",
+                "desc_en": [
+                    "This programme of studies is designed to provide learners with the skills, knowledge and competences necessary for a career as a pharmacy technician. Learners will be exposed to scientific and pharmaceutical principles and will be given a sound knowledge of health-related material, resulting in a holistic approach to effectively and competently embark on a career as a pharmacy technician.",
+                    "This programme of studies is designed to provide learners with all the technical skills, knowledge of procedures, legislation and responsibilities required for such a career and includes work-related training and practice."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji huwa mfassal biex jipprovdi lill-istudenti l-\u0127iliet, l-g\u0127arfien u l-kompetenzi me\u0127tie\u0121a g\u0127al karriera b\u0127ala tekniku farma\u010bewtiku. L-istudenti se jiltaqg\u0127u mal-prin\u010bipji xjentifi\u010bi u farma\u010bewti\u010bi u jing\u0127ataw g\u0127arfien sod ta\u2019 materjal relatat mas-sa\u0127\u0127a, li jirri\u017culta f\u2019appro\u010b\u010b \u0127olistiku biex wie\u0127ed jibda karriera b\u2019mod effettiv u kompetenti b\u0127ala tekniku farma\u010bewtiku.",
+                    "Dan il-programm ta\u2019 studji huwa mfassal biex jipprovdi lill-istudenti l-\u0127iliet tekni\u010bi, l-g\u0127arfien tal-pro\u010beduri, il-le\u0121i\u017clazzjoni u r-responsabbiltajiet kollha me\u0127tie\u0121a g\u0127al karriera b\u0127al din u jinkludi ta\u0127ri\u0121 u prattika relatati max-xog\u0127ol."
+                ],
+                "mqf": 4,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "MCAST Diploma in Applied Science",
+                    "MCAST Diploma in Health and Social Care (with additional module in Chemistry)",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "English Language, Mathematics, Chemistry",
+                "req_preferred": "Biology, Health and Social Care",
+                "req_other": "",
+                "careers": [
+                    "Pharmacy technician"
+                ]
+            },
+            {
+                "index": "01-05",
+                "institute": "ias",
+                "code": "AS4-A2-19",
+                "title": "Advanced Diploma in Applied Science",
+                "desc_en": [
+                    "This programme of studies is aimed at learners who wish to embark on a scientific career in a range of industries such as petrochemical, life sciences, health, pharmaceutics, and environment. The programme of studies contains a wide range of science and technology study-units that reflect aspects of employment within relevant industries.",
+                    "The learners will appreciate how the fundamental principles of science relate to the technological operations of the workplace. They will develop the necessary skills to work in a laboratory environment within the manufacturing industry, and to apply basic principles within the workplace."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji huwa mmirat lejn studenti li jixtiequ jibdew karriera xjentifika f\u2019firxa ta\u2019 industriji b\u0127al dawk relatati mal-petrokimika, ix-xjenzi tal-\u0127ajja, is-sa\u0127\u0127a, il-farma\u010bewtika u l-ambjent. Il-programm ta\u2019 studji jinkludi firxa wiesg\u0127a ta\u2019 unitajiet ta\u2019 studju fix-xjenza u t-teknolo\u0121ija li jirriflettu aspetti tal-impjiegi f\u2019industriji rilevanti.",
+                    "L-istudenti jirrikonoxxu kif il-prin\u010bipji fundamentali tax-xjenza jirrelataw mal-operazzjonijiet tekni\u010bi tal-post tax-xog\u0127ol. Huma ji\u017cviluppaw il-\u0127iliet ne\u010bessarji biex ja\u0127dmu f\u2019ambjent ta\u2019 laboratorju fl-industrija tal-manifattura, u biex japplikaw il-prin\u010bipji ba\u017ci\u010bi fuq il-post tax-xog\u0127ol."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Apprenticeship",
+                "req_entry": [
+                    "MCAST Diploma in Applied Science",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) from English Language, Mathematics, Physics, Chemistry, Biology, Design and Technology, Health and Social Care"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Laboratory analyst",
+                    "Laboratory technologist",
+                    "Scientific officer"
+                ]
+            },
+            {
+                "index": "01-06",
+                "institute": "ias",
+                "code": "AS4-03-20",
+                "title": "Advanced Diploma in Environmental Sustainability",
+                "desc_en": [
+                    "Awareness of environmental sustainability and related environmentally-based sectors are growing rapidly in Europe, with the Maltese government recently introducing various laws and standards on reducing global warming, climate change, low carbon emissions and the need for conservation in general. This programme of studies includes topics related to environmental monitoring, even within manufacturing industries, that are fundamental to the development of environmental awareness, and provides the necessary practical skills and techniques. Employment is typically within environmental sustainability sector-based organisations, as well as within medium to large organisations that face many environmental challenges, such as waste management, alternative energy sources, traffic management and pollution, on a daily basis."
+                ],
+                "desc_mt": [
+                    "Il-kuxjenza dwar is-sostenibbilt\u00e0 ambjentali u s-setturi relatati li huma bba\u017cati fuq l-ambjent qed tikber b\u2019mod rapidu fl-Ewropa, u dan l-a\u0127\u0127ar il-gvern Malti introdu\u010ba diversi li\u0121ijiet u standards dwar it-tnaqqis tat-tis\u0127in globali, it-tibdil fil-klima, il-livell baxx ta\u2019 emissjonijiet tal-karbonju u l-\u0127tie\u0121a g\u0127all-konservazzjoni b\u2019mod \u0121enerali. Dan il-programm ta\u2019 studji jinkludi su\u0121\u0121etti relatati mal-monitora\u0121\u0121 ambjentali, anke fi \u0127dan industriji tal-manifattura, li huma fundamentali g\u0127all-i\u017cvilupp ta\u2019 kuxjenza ambjentali, u jipprovdi l-\u0127iliet u t-teknika prattika ne\u010bessarji. L-impjieg huwa tipikament f\u2019organizzazzjonijiet ibba\u017cati fuq is-settur tas-sostenibbilt\u00e0 ambjentali, kif ukoll fi \u0127dan organizzazzjonijiet medji sa kbar li jiffa\u010b\u010bjaw \u0127afna sfidi ambjentali fuq ba\u017ci ta\u2019 kuljum, b\u0127all-immani\u0121\u0121jar tal-iskart, is-sorsi alternattivi\tta\u2019 ener\u0121ija, il-\u0121estjoni tat-traffiku u t-tni\u0121\u0121is."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "MCAST Diploma in Applied Science",
+                    "MCAST Diploma in Mechanical Engineering",
+                    "MCAST Diploma in Engineering (Electronics)",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "At least three (3) from English Language, Mathematics, Physics, Chemistry, Biology, Design and Technology, Computer Studies, Environmental Studies",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Technical project manager",
+                    "Environmental technologist",
+                    "Environmental analyst"
+                ]
+            },
+            {
+                "index": "01-07",
+                "institute": "ias",
+                "code": "AS4-04-19",
+                "title": "Advanced Diploma in Health Sciences",
+                "desc_en": [
+                    "This programme of studies has been developed to prepare individuals for health-related careers. The study-units deal with the anatomy and physiology of the human body, the physical and psychological changes due to aging, and will help learners to build competences that will help when dealing with people with health issues and challenging behaviour.",
+                    "Through work placements, learners will get the opportunity to develop the skills and competences required to work within the health sector."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji \u0121ie \u017cviluppat biex i\u0127ejji lill-istudenti g\u0127al karrieri relatati mas-sa\u0127\u0127a. L-unitajiet ta\u2019 studju jindirizzaw l-anatomija u l-fi\u017cjolo\u0121ija tal-\u0121isem tal-bniedem, it-tibdil fi\u017ciku u psikolo\u0121iku min\u0127abba x-xju\u0127ija, u jg\u0127in lill-istudenti ji\u017cviluppaw kompetenzi li jg\u0127inuhom jitg\u0127allmu kif i\u0121ibu ru\u0127hom ma\u2019 persuni bi problemi ta\u2019 sa\u0127\u0127a u ta\u2019 m\u0121iba diffi\u010bli.",
+                    "Permezz ta\u2019 ta\u0127ri\u0121 fuq il-post tax-xog\u0127ol, l-istudenti jkollhom l-opportunit\u00e0 li ji\u017cviluppaw il-\u0127iliet u l-kompetenzi me\u0127tie\u0121a biex ja\u0127dmu fis-settur tas-sa\u0127\u0127a."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "MCAST Diploma in Applied Science",
+                    "MCAST Diploma in Health and Social Care",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "English Language, Mathematics, Biology",
+                "req_preferred": "Maltese, Chemistry, Health and Social Care",
+                "req_other": "",
+                "careers": [
+                    "Allied health assistant",
+                    "Paramedic aide",
+                    "Health administrator"
+                ]
+            },
+            {
+                "index": "01-08",
+                "institute": "ias",
+                "code": "TC4-A1-18",
+                "title": "Advanced Diploma in Food Technology",
+                "desc_en": [
+                    "The food and beverage industry is a dynamic sector which requires a number of highly skilled technical people to cope with constantly changing customers\u2019 demands and new innovative production technologies. Food technologists monitor day-to-day manufacturing activities; ensure that safety and quality standards are met; improve existing products and design innovative foods and drinks. This is a multidisciplinary programme offered across four Institutes and includes topics on food analysis, product manufacturing, food safety, cost accounting and product design. The programme provides learners with the opportunity to gain knowledge of the industry and insights into the relevant tools and skills through work-based elements. This programme prepares learners for employment within SMEs as well as medium to large organizations which produce a range of food and drink products."
+                ],
+                "desc_mt": [
+                    "L-industrija tal-ikel u x-xorb hija settur dinamiku li jirrikjedi g\u0127add ta\u2019 persuni tekni\u010bi bi kwalifiki g\u0127oljin biex ila\u0127\u0127qu mad-domandi tal-konsumaturi li dejjem jinbidlu u mat-teknolo\u0121iji tal-produzzjoni \u0121odda u innovattivi. It-teknolo\u0121isti tal-ikel jissorveljaw attivitajiet ta\u2019 manifattura minn jum g\u0127all-ie\u0127or; ji\u017cguraw li ji\u0121u sodisfatti l-istandards ta\u2019 sikurezza u ta\u2019 kwalit\u00e0; itejbu prodotti e\u017cistenti u jiddisinjaw ikel u xarbiet \u0121odda u innovattivi.",
+                    "Dan huwa programm multidixxiplinari offrut f\u2019erba\u2019 Istituti u jinkludi su\u0121\u0121etti dwar l-anali\u017ci tal-ikel, il-manifattura tal-prodott, is-sikurezza tal-ikel, il-kontabilit\u00e0 tal-ispejje\u017c u d-disinn tal-prodott. Il-programm jipprovdi lill-istudenti l-opportunit\u00e0 li jiksbu g\u0127arfien dwar l-industrija u l-g\u0127odod u l-\u0127iliet rilevanti permezz ta\u2019 elementi bba\u017cati fuq ix-xog\u0127ol. Dan il-programm i\u0127ejji lill-istudenti g\u0127al impjieg fl-SMEs, kif ukoll f\u2019organizzazzjonijiet medji u kbar li jipprodu\u010bu firxa ta\u2019 prodotti ta\u2019 ikel u xorb."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Apprenticeship",
+                "req_entry": [
+                    "MCAST Diploma in Applied Science",
+                    "MCAST Diploma in Mechanical Engineering",
+                    "MCAST Diploma in Engineering (Electronics) 4",
+                    "SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "English Language, Mathematics, Home Economics, Physics, Chemistry, Biology, Design and Technology, Hospitality",
+                "req_other": "",
+                "careers": [
+                    "Food analyst",
+                    "Assistant food technologist",
+                    "Food product development technologist",
+                    "Food production supervisor",
+                    "Food quality assurance technician"
+                ]
+            },
+            {
+                "index": "01-09",
+                "institute": "ias",
+                "code": "AS6-01-19",
+                "title": "Bachelor of Science (Honours) in Chemical Technology",
+                "desc_en": [
+                    "This undergraduate course offers an opportunity to learners to gain a foundation in the core chemistry concepts and the manufacture of chemical products, such as pharmaceuticals, polymers, foods, beverages and petrochemicals. The knowledge, skills and competences attained give individuals an opportunity to succeed in employment in a wide range of manufacturing and processing industries, consulting firms, government, research and educational institutions. The course exposes learners to the development and design of chemical processes at different scales and creates a bridge between science and manufacturing, by applying the principles of chemistry and engineering to solve problems involving the production or use of chemicals. The programme also provides opportunities for learners to focus on the development of higher level skills in a scientific and technological context."
+                ],
+                "desc_mt": [
+                    "Dan il-kors li jwassal g\u0127al ba\u010bellerat joffri opportunit\u00e0 lill-istudenti biex jiksbu ba\u017ci soda fil-kun\u010betti ewlenin tal-kimika u l-manifattura ta\u2019 prodotti kimi\u010bi, b\u0127al prodotti farma\u010bewti\u010bi, polimeri, ikel, xorb u prodotti petrokimi\u010bi. L-g\u0127arfien, il-\u0127iliet u l-kompetenzi miksuba jag\u0127tu lill-individwi l-opportunit\u00e0 biex jirnexxu fl-impjieg f\u2019firxa wiesg\u0127a ta\u2019 industriji tal-manifattura u tal-ippro\u010bessar, ta\u2019 ditti ta\u2019 konsulenza, mal-gvern, u ma\u2019 istituzzjonijiet ta\u2019 ri\u010berka u edukattivi. Il-kors jesponi lill-istudenti g\u0127all-i\u017cvilupp u d-disinn ta\u2019 pro\u010bessi kimi\u010bi fi skali differenti u jo\u0127loq pont bejn ix-xjenza u l-manifattura, bl-applikazzjoni tal-prin\u010bipji tal-kimika u l-in\u0121inerija biex ji\u0121u solvuti problemi li jinvolvu l-produzzjoni jew l-u\u017cu ta\u2019 sustanzi kimi\u010bi. Il-programm jipprovdi wkoll opportunitajiet g\u0127all-istudenti biex jiffokaw fuq l-i\u017cvilupp ta\u2019 \u0127iliet ta\u2019 livell og\u0127la f\u2019kuntest xjentifiku u teknolo\u0121iku."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Applied Science",
+                    "2 A-Level Passes and 2 I-Level Passes"
+                ],
+                "req_compusolry": "A-Level Chemistry",
+                "req_preferred": "I-or A-Level: Biology or Physics or Mathematics (Pure or Applied)",
+                "req_other": "",
+                "careers": [
+                    "Senior laboratory analyst",
+                    "Laboratory administrator",
+                    "Validation specialist",
+                    "Chemical plant administrator"
+                ]
+            },
+            {
+                "index": "01-10",
+                "institute": "ias",
+                "code": "AS6-02-19",
+                "title": "Bachelor of Science (Honours) in Environmental Engineering",
+                "desc_en": [
+                    "The protection of natural resources, CO2 emissions, climate change and its effects, and demographic changes, are increasingly important topics in the local and international context. The programme merges classical engineering with natural sciences. Environmental engineering deals with engineering solutions for environmentally relevant challenges of our future. This course provides learners with the ability to use problem-solving approaches for dealing with ecological and technical challenges, in order to creatively arrive at a situation of resource sustainability. The course is a challenging, technically-oriented programme that offers learners a broad range of fields of application. Environmental engineers can be active in the planning, construction and operation of environmental technological facilities, in research and teaching, environmental organisations, administration, and consultancy businesses of their own."
+                ],
+                "desc_mt": [
+                    "Il-protezzjoni tar-ri\u017corsi naturali, l-emissjonijiet tas-CO2, it-tibdil fil-klima u l-effetti tieg\u0127u, u t-tibdil demografiku, huma su\u0121\u0121etti li qed isiru dejjem aktar importanti fil-kuntest lokali u internazzjonali. Il-programm jg\u0127aqqad l-in\u0121inerija klassika max-xjenzi naturali. L-in\u0121inerija ambjentali tittratta soluzzjonijiet tal-in\u0121inerija g\u0127al sfidi ambjentali li se niffa\u010b\u010bjaw fil-futur. Dan il-kors iwassal biex l-istudenti jkunu kapa\u010bi jsibu soluzzjonijiet li jindirizzaw sfidi ekologi\u010bi u tekni\u010bi bil-g\u0127an li tintla\u0127aq sitwazzjoni ta\u2019 sostenibbilt\u00e0 tar-ri\u017corsi.",
+                    "Il-kors huwa programm impenjattiv, orjentat lejn it-teknolo\u0121ija u joffri lill-istudenti firxa wiesg\u0127a ta\u2019 oqsma ta\u2019 applikazzjoni. L-in\u0121iniera ambjentali jistg\u0127u jkunu attivi fl-ippjanar, fil-kostruzzjoni u l-operat ta\u2019 fa\u010bilitajiet teknolo\u0121i\u010bi ambjentali, fir-ri\u010berka u t-tag\u0127lim, f\u2019organizzazzjonijiet ambjentali, fl-amministrazzjoni u f\u2019negozji ta\u2019 konsulenza tag\u0127hom stess."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Environmental Sustainability",
+                    "MCAST Advanced Diploma in Applied Science",
+                    "2 A-Level Passes and 2 I-Level Passes"
+                ],
+                "req_compusolry": "I-or A-Level Physics or Mathematics (Pure or Applied), Biology, Chemistry, Geography, Enviromental Studies",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Water project manager",
+                    "Alternative energy manager",
+                    "Environmental sales engineer",
+                    "Environmental regulator"
+                ]
+            },
+            {
+                "index": "01-11",
+                "institute": "ias",
+                "code": "AS6-03-19",
+                "title": "Bachelor of Science (Honours) in Health Sciences (Physiological Measurements)",
+                "desc_en": [
+                    "This degree programme is intended for learners who wish to pursue studies which will provide them with the appropriate competences for the measurement and imaging of the human body\u2019s physiological activity. Scientists qualified in this field team up with various other health professionals and provide the diagnostic information which is vital to the medical profession in the treatment of several medical conditions. This three-year programme will provide the learner with the knowledge, clinical training and skills necessary to gain the professional qualifications required to work as a healthcare science practitioner in the area of clinical physiology."
+                ],
+                "desc_mt": [
+                    "Dan il-programm li jwassal g\u0127al ba\u010bellerat huwa ma\u0127sub g\u0127all-istudenti li jixtiequ jkomplu bl-istudji tag\u0127hom f\u2019oqsma li jipprovdulhom il-kompetenzi xierqa biex jiksbu tag\u0127rif dwar l-attivit\u00e0 fi\u017cjolo\u0121ika tal-\u0121isem tal-bniedem. Ix-xjentisti kwalifikati f\u2019dan il-qasam jing\u0127aqdu ma\u2019 diversi professjonisti o\u0127ra fil-qasam tas-sa\u0127\u0127a u jipprovdu l-informazzjoni dijanjostika li hija vitali g\u0127all-professjoni medika fir-rigward tat-trattament ta\u2019 diversi kondizzjonijiet medi\u010bi.",
+                    "Dan il-programm ta\u2019 tliet snin jipprovdi lill-istudent it-tag\u0127rif, it-ta\u0127ri\u0121 kliniku u l-\u0127iliet ne\u010bessarji biex jikseb il-kwalifiki professjonali me\u0127tie\u0121a biex ja\u0127dem b\u0127ala prattikant xjentifiku kkwalifikat fil-qasam tal-fi\u017cjolo\u0121ija klinika."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma for Pharmacy Technicians",
+                    "MCAST Advanced Diploma in Health Sciences",
+                    "2 A-Level passes and 2 I-Level passes"
+                ],
+                "req_compusolry": "A-Level Biology",
+                "req_preferred": "Chemistry, Physics",
+                "req_other": "",
+                "careers": [
+                    "Health practitioner (physiological measurements)"
+                ]
+            },
+            {
+                "index": "01-12",
+                "institute": "ias",
+                "code": "AS6-04-20",
+                "title": "Northumbria University Bachelor of Science (Honours) in Nursing Studies",
+                "desc_en": [
+                    "This Northumbria University programme offered in collaboration with MCAST provides learners with the necessary competences and qualifications required to register as a nurse (level 1) in Malta and across all EU member states. Learners will pursue a minimum of 2,300 hours of theoretical work and 2,300 hours of practical work (most of which is carried out on placement) as stipulated by EU directive 2005\/36\/EC, leading to a clinically skilled and compassionate nurse with professional values and who is fully capable of taking on accountable responsibility. Learners must successfully pass all theoretical and practical components of the course to be eligible for registration."
+                ],
+                "desc_mt": [
+                    "Dan il-programm tal-Universit\u00e0 ta\u2019 Northumbria offrut b\u2019kollaborazzjoni mal-MCAST jipprovdi lill-istudenti l-kompetenzi u l-kwalifiki ne\u010bessarji li huma me\u0127tie\u0121a biex jirre\u0121istraw b\u0127ala infermiera (tal-ewwel livell) f\u2019Malta u fl-Istati Membri kollha tal-UE. L-istudenti jkollhom minimu ta\u2019 2,300 sieg\u0127a ta\u2019 \u0127idma teoretika u 2,300 sieg\u0127a ta\u2019 \u0127idma prattika (li \u0127afna minnha ssir fuq il-post tax-xog\u0127ol) kif stipulat fid-Direttiva tal-UE 2005\/36\/KE, bil-g\u0127an li l-infermiera jkunu klinikament im\u0127arr\u0121a, juru kompassjoni, i\u0127addnu valuri professjonali u kapa\u010bi jie\u0127du r-responsabbilt\u00e0 fit-twettiq ta\u2019 dmirijiethom. L-istudenti jridu jg\u0127addu mill-partijiet teoreti\u010bi u pratti\u010bi kollha tal-kors biex ikunu eli\u0121ibbli g\u0127ar-re\u0121istrazzjoni."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Health Sciences",
+                    "MCAST Advanced Diploma for Pharmacy Technicians",
+                    "2 A-Level passes and 2 I-Level passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "A-Levels: Biology, English, Psychology, Sociology, Chemistry\\nI-Levels: Chemistry, Mathematics, Sociology",
+                "req_other": "Applicants will be subject to an occupational health screening and a values-based competitive interview to establish the suitability of candidates for nursing and that will ultimately act towards the final selection of candidates. Learners must also provide evidence of a clear criminal conduct.",
+                "careers": [
+                    "State registered nurse"
+                ]
+            },
+            {
+                "index": "01-13",
+                "institute": "ias",
+                "code": "AS6-05-20",
+                "title": "Bachelor of Science (Honours) in Environmental Health",
+                "desc_en": [
+                    "Prospective learners following this programme will be dealing with the various, often inter-related, facets of environmental health that include: public health; environmental health and safety; food and water safety; health aspects relating to domestic, leisure and workplace environments, and the impact of these various factors on the individual and on society at large. Learners will gain the knowledge, skills and competences on how to assess, analyse, devise and implement efficient solutions to environmental health issues, with a view that successful candidates may be employed in advisory, enforcement or educational positions. They will also learn about current local policies and legal frameworks that oversee the governance of these environmental health factors."
+                ],
+                "desc_mt": [
+                    "L-istudenti prospettivi li jsegwu dan il-programm jindirizzaw id-diversi aspetti, \u0127afna drabi relatati ma\u2019 xulxin, tas-sa\u0127\u0127a ambjentali li jinkludu: is-sa\u0127\u0127a pubblika; is-sa\u0127\u0127a u s-sikurezza ambjentali; is-sikurezza tal-ikel u tal-ilma; l-aspetti tas-sa\u0127\u0127a relatati ma\u2019 ambjenti domesti\u010bi, ta\u2019 divertiment u tal-post tax-xog\u0127ol, u l-impatt ta\u2019 dawn id-diversi fatturi fuq l-individwu u fuq is-so\u010bjet\u00e0 in\u0121enerali. L-istudenti jiksbu l-g\u0127arfien, il-\u0127iliet u l-kompetenzi dwar kif jivvalutaw, janalizzaw, ifasslu u jimplimentaw soluzzjonijiet effi\u010bjenti fir-rigward ta\u2019 kwistjonijiet ta\u2019 sa\u0127\u0127a ambjentali, bl-g\u0127an li l-kandidati li jtemmu l-kors b\u2019su\u010b\u010bess ikunu jistg\u0127u jsibu impjieg f\u2019po\u017cizzjonijiet ta\u2019 konsulenza, ta\u2019 infurzar jew fil-qasam tal-edukazzjoni. Huma se jitg\u0127allmu wkoll dwar politiki lokali u oqfsa legali kurrenti li jissorveljaw il-governanza ta\u2019 dawn il-fatturi ta\u2019 sa\u0127\u0127a ambjentali."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Health Sciences",
+                    "MCAST Advanced Diploma in Environmental Sustainability",
+                    "MCAST Advanced Diploma in Food Technology",
+                    "MCAST Advanced Diploma in Applied Science",
+                    "2 A-Level passes and 2 I-Level passes"
+                ],
+                "req_compusolry": "A-Level Biology",
+                "req_preferred": "A-Levels: English, Chemistry\\nI-Levels: Chemistry, Mathematics",
+                "req_other": "",
+                "careers": [
+                    "Environmental health officer"
+                ]
+            },
+            {
+                "index": "01-14",
+                "institute": "ias",
+                "code": "AG1-01-19",
+                "title": "Introductory Certificate in Animal Husbandry and Horticultural Skills",
+                "desc_en": [
+                    "This basic programme of studies equips learners with a range of skills, enabling them to begin to understand what various land-based animal and crop activities involve.",
+                    "The learner will have the opportunity to handle a variety of farm animals as well as work on crop fields and fruit trees. This course of studies includes topics about soil management, establishing crops, animal management, livestock nutrition and farm maintenance. Learners will have the opportunity to feed various animals such as rabbits and poultry, incubate eggs and hatch chicks whilst gaining the required hands-on experience in the horticulture and animal husbandry sector."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ba\u017ciku ta\u2019 studji jipprovdi lill-istudenti firxa ta\u2019 \u0127iliet, li permezz tag\u0127hom huma jibdew jifhmu x\u2019jinvolvu diversi attivitajiet tal-annimali u l-g\u0127elejjel.",
+                    "L-istudent ikollu l-opportunit\u00e0 li jie\u0127u \u0127sieb varjet\u00e0 ta\u2019 annimali tal-irziezet, kif ukoll li ja\u0127dem fl-g\u0127elieqi tal-g\u0127elejjel u fuq is-si\u0121ar tal-frott. Dan il-kors ta\u2019 studji jinkludi su\u0121\u0121etti dwar il-\u0121estjoni tal-\u0127amrija, l-istabbiliment ta\u2019 g\u0127elejjel, il-\u0121estjoni tal-annimali, in-nutrizzjoni tal-bhejjem u l-manutenzjoni tal-irziezet. L-istudenti jkollhom l-opportunit\u00e0 li jag\u0127lfu diversi annimali b\u0127al fniek u tjur, ju\u017caw l-inkubatur tal-bajd u jfaqqsu l-flieles, filwaqt li jiksbu l-esperjenza prattika me\u0127tie\u0121a tal-ortikultura u tat-trobbija tal-annimali."
+                ],
+                "mqf": 1,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assessment Tests (as may be applicable)",
+                "careers": []
+            },
+            {
+                "index": "01-15",
+                "institute": "ias",
+                "code": "AG1-02-18",
+                "title": "Award in Agribusiness",
+                "desc_en": [
+                    "This programme of studies is intended for learners who would like to become familiar with the provision of general care to pet animals. Learners need to have a genuine interest for employability in posts related to animal care and agriculture. Learners will have the opportunity to delve into general animal care, including nutritional needs of various species of animals, differences in types of feeds and housing needs, how to recognise basic behavioural signs and how to handle different animals safely and humanely in line with animal welfare regulations. Learners will also be introduced to the basic principles of horticultural techniques and will therefore learn practical gardening skills such as the propagation of plants, basic plant care and irrigation set-up. Learners would also need to become familiar with the safe use and maintenance of hand tools and machinery."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji huwa ma\u0127sub g\u0127all-istudenti li jixtiequ jsiru familjari mal-kura \u0121enerali tal-annimali domesti\u010bi. L-istudenti je\u0127tie\u0121 li jkollhom interess \u0121enwin li jsibu impjieg f\u2019po\u017cizzjonijiet relatati mal-kura tal-annimali u l-agrikoltura. L-istudenti jkollhom l-opportunit\u00e0 jid\u0127lu fil-fond fir-rigward tal-kura \u0121enerali tal-annimali, inklu\u017ci l-\u0127ti\u0121ijiet nutrizzjonali ta\u2019 diversi spe\u010bi ta\u2019 annimali, id-differenzi f\u2019tipi ta\u2019 g\u0127alf u l-\u0127ti\u0121ijiet ta\u2019 abitazzjoni, kif jag\u0127rfu sinjali ba\u017ci\u010bi ta\u2019 m\u0121iba u kif jittrattaw annimali differenti b\u2019mod sikur u uman, f\u2019konformit\u00e0 mar-regolamenti dwar il-benesseri tal-annimali. L-istudenti ji\u0121u introdotti wkoll g\u0127all-prin\u010bipji ba\u017ci\u010bi tat-teknika marbuta mal-ortikultura u g\u0127alhekk jiksbu \u0127iliet pratti\u010bi ta\u2019 \u0121ardina\u0121\u0121, b\u0127all-propagazzjoni tal-pjanti, il-kura ba\u017cika tal-pjanti u l-armar g\u0127at-tisqija. L-istudenti je\u0127tie\u0121 ukoll li jsiru familjari mal-u\u017cu sikur u l-manutenzjoni ta\u2019 g\u0127odod tal-idejn u makkinarju."
+                ],
+                "mqf": 1,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Provide the necessary documents including the Secondary School Certificate & Profile (SSC&P)\\nPresent a recent psychological report (issued no more than 3 years before the date of application) and school reports including the last Individual Education Plan (IEP)\\nAdaptation to both class-based and community-based learning to be ascertained through a 3 day workshop at MCAST, attendance for which is compulsory\\nCommitment to prospective employment\\nApplicants are asked to sit for an interview.",
+                "careers": []
+            },
+            {
+                "index": "01-16",
+                "institute": "ias",
+                "code": "AG2-01-19",
+                "title": "Foundation Certificate in Horticulture and Animal Care",
+                "desc_en": [
+                    "This programme of studies is designed to equip learners with a range of basic skills and competences enabling them to become competent in various land-based activities related to the agricultural sector.",
+                    "This programme of studies includes a significant amount of vocational practice that will provide a clear idea of the nature of the area that the learner may wish to follow in the future. Learners will have the opportunity to gain hands-on experience with farm animals, exotic animals and plants. Special focus will be given to soil, crop and animal management, livestock nutrition and farm maintenance."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji huwa mfassal biex jipprovdi lill-istudenti firxa ta\u2019 \u0127iliet u kompetenzi ba\u017ci\u010bi sabiex isiru kompetenti f\u2019diversi attivitajiet li jinvolvu l-art u li huma relatati mas-settur agrikolu.",
+                    "Dan il-programm ta\u2019 studji jinkludi ammont sinifikanti ta\u2019 prattika vokazzjonali li tag\u0127ti idea \u010bara tan-natura tal-qasam li l-istudent jista\u2019 jkun jixtieq jinvolvi ru\u0127u fih fil-futur. L-istudenti jkollhom l-opportunit\u00e0 li jiksbu esperjenza prattika ma\u2019 annimali tal-irziezet, annimali e\u017coti\u010bi u pjanti. Ting\u0127ata attenzjoni spe\u010bjali lill-\u0121estjoni tal-\u0127amrija, tal-g\u0127elejjel u tal-annimali, in-nutrizzjoni tal-bhejjem u l-manutenzjoni tal-irziezet."
+                ],
+                "mqf": 2,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education",
+                    "MCAST Introductory Certificate"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assesment Tests (as may be applicable)",
+                "careers": []
+            },
+            {
+                "index": "01-17",
+                "institute": "ias",
+                "code": "AG3-01-19",
+                "title": "Diploma in Animal Care",
+                "desc_en": [
+                    "This programme of studies offers an introduction to working with and handling farm animals and pets, and the necessary related hands-on experience. It provides the practical skills and background knowledge required to form a solid foundation in animal care. The learner will have the opportunity to acquire knowledge on various habitat designs that can be used for farm and pet animals as well as accommodation, study feeding procedures and how to identify and solve animal health problems. A learner who opts for this programme of studies will be expected to attend scheduled husbandry duties which form part of this course. This practical experience, coupled with motivation and responsibility, will back up the theoretical knowledge gained during lectures."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji joffri introduzzjoni g\u0127all-\u0127idma mal-annimali tal-irziezet u l-annimali domesti\u010bi u t-trattament tag\u0127hom, flimkien mal-esperjenza prattika relatata me\u0127tie\u0121a. Dan jipprovdi l-\u0127iliet pratti\u010bi u l-g\u0127arfien ba\u017ciku biex ti\u0121i ffurmata ba\u017ci soda fir-rigward tal-kura tal-annimali. L-istudent ikollu l-opportunit\u00e0 li jakkwista g\u0127arfien dwar diversi disinji ta\u2019 abitazzjoni li jistg\u0127u jintu\u017caw g\u0127all-annimali tal-irziezet u l-annimali domesti\u010bi, kif ukoll g\u0127all-akkomodazzjoni, li jistudja dwar il-pro\u010beduri tal-g\u0127alf u kif jidentifika u jsolvi problemi tas-sa\u0127\u0127a tal-annimali. Student li jag\u0127\u017cel li jsegwi dan il-programm ta\u2019 studji se jkun mistenni jaqdi d-dmirijiet skedati tat-trobbija tal-annimali li jifformaw parti minn dan il-kors. Din l-esperjenza prattika, flimkien mal-motivazzjoni u r-responsabbilt\u00e0, se jsa\u0127\u0127u l-g\u0127arfien teoretiku li jkun kiseb matul il-lezzjonijiet."
+                ],
+                "mqf": 3,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "MCAST Foundation Certificate",
+                    "2 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Animal groomer",
+                    "Pet shop assistant",
+                    "Animal care assistant"
+                ]
+            },
+            {
+                "index": "01-18",
+                "institute": "ias",
+                "code": "AG3-02-19",
+                "title": "Diploma in Fish Husbandry",
+                "desc_en": [
+                    "This programme of studies introduces the learner to the basics of fish husbandry and provides the knowledge and skills required by the learner for eventual employment in related industries such as the fish farming and aquatics industries.",
+                    "Being the only course in Malta that is solely dedicated to fish husbandry, this programme offers an excellent opportunity for employment in this industry, which has now become an important economic sector in the Maltese Islands.",
+                    "The learner will develop the knowledge and practical skills needed, provided that one attends all the practical sessions which are vital to enhance the theoretical knowledge gained during lectures."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji jintrodu\u010bi lill-istudent g\u0127all-aspetti ba\u017ci\u010bi tat-trobbija tal-\u0127ut u jipprovdi l-g\u0127arfien u l-\u0127iliet me\u0127tie\u0121a biex eventwalment l-istudent isib impjieg f\u2019industriji relatati, b\u0127al dawk tat-trobbija tal-\u0127ut u tal-akkwatika.",
+                    "Billi huwa l-uniku kors f\u2019Malta ddedikat biss g\u0127at-trobbija tal-\u0127ut, dan il-programm joffri opportunit\u00e0 e\u010b\u010bellenti g\u0127al impjieg f\u2019din l-industrija, li issa saret settur ekonomiku importanti fil-G\u017cejjer Maltin.",
+                    "L-istudent ji\u017cviluppa l-g\u0127arfien u l-\u0127iliet pratti\u010bi me\u0127tie\u0121a, ladarba jattendi s-sessjonijiet pratti\u010bi kollha li huma vitali biex jissa\u0127\u0127a\u0127 l-g\u0127arfien teoretiku miksub matul il-lezzjonijiet."
+                ],
+                "mqf": 3,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "MCAST Foundation Certificate",
+                    "2 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Fish farm assistant",
+                    "Aquarium shop assistant"
+                ]
+            },
+            {
+                "index": "01-19",
+                "institute": "ias",
+                "code": "AG3-03-18",
+                "title": "Diploma in Horticulture",
+                "desc_en": [
+                    "This programme of studies consists of four different modules: viticulture, floral design, gardening and nursery production, crop production and processing. Practical sessions and work experience form an integral part of the programme of studies, providing the learners with the required skills and competences to improve employment opportunities. The course also provides a good foundation for future career prospects in the respective fields as well as for progression to a more advanced qualification.",
+                    "This programme also gives the learner the possibility to choose one\u2019s own combination of different modules leading to certification of an award for each individual stand-alone module that the learner has successfully completed."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji jikkonsisti f\u2019erba\u2019 unitajiet differenti: il-vitikultura, id-disinn tal-fjuri, il-\u0121ardina\u0121\u0121 u t-tkabbir tal-pjanti, il-produzzjoni u l-ippro\u010bessar tal-g\u0127elejjel. Sessjonijiet pratti\u010bi u esperjenza ta\u2019 xog\u0127ol jifformaw parti integrali mill-programm ta\u2019 studji u jipprovdu lill-istudenti l-\u0127iliet u l-kompetenzi me\u0127tie\u0121a biex itejbu l-opportunitajiet tag\u0127hom li jsibu impjieg. Il-kors jipprovdi wkoll ba\u017ci tajba g\u0127al prospetti ta\u2019 karriera fl-oqsma rispettivi fil-futur, jew biex l-istudent ikompli jistudja f\u2019livell aktar avvanzat.",
+                    "Dan il-programm jag\u0127ti lill-istudent il-possibbilt\u00e0 li jag\u0127\u017cel huwa stess il-kombinazzjoni ta\u2019 unitajiet differenti, li jwasslu biex l-istudent jikseb \u010bertifikat ta\u2019 g\u0127otja g\u0127al kull unit\u00e0 li jtemm b\u2019su\u010b\u010bess."
+                ],
+                "mqf": 3,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "MCAST Foundation Certificate",
+                    "2 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Plant nursery assistant",
+                    "Horticulture farm\/greenhouse aide",
+                    "Florist assistant",
+                    "Viticulture attendant"
+                ]
+            },
+            {
+                "index": "01-20",
+                "institute": "ias",
+                "code": "AG4-01-19",
+                "title": "Advanced Diploma in Animal Management and Veterinary Nursing",
+                "desc_en": [
+                    "This course of studies provides learners with a broad knowledge of the animal management and animal care industry, including veterinary nursing and assistance as well as studies in veterinary diagnostic techniques and livestock management.",
+                    "The programme of studies offers a wide perspective on the latest practices in the animal management\/animal care sector as well as its interconnectivity with entrepreneurship and the related business sector.",
+                    "Learners will be encouraged to relate theory to practice at all stages through assignments, projects, practical work and work placements. Scheduled practical livestock husbandry duties form an integral part of the curriculum."
+                ],
+                "desc_mt": [
+                    "Dan il-kors ta\u2019 studji jipprovdi lill-istudenti g\u0127arfien wiesa\u2019 fir-rigward tal-industrija tal-\u0121estjoni u l-kura tal-annimali, inklu\u017ci l-infermerija u l-assistenza veterinarja, kif ukoll studji dwar it-teknika dijanjostika veterinarja u l-\u0121estjoni tal-bhejjem.",
+                    "Il-programm ta\u2019 studji joffri perspettiva wiesg\u0127a dwar il-pratti\u010bi l-aktar ri\u010benti fis-settur tal-\u0121estjoni u l-kura tal-annimali, kif ukoll ir-rabta tieg\u0127u mal-intraprenditorija u s-settur kummer\u010bjali relatat.",
+                    "L-istudenti ji\u0121u m\u0127e\u0121\u0121a jorbtu t-teorija mal-prattika fl-istadji kollha tal-kors permezz ta\u2019 assignments, pro\u0121etti, \u0127idma prattika u esperjenzi ta\u2019 xog\u0127ol. Id-dmirijiet skedati tat-trobbija prattika tal-bhejjem jifformaw parti integrali mill-kurrikulu."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Diploma in Fish Husbandry",
+                    "MCAST Diploma in Animal Care",
+                    "MCAST Diploma in Horticulture",
+                    "MCAST Diploma in Applied Science",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Veterinary assistant",
+                    "Veterinary nursing assistant",
+                    "Farm operator",
+                    "Animal sanctuary warden"
+                ]
+            },
+            {
+                "index": "01-21",
+                "institute": "ias",
+                "code": "AG4-02-19",
+                "title": "Advanced Diploma in Fish Management",
+                "desc_en": [
+                    "This programme of studies offers learners a wide perspective of different aspects of fish management and will provide them with a broad knowledge and aptitude related to the fish husbandry sector and industry. Learners will acquire knowledge, skills and competences in both the farmed and ornamental fish husbandry industries. This programme of studies also exposes learners to key concepts related to wild stock fisheries management.",
+                    "The programme will give an opportunity to learners to gain experience while learning new skills. They are constantly encouraged to relate theory to practice at all stages through assignments, projects, practical work and work placements. Scheduled fish husbandry duties form an integral part of the curriculum."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji joffri lill-istudenti perspettiva wiesg\u0127a ta\u2019 aspetti differenti tal-\u0121estjoni tal-\u0127ut u jipprovdilhom g\u0127arfien u aptitudni wesg\u0127in relatati mas-settur u l-industrija tat-trobbija tal-\u0127ut. L-istudenti jakkwistaw l-g\u0127arfien, il-\u0127iliet u l-kompetenzi me\u0127tie\u0121a fl-industriji tat-trobbija tal-\u0127ut, kemm dik tal-fish farms kif ukoll dik ornamentali. Dan il-programm ta\u2019 studji jesponi wkoll lill-istudenti g\u0127al kun\u010betti ewlenin relatati mal-\u0121estjoni tas-sajd tal-\u0127ut selva\u0121\u0121.",
+                    "Il-programm jag\u0127ti opportunit\u00e0 lill-istudenti biex jiksbu esperjenza filwaqt li jitg\u0127allmu \u0127iliet \u0121odda. Huma ji\u0121u kontinwament im\u0127e\u0121\u0121a li jorbtu t-teorija mal-prattika fl-istadji kollha tal-kors, permezz ta\u2019 assignments, pro\u0121etti, \u0127idma prattika u esperjenzi ta\u2019 xog\u0127ol. Id-dmirijiet skedati tat-trobbija prattika tal-annimali jifformaw parti integrali mill-kurrikulu."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Diploma in Fish Husbandry",
+                    "MCAST Diploma in Animal Care",
+                    "MCAST Diploma in Horticulture",
+                    "MCAST Diploma in Applied Science",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Fish farm inspector",
+                    "Aquaculture\/aquatic technician",
+                    "Hatchery manager",
+                    "Aquarium maintenance technician"
+                ]
+            },
+            {
+                "index": "01-22",
+                "institute": "ias",
+                "code": "AG4-03-20",
+                "title": "Advanced Diploma in Horticulture",
+                "desc_en": [
+                    "This programme of studies provides learners with an understanding of the horticultural industry including crop management of a wide range of crops, an introduction to garden design, floristry, pest and nutrient management, and studies in rural development and agricultural policies.",
+                    "The programme of studies offers a wide perspective on the latest technologies used in the agricultural sector as well as its interconnectivity with entrepreneurship and business and the hospitality sector in relation to garden design and agri-and ecotourism.",
+                    "Learners will be encouraged to relate theory to practice at all stages of learning through assignments, projects and practical work. Scheduled practical crop husbandry duties form an integral part of the curriculum."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji jipprovdi lill-istudenti fehim dwar l-industrija tal-ortikultura, inklu\u017c il-\u0121estjoni ta\u2019 firxa wiesg\u0127a ta\u2019 g\u0127elejjel, id-disinn tal-\u0121onna (introduzzjoni), il-produzzjoni u l-bejg\u0127 tal-fjuri, il-\u0121estjoni tal-pesti u tan-nutrizzjoni, u studji dwar il-politika dwar l-i\u017cvilupp rurali u l-agrikoltura.",
+                    "Il-programm ta\u2019 studji joffri perspettiva wiesg\u0127a dwar it-teknolo\u0121iji l-aktar ri\u010benti u\u017cati fis-settur agrikolu, kif ukoll ir-rabta tieg\u0127u mal-intraprenditorija u s-setturi kummer\u010bjali tal-ospitalit\u00e0 fir-rigward tad-disinn tal-\u0121onna, l-agrituri\u017cmu u l-ekoturi\u017cmu.",
+                    "L-istudenti ji\u0121u m\u0127e\u0121\u0121a jorbtu t-teorija mal-prattika fl-istadji kollha tal-kors permezz ta\u2019 assignments, pro\u0121etti, u \u0127idma prattika. Id-dmirijiet skedati fil-kura prattika tal-g\u0127elejjel jifformaw parti integrali mill-kurrikulu."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Diploma in Fish Husbandry",
+                    "MCAST Diploma in Animal Care",
+                    "MCAST Diploma in Horticulture",
+                    "MCAST Diploma in Applied Science",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Horticulture inspector",
+                    "Garden design assistant",
+                    "Vegetable\/fruit grower",
+                    "Rural development operator"
+                ]
+            },
+            {
+                "index": "01-23",
+                "institute": "ias",
+                "code": "AG6-01-19",
+                "title": "Bachelor of Science (Honours) in Animal Management and Veterinary Nursing",
+                "desc_en": [
+                    "This Bachelor\u2019s degree aims at providing learners with the opportunity to specialise in a main area of study with the aim of seeking employment at management level or similar. This may relate to animal welfare, production, education, veterinary services, research and development, and regulatory services both locally and internationally.",
+                    "The programme of studies offers the required knowledge, skills and competences related to animal health and nutrition, welfare, ecology, philosophy, ethics and law. Learners will also undertake a research project whereby they will be expected to select a topic for investigation following an established methodology."
+                ],
+                "desc_mt": [
+                    "Dan il-kors, li jwassal g\u0127al ba\u010bellerat, g\u0127andu l-g\u0127an li jipprovdi lill-istudenti l-opportunit\u00e0 li jispe\u010bjalizzaw f\u2019qasam ta\u2019 studji prin\u010bipali, bl-g\u0127an li jsibu impjieg f\u2019livell mani\u0121erjali jew simili. Dan jista\u2019 jkun jirrigwarda l-benesseri tal-annimali, il-produzzjoni, l-edukazzjoni, is-servizzi veterinarji, ir-ri\u010berka u l-i\u017cvilupp, u s-servizzi regolatorji, kemm lokalment kif ukoll internazzjonalment.",
+                    "Il-programm ta\u2019 studji joffri l-g\u0127arfien, il-\u0127iliet u l-kompetenzi me\u0127tie\u0121a relatati mas-sa\u0127\u0127a u n-nutrizzjoni tal-annimali, il-benesseri, l-ekolo\u0121ija, il-filosofija, l-etika u l-li\u0121i. L-istudenti jwettqu wkoll pro\u0121ett ta\u2019 ri\u010berka li g\u0127alih ikunu mistennija jag\u0127\u017clu su\u0121\u0121ett biex jinvestigawh billi jsegwu metodolo\u0121ija stabbilita."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Animal Management and Veterinary Nursing",
+                    "MCAST Advanced Diploma in Fish Management",
+                    "MCAST Advanced Diploma in Horticulture",
+                    "2 A-Level passes and 2 I-Level passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Animal clinic manager",
+                    "Animal welfare officer",
+                    "Farm manager",
+                    "Nutritional adviser"
+                ]
+            },
+            {
+                "index": "01-24",
+                "institute": "ias",
+                "code": "AG6-02-19",
+                "title": "Bachelor of Science (Honours) in Horticulture",
+                "desc_en": [
+                    "This programme gives learners skills in the latest horticultural practices with the use of modern technology.",
+                    "Learners will have the opportunity to study and practise different aspects related to their main area of study, with the aim of seeking employment at management level in private enterprise, in research and development and\/or in regulatory services both locally and internationally.",
+                    "This programme offers the required knowledge and competences related to Sustainable Land Use, Integrated Pest Management, Plant Nutrition and Fertilisation, Agricultural Technology, Rural Development and Garden Design\/Landscaping.",
+                    "During this course students need to undertake a research project whereby a topic is chosen and subsequently investigated, researched, a methodology formulated and data collected, analysed and discussed."
+                ],
+                "desc_mt": [
+                    "Dan il-programm jag\u0127ti lill-istudenti \u0127iliet fil-pratti\u010bi ortikulturali l-aktar ri\u010benti bl-u\u017cu ta\u2019 teknolo\u0121ija moderna.",
+                    "L-istudenti jkollhom l-opportunit\u00e0 li jistudjaw u jipprattikaw aspetti differenti relatati mal-qasam prin\u010bipali tal-istudju tag\u0127hom, bl-g\u0127an li jsibu impjieg fil-livell mani\u0121erjali fl-intrapri\u017ca privata, fir-ri\u010berka u l-i\u017cvilupp u\/jew fis-servizzi regolatorji, kemm lokalment kif ukoll barra mill-pajji\u017c.",
+                    "Dan il-programm joffri l-g\u0127arfien u l-kompetenzi me\u0127tie\u0121a relatati mal-U\u017cu Sostenibbli tal-Art, il-\u0120estjoni Integrata tal-Pesti, in-Nutrizzjoni u l-Fertilizzazzjoni tal-Pjanti, it-Teknolo\u0121ija Agrikola, l-I\u017cvilupp Rurali u d-Disinn tal-\u0120onna\/il-Pajsa\u0121\u0121.",
+                    "Matul dan il-kors l-istudenti jkunu me\u0127tie\u0121a li ja\u0127dmu fuq pro\u0121ett ta\u2019 ri\u010berka, fejn jag\u0127\u017clu su\u0121\u0121ett sabiex jinvestigawh, jag\u0127mlu ri\u010berka fuqu, jifformulaw metodolo\u0121ija, ji\u0121bru d-data, janalizzawha u jiddiskutuha."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Fish Management",
+                    "MCAST Advanced Diploma in Animal Management and Veterinary Nursing",
+                    "MCAST Advanced Diploma in Horticulture",
+                    "2 A-Level passes and 2 I-Level passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Farm advisory services provider",
+                    "Professional landscaper",
+                    "Garden designer",
+                    "EU\/national regulatory control manager"
+                ]
+            },
+            {
+                "index": "01-25",
+                "institute": "ias",
+                "code": "AG6-03-19",
+                "title": "Bachelor of Science (Honours) in Fish Management",
+                "desc_en": [
+                    "This programme of studies provides learners with a very thorough understanding of aquaculture and fisheries sciences and includes a wide range of aspects that will give them a better understanding of these sectors which are so important to the economy of the Maltese Islands.",
+                    "The study-units revolve around the aquaculture and fisheries sciences and relate to the production and management of aquaculture facilities, giving a better understanding of the highly complex field of fisheries. This programme of studies is intended for those who want to delve deeper into the fish management sciences and who want to start a career in this sector."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji jipprovdi lill-istudenti g\u0127arfien dettaljat tax-xjenzi tal-akkwakultura u s-sajd u jinkludi firxa wiesg\u0127a ta\u2019 aspetti li jg\u0127inuhom jifhmu a\u0127jar dawn is-setturi li huma tant importanti g\u0127all-ekonomija tal-G\u017cejjer Maltin.",
+                    "L-unitajiet ta\u2019 studju jduru madwar ix-xjenzi tal-akkwakultura u s-sajd u jirrigwardaw il-produzzjoni u l-\u0121estjoni ta\u2019 fa\u010bilitajiet tal-akkwakultura, biex l-istudenti jkunu jistg\u0127u jifhmu a\u0127jar il-qasam ferm kumpless tas-sajd. Dan il-programm ta\u2019 studji huwa ma\u0127sub g\u0127al dawk li jixtiequ jid\u0127lu aktar fil-fond fix-xjenzi tal-\u0121estjoni tas-sajd u li g\u0127aldaqstant jixtiequ jibdew karriera f\u2019dan is-settur."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Animal Management and Veterinary Nursing",
+                    "MCAST Advanced Diploma in Fish Management",
+                    "MCAST Advanced Diploma in Horticulture",
+                    "2 A-Level passes and 2 I-Level passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Jobs related to the Aquaculture and Fisheries sectors"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "ibmc",
+        "color": "#db0642",
+        "name_en": "Institute of Business Management & Commerce",
+        "desc_en": "Offering a range of courses at MQF Levels 1 to 7, the Institute has different courses from generic to more specific ones targeted at more specific careers. The main areas of Business are covered through the different courses, ranging from Financial Services and Insurance to Marketing and Procurement. At the lower levels courses are of a generic nature to offer learners the opportunity to get a good idea of different sectors. The course content becomes more specific across the spectrum of studies, helping learners attain a better focus on the career path they would like to embark upon. An integral characteristic of VET is that different programmes of study help learners benefit thoroughly from different forms of industry experience.",
+        "name_mt": "",
+        "desc_mt": "Minbarra li joffri firxa ta\u2019 korsijiet fil-Livelli tal- MQF 1 sa 7, l-Istitut g\u0127andu korsijiet differenti li jvarjaw minn dawk \u0121eneri\u010bi g\u0127al o\u0127rajn aktar spe\u010bifi\u010bi, immirati lejn karrieri aktar spe\u010bifi\u010bi. L-oqsma ewlenin tan-Negozju huma koperti permezz ta\u2019 korsijiet differenti, li jvarjaw mis- Servizzi Finanzjarji u l-Assigurazzjoni g\u0127all- Kummer\u010bjalizzazzjoni u l-Akkwist. Fil-livelli aktar baxxi, il-korsijiet huma ta\u2019 natura \u0121enerika biex joffru lill-istudenti l-opportunit\u00e0 li jiksbu \u0127jiel tajjeb tas-setturi differenti. Il-kontenut isir aktar spe\u010bifiku mal-medda tal-kors u dan jg\u0127in lill-istudenti jiksbu idea aktar \u010bara tal-karriera li jixtiequ jaqbdu. Karatteristika integrali tal-VET hija li programmi ta\u2019 studju differenti jg\u0127inu lill-istudenti jibbenefikaw bis-s\u0127i\u0127 minn forom differenti ta\u2019 esperjenza fl-industrija.",
+        "courses": [
+            {
+                "index": "02-01",
+                "institute": "ibmc",
+                "code": "BC1-02-19",
+                "title": "Award in Basic Office Skills",
+                "desc_en": [
+                    "This programme provides the learners with a hands-on experience to gain the basic skills required to work in an office environment. Learners need to have a genuine interest to work in posts related to basic customer care and office work. The course tackles both the use of basic office equipment as well as the soft skills required to be able to behave in an appropriate manner in an office environment."
+                ],
+                "desc_mt": [
+                    "Dan il-programm jipprovdi lill-istudenti esperjenza prattika biex jiksbu l-\u0127iliet ba\u017ci\u010bi me\u0127tie\u0121a biex ja\u0127dmu f\u2019ambjent ta\u2019 uffi\u010b\u010bju. L-istudenti je\u0127tie\u0121 li jkollhom interess \u0121enwin li ja\u0127dmu f\u2019postijiet relatati ma\u2019 assistenza ba\u017cika tal-klijenti u xog\u0127ol tal-uffi\u010b\u010bju. Il-kors jittratta kemm l-u\u017cu ta\u2019 tag\u0127mir ba\u017ciku tal-uffi\u010b\u010bju, kif ukoll il-\u0127iliet personali me\u0127tie\u0121a biex wie\u0127ed ikun jista\u2019 j\u0121ib ru\u0127u kif xieraq f\u2019ambjent ta\u2019 uffi\u010b\u010bju."
+                ],
+                "mqf": 1,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assessment Tests and\/or Interview (as may be applicable)",
+                "careers": [
+                    "Assistant in office environment"
+                ]
+            },
+            {
+                "index": "02-02",
+                "institute": "ibmc",
+                "code": "BC1-03-18",
+                "title": "Award in Hospitality",
+                "desc_en": [
+                    "Through this award programme, learners will start to become familiar with the hospitality industry, as well as have the opportunity to identify such industries, locally and abroad. Different roles and duties found within the hospitality industry will be explored, as will be the understanding of the hierarchy and responsibility one would have to deal with in such roles.",
+                    "Learners will also discuss and understand the importance of hygiene at work, including personal hygiene, as well as the importance of keeping safe and working in a safe and healthy environment. This would also include being ethical and using adequate etiquette."
+                ],
+                "desc_mt": [
+                    "Permezz ta\u2019 dan il-programm ta\u2019 g\u0127otja, l-istudenti jibdew isiru familjari mal-industrija tal-ospitalit\u00e0, kif ukoll ikollhom l-opportunit\u00e0 li jidentifikaw dawn l-industriji, kemm lokalment kif ukoll barra mill-pajji\u017c. Huma jesploraw ir-rwoli u d-dmirijiet differenti marbuta mal-industrija tal-ospitalit\u00e0, kif ukoll jitg\u0127allmu dwar il-\u0121erarkija u r-responsabbilt\u00e0 li wie\u0127ed ikollu jiffa\u010b\u010bja f\u2019dawn ir-rwoli.",
+                    "L-istudenti jiddiskutu u jifhmu wkoll l-importanza tal-i\u0121jene fuq il-post tax-xog\u0127ol, inklu\u017ca l-i\u0121jene personali, kif ukoll l-importanza li wie\u0127ed i\u017comm ru\u0127u \u2018l bog\u0127od mill-periklu u li ja\u0127dem f\u2019ambjent sikur u tajjeb g\u0127as-sa\u0127\u0127a. Dan ikun jinkludi wkoll l-etika u l-u\u017cu ta\u2019 manjieri tajbin."
+                ],
+                "mqf": 1,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education, documented by the SSC&P (Secondary School Certificate and Profile)"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Applicants are required to: Present a recent psychological report (issued no more than 3 years before date of application) and school reports including most recent Individual Education Plan (IEP)\\nAdapt to both class-based and community-based learning (to be ascertained through a 3-day workshop at MCAST, attendance for which is compulsory)\\nCommitment to prospective employment",
+                "careers": [
+                    "Assistant in kitchen",
+                    "Assistant in restaurant",
+                    "Assistant in housekeeping"
+                ]
+            },
+            {
+                "index": "02-03",
+                "institute": "ibmc",
+                "code": "BC1-04-18",
+                "title": "Award in Retail",
+                "desc_en": [
+                    "This programme is intended for learners who would like to become familiar with the local retailing sector, in particular small retail shops. Learners who apply for this course need to be genuinely interested and willing to work in a post related to the retail sector. Learners will become familiar with the basic business concepts, including the principles of stock management. They will also be made aware of different types of customers and situations that people who work in a retail environment would typically face. To achieve this, learners will be exposed to the importance of, and the skills required for good communication, as well as teamwork."
+                ],
+                "desc_mt": [
+                    "Dan il-programm huwa ma\u0127sub g\u0127all-istudenti li jixtiequ jsiru familjari mas-setturi lokali ta\u2019 bejg\u0127 g\u0127all-konsumatur, b\u2019mod partikolari \u0127wienet \u017cg\u0127ar. L-istudenti li japplikaw g\u0127al dan il-kors je\u0127tie\u0121 li jkollhom interess \u0121enwin u li jkunu lesti li ja\u0127dmu f\u2019post relatat mas-settur tal-bejg\u0127 g\u0127all-konsumatur. L-istudenti jsiru familjari mal-kun\u010betti ba\u017ci\u010bi tan-negozju, inklu\u017ci l-prin\u010bipji tal-immani\u0121\u0121jar tal-istokk. Huma jsiru konxji wkoll dwar it-tipi differenti ta\u2019 konsumaturi u sitwazzjonijiet li normalment jiffa\u010b\u010bjaw il-persuni li ja\u0127dmu f\u2019ambjent ta\u2019 bejg\u0127 g\u0127all-konsumatur. G\u0127al dan il-g\u0127an, l-istudenti jsiru konxji mill-importanza ta\u2019 komunikazzjoni tajba u l-\u0127iliet me\u0127tie\u0121a biex din isse\u0127\u0127, kif ukoll mill-importanza ta\u2019 \u0127idma f\u2019tim."
+                ],
+                "mqf": 1,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education, documented by the SSC&P (Secondary School Certificate and Profile)\\nApplicants are required to:\\nPresent a recent psychological report (issued no more than 3 years before the date of application) and school reports including most recent Individual Education Plan (IEP)\\nAdapt to both class-based and community-based learning (to be ascertained through a 3-day workshop at MCAST, attendance for which is compulsory)\\nCommitment to prospective employment"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Sit for an Interview -as may be applicable",
+                "careers": [
+                    "Shop assistant",
+                    "Store assistant"
+                ]
+            },
+            {
+                "index": "02-04",
+                "institute": "ibmc",
+                "code": "BC1-01-19",
+                "title": "Introductory Certificate in Business",
+                "desc_en": [
+                    "The programme is aimed at learners who would like to explore the world of studying business related subjects. During the programme, learners will be exposed to the basics of business concepts including organisational structures and different business areas. The course will also provide learners with skills related to subjects such as English, Maths and Maltese as well as other key skills units which will help them in their progression towards further studies."
+                ],
+                "desc_mt": [
+                    "Il-programm huwa mmirat g\u0127all-istudenti li jixtiequ jesploraw id-dinja tal-istudju ta\u2019 su\u0121\u0121etti relatati man-negozju. Matul il-programm, l-istudenti se jiltaqg\u0127u mal-kun\u010betti ba\u017ci\u010bi tan-negozju, inklu\u017ci strutturi organizzattivi u oqsma differenti tan-negozju. Il-kors se jipprovdi wkoll lill-istudenti l-\u0127iliet relatati ma\u2019 su\u0121\u0121etti b\u0127all-Ingli\u017c, il-Matematika u l-Malti, kif ukoll unitajiet ta\u2019 \u0127iliet ewlenin o\u0127ra li jg\u0127inuhom jimxu \u2018l quddiem biex ikunu jistg\u0127u jkomplu jistudjaw."
+                ],
+                "mqf": 1,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assessment Tests and\/or Interview (as may be applicable)",
+                "careers": [
+                    "Office assistant",
+                    "Shop assistant"
+                ]
+            },
+            {
+                "index": "02-05",
+                "institute": "ibmc",
+                "code": "BC2-01-19",
+                "title": "Foundation Certificate in Business",
+                "desc_en": [
+                    "This programme provides learners with an introduction to business related topics such as Basic Bookkeeping, Human Resources, Marketing, Sales and General Business Concepts. These different topics are introduced at a basic level through a variety of teaching methods as well as assessment techniques with the aim of catering for different learning styles."
+                ],
+                "desc_mt": [
+                    "Dan il-programm jipprovdi lill-istudenti introduzzjoni g\u0127al su\u0121\u0121etti relatati man-negozju, b\u0127all-Bookkeeping, ir-Ri\u017corsi Umani, il-Marketing, il-Bejg\u0127 u Kun\u010betti \u0120enerali tan-Negozju. Dawn is-su\u0121\u0121etti differenti huma introdotti f\u2019livell ba\u017ciku permezz ta\u2019 varjet\u00e0 ta\u2019 metodi ta\u2019 tag\u0127lim, kif ukoll modi ta\u2019 valutazzjoni differenti, bil-g\u0127an li jittie\u0127du inkunsiderazzjoni l-istili differenti ta\u2019 kif wie\u0127ed jitg\u0127allem."
+                ],
+                "mqf": 2,
+                "duration": 1,
+                "study": "FT",
+                "mode": "Job Shadowing",
+                "req_entry": [
+                    "Finished Compulsory Education",
+                    "MCAST Introductory Certificate"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assessment Tests (as may be applicable)",
+                "careers": [
+                    "Clerical assistant"
+                ]
+            },
+            {
+                "index": "02-06",
+                "institute": "ibmc",
+                "code": "BC3-01-19",
+                "title": "Diploma in Business",
+                "desc_en": [
+                    "This programme is aimed at preparing learners to further their studies in different areas of business. It is a preparatory course for those wishing to further their studies at MCAST on to MQF Level 4. The course aims to allow learners to improve in the areas of written and spoken English and Maltese as well as in their Mathematical and IT skills. The course however also goes into more detail, while starting from the very basics of different business areas and functions such as Accounts, Human Resources, Marketing, Purchasing, and others. This generic background allows the students to bring their academic level up to scratch, while acquiring enough knowledge about the different business areas to be able to progress onto further studies."
+                ],
+                "desc_mt": [
+                    "Dan il-programm huwa mmirat lejn it-t\u0127ejjija ta\u2019 studenti biex ikomplu l-istudji tag\u0127hom f\u2019oqsma differenti tan-negozju. Huwa kors preparatorju biex wie\u0127ed ikompli l-istudji tieg\u0127u fl-MCAST sal-Livell 4 tal-MQF. Il-kors g\u0127andu l-g\u0127an li jg\u0127in lill-istudenti jtejbu l-\u0127iliet tag\u0127hom fl-oqsma tal-kitba u t-ta\u0127dit bl-Ingli\u017c u bil-Malti, kif ukoll il-\u0127iliet tag\u0127hom fil-Matematika u l-IT. Madankollu, il-kors jid\u0127ol ukoll f\u2019\u0127afna aktar dettall, filwaqt li jibda mill-kun\u010betti verament ba\u017ci\u010bi ta\u2019 oqsma u funzjonijiet differenti tan-negozju b\u0127all-Accounts, ir-Ri\u017corsi Umani, il-Marketing, ix-Xiri u o\u0127rajn. Dan l-isfond \u0121eneriku jippermetti lill-istudenti jtejbu l-livell akkademiku tag\u0127hom sa standard a\u010b\u010bettabbli, filwaqt li jiksbu bi\u017c\u017cejjed g\u0127arfien dwar l-oqsma differenti tan-negozju sabiex ikunu jistg\u0127u jkomplu jistudjaw f\u2019livell aktar avvanzat."
+                ],
+                "mqf": 3,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "MCAST Foundation Certificate",
+                    "2 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "Business Studies",
+                "req_other": "",
+                "careers": [
+                    "Clerical assistant",
+                    "Shop cashier"
+                ]
+            },
+            {
+                "index": "02-07",
+                "institute": "ibmc",
+                "code": "BC4-A1-19",
+                "title": "Advanced Diploma in Business Administration",
+                "desc_en": [
+                    "This programme will allow learners to study the different areas of business administration. It is aimed either at students who aspire to one day open up their own business or follow in their family business, or else to work in the administration of a company at a junior level. This generic course offers a good basis into the main areas of business administration including office administration, accounts, marketing, recruitment, and health and safety among others. The course, which is assessed through a variety of scenario related assessments, also sees learners go out on Apprenticeship where a holistic hands-on and practical approach is adopted."
+                ],
+                "desc_mt": [
+                    "Dan il-programm jippermetti lill-istudenti jistudjaw l-oqsma differenti tal-amministrazzjoni tan-negozju. Il-kors huwa mmirat lejn studenti li jaspiraw li xi darba jift\u0127u n-negozju tag\u0127hom jew li jkomplu jmexxu n-negozju tal-familja tag\u0127hom, jew inkella jixtiequ li ja\u0127dmu fl-amministrazzjoni ta\u2019 kumpanija mhux f\u2019livell g\u0127oli. Dan il-kors \u0121eneriku joffri ba\u017ci tajba fl-oqsma ewlenin tal-amministrazzjoni tan-negozju, inklu\u017ci l-amministrazzjoni tal-uffi\u010b\u010bju, l-accounts, il-marketing, ir-rekluta\u0121\u0121, u s-sa\u0127\u0127a u s-sigurt\u00e0, fost l-o\u0127rajn. Il-kors, li huwa vvalutat permezz ta\u2019 varjet\u00e0 ta\u2019 metodi ta\u2019 valutazzjoni relatati max-xenarju, jipprovdi wkoll Apprendistat g\u0127all-istudenti biex hekk jiksbu esperjenza prattika."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Apprenticeship",
+                "req_entry": [
+                    "MCAST Diploma in Business",
+                    "MCAST Diploma in Postal Services",
+                    "MCAST Diploma in Foundation Studies for Security, Enforcement and Protection",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "English Language, Mathematics",
+                "req_other": "",
+                "careers": [
+                    "Clerk",
+                    "Administrative assistant",
+                    "Human resource assistant",
+                    "Front office coordinator",
+                    "Purchasing officer",
+                    "Field research officer",
+                    "Supply chain \/ Logistics officer"
+                ]
+            },
+            {
+                "index": "02-08",
+                "institute": "ibmc",
+                "code": "BC4-A2-20",
+                "title": "Advanced Diploma in Finance and Insurance",
+                "desc_en": [
+                    "This course is aimed at people who would like to venture in one of the many careers related to financial services. The first year of studies introduces learners to generic areas of financial services including the world of insurance. In the second year of studies, learners will then choose an area of specialisation. Specialisation can be either in financial services or else in insurance.",
+                    "This approach ensures that any learner following this course is exposed to different areas of the financial services world, thus giving them better flexibility in career prospects. Learners choosing the main area of expertise will be very strong in the specific area chosen, while having a good understanding of the other area."
+                ],
+                "desc_mt": [
+                    "Dan il-kors huwa mmirat g\u0127al studenti prospettivi li qeg\u0127din jaspiraw g\u0127al karriera fid-dinja tas-Servizzi Finanzjarji. L-ewwel sena tal-kors hija ma\u0127suba biex tintrodu\u010bi lill-istudenti g\u0127as-setturi differenti tal-industrija tas-servizzi finanzjarji, inklu\u017c l-assigurazzjoni. Fit-tieni sena tal-kors, l-istudenti jag\u0127\u017clu li jispe\u010bjalizzaw jew fil-qasam tas-servizzi finanzjarji u bankarji jew inkella fl-istudji tal-assigurazzjoni.",
+                    "B\u2019dan il-mod, fl-ewwel sena l-istudenti jie\u0127du ba\u017ci soda tal-aspetti u l-oqsma kollha tas-servizzi finanzjarji u g\u0127aldaqstant ikollhom aktar flessibbilt\u00e0 mil-lat ta\u2019 impjiegi. Permezz tal-g\u0127a\u017cla ta\u2019 spe\u010bjalizzazzjoni fit-tieni sena, l-istudenti jie\u0127du g\u0127arfien aktar fil-fond fis-settur tal-g\u0127a\u017cla tag\u0127hom filwaqt li jkollhom g\u0127arfien adegwat fis-setturi l-o\u0127ra."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Apprenticeship",
+                "req_entry": [
+                    "MCAST Diploma in Business",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "English Language, Mathematics",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "In an Insurance setting:",
+                    " Account handler",
+                    "Claims handler",
+                    "Insurance claims surveyor",
+                    "Insurance clerk In a Financial Services setting:",
+                    " Bank cashier",
+                    "Clerical and other officer roles within banks and other financial services institutions"
+                ]
+            },
+            {
+                "index": "02-09",
+                "institute": "ibmc",
+                "code": "BC4-A3-19",
+                "title": "Advanced Diploma in Accounting",
+                "desc_en": [
+                    "This programme aims to give learners a very good grounding in the studying of Accounts. Study areas range from aspects of financial management accounting to the use of accounting software and more generic areas of key skills. The course includes hands-on experience through Apprenticeship where students will learn by doing and gain experience first-hand on the application of the theory. Students who finish the course will not be qualified accountants, but will have a very good understanding and possess the required skills to work in an accounts department. Learners following this programme will also be prepared to sit for AAT (Association of Accounting Technicians) UK International Examinations."
+                ],
+                "desc_mt": [
+                    "Dan il-programm g\u0127andu l-g\u0127an li jipprovdi lill-istudenti ba\u017ci tajba \u0127afna fl-istudju tal-Accounts. L-oqsma tal-istudju jinkludu l-aspetti differenti ta\u2019 accounting finanzjarju u ta\u2019 mmani\u0121\u0121jar, l-u\u017cu ta\u2019 softwer tal-accounting, kif ukoll oqsma aktar \u0121eneri\u010bi ta\u2019 \u0127iliet ewlenin. Il-kors g\u0127andu livell g\u0127oli \u0127afna ta\u2019 esperjenza prattika permezz ta\u2019 Apprendistat, fejn l-istudenti mhux biss jitg\u0127allmu permezz tal-prattika, i\u017cda anke jesperjenzaw l-applikazzjoni diretta tat-teorija li jkunu qed jitg\u0127allmu fil-klassi. G\u0127alkemm l-istudenti li jlestu l-kors ma jkunux accountants kwalifikati b\u2019mod s\u0127i\u0127, \u017cgur se jkollhom fehim tajjeb \u0127afna, flimkien mal-\u0127iliet me\u0127tie\u0121a biex ja\u0127dmu f\u2019dipartiment tal-accounts. L-istudenti li jsegwu dan il-programm se jit\u0127ejjew ukoll biex jag\u0127mlu l-E\u017camijiet Internazzjonali tal-AAT (Association of Accounting Technicians) UK."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Apprenticeship",
+                "req_entry": [
+                    "MCAST Diploma in Business",
+                    "MCAST Diploma in Postal Services",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes Compulsory: English Language, Mathematics"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Fees: There are AAT fees payable to AAT (UK) for Membership and Examinations leading to Qualification Certificates awarded by AAT (UK).\\n Mi\u017cati: Hemm mi\u017cati tal-AAT li g\u0127andhom jit\u0127allsu lill-AAT (UK) g\u0127al S\u0127ubija u E\u017camijiet li jwasslu g\u0127al \u010aertifikati ta\u2019 Kwalifika mog\u0127tija minn AAT (UK).",
+                "careers": [
+                    "Accounts clerk",
+                    "Accounts administrator",
+                    "Audit assistant",
+                    "Credit management officer"
+                ]
+            },
+            {
+                "index": "02-10",
+                "institute": "ibmc",
+                "code": "BC4-A5-18",
+                "title": "Advanced Diploma in Marketing",
+                "desc_en": [
+                    "This programme is aimed at giving learners the knowledge and knowhow of the main areas related to the different areas of marketing. They will go into the areas of Marketing, Sales, Advertising, Public Relations and Customer Care in some detail. The insight in these different areas provides the student with the ability to work in different areas of marketing. The learner will also have the opportunity to apply the theory learned in class in practice through the Apprenticeship placement."
+                ],
+                "desc_mt": [
+                    "Dan il-programm g\u0127andu l-g\u0127an li jipprovdi lill-istudenti l-g\u0127arfien u l-kompetenza fir-rigward tal-oqsma ewlenin relatati mal-oqsma differenti tal-marketing. L-istudenti se jid\u0127lu f\u2019\u010bertu dettall fl-oqsma tal-Marketing, il-Bejg\u0127, ir-Reklamar, ir-Relazzjonijiet Pubbli\u010bi u l-Assistenza tal-Klijenti. Il-\u0127iliet f\u2019dawn l-oqsma differenti jwasslu lill-istudent sabiex ikun kapa\u010bi ja\u0127dem f\u2019\u2019oqsma differenti tal-marketing. Permezz tal-Apprendistat, l-istudent se jkollu wkoll l-opportunit\u00e0 li japplika fil-prattika t-teorija li jkun tg\u0127allem fil-klassi."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Apprenticeship",
+                "req_entry": [
+                    "MCAST Diploma in Business",
+                    "MCAST Diploma in Postal Services",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "English Language",
+                "req_preferred": "Maltese",
+                "req_other": "",
+                "careers": [
+                    "Brand\/sales executive",
+                    "Customer care coordinator",
+                    "Marketing assistant",
+                    "Media officer",
+                    "Public relations officer",
+                    "Sales representative",
+                    "Selling and sales coordinator"
+                ]
+            },
+            {
+                "index": "02-11",
+                "institute": "ibmc",
+                "code": "BC4-A6-19",
+                "title": "Advanced Diploma in Administrative and Secretarial Studies",
+                "desc_en": [
+                    "This programme is designed to enable learners to understand the key areas of administration, administrative services, office equipment and supplies, routine procedures, standards and the work environment. It is also designed to provide learners with the possibility of opting to delve deeper into one of two specific areas, namely Medical Secretaries and Legal Secretaries, as well as the application of Italian and French within a business related usage. The programme of studies has a very high level of hands-on experience through Apprenticeship, where learners will not only be learning by doing, but will also experience first-hand the application of the theory they would be learning in class."
+                ],
+                "desc_mt": [
+                    "Dan il-programm huwa mfassal biex jg\u0127in lill-istudenti jifhmu l-oqsma ewlenin tal-amministrazzjoni, is-servizzi amministrattivi, it-tag\u0127mir u l-provvisti tal-amministrazzjoni, il-pro\u010beduri ta\u2019 rutina, l-istandards u l-ambjent tax-xog\u0127ol. Huwa mfassal ukoll biex jipprovdi lill-istudenti l-possibbilt\u00e0 li jag\u0127\u017clu li jid\u0127lu aktar fil-fond f\u2019wie\u0127ed minn \u017cewg oqsma spe\u010bifi\u010bi, ji\u0121ifieri Segretarji Medi\u010bi u Segretarji Legali, kif ukoll l-applikazzjoni tat-Taljan u l-Fran\u010bi\u017c f\u2019kuntest relatat man-negozju. Il-programm ta\u2019 studji g\u0127andu livell g\u0127oli ta\u2019 esperjenza prattika permezz tal-Apprendistat, fejn l-istudenti mhux biss jitg\u0127allmu permezz tal-prattika, i\u017cda anke jesperjenzaw l-applikazzjoni diretta tat-teorija li jkunu qed jitg\u0127allmu fil-klassi."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Apprenticeship",
+                "req_entry": [
+                    "MCAST Diploma in Business",
+                    "MCAST Diploma in Postal Services",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "Maltese and English Language",
+                "req_preferred": "Mathematics",
+                "req_other": "Students opting for the Medical Stream need to be in possession of a: MCAST Diploma in Health and Social Care with at least 4 units at Grade B or better || 4 SEC\/O-Level\/SSC&P (Level 3) passes Compulsory: Maltese, English Language and One subject from Chemistry, Physics, Biology Preferred: Mathematics",
+                "careers": [
+                    "Secretary",
+                    "Office administrator",
+                    "Clerk",
+                    "Personal assistant"
+                ]
+            },
+            {
+                "index": "02-12",
+                "institute": "ibmc",
+                "code": "BC4-A1-20",
+                "title": "Advanced Diploma in Retail",
+                "desc_en": [
+                    "Learners will be exposed to the different aspects and career opportunities related to retail including front line, logistics, purchasing, retail operations and visual merchandising as an example. The retail industry in Malta is one of the largest industries and offers career opportunities with both local as well as international chains.",
+                    "Learners will be covering all aspects of the retail environment including Stock Presentation, Customer Care, Buying, Visual Merchandising and Consumer Behaviour. Throughout this course, which is on Apprenticeship, learners will be studying on a dual system whereby they will have days at school, and days out working in industry."
+                ],
+                "desc_mt": [
+                    "L-istudenti \u0127a jkunu esposti g\u0127al aspetti differenti u opportunitajiet ta\u2019 karrieri relatati mal-industrija tal-bejg\u0127 g\u0127all-konsumatur. B\u0127ala e\u017cempju, dawn jinkludu l-ewwel kuntatt, il-lo\u0121istika, ix-xiri, l-operat u l-kummer\u010bjalizzazzjoni vizwali. Is-settur tal-bejg\u0127 f\u2019Malta huwa wie\u0127ed mill-ikbar industriji u joffri opportunitajiet ta\u2019 xog\u0127ol ma\u2019 azjendi lokali jew internazzjonali.",
+                    "L-istudenti \u0127a jkunu qed jistudjaw l-aspetti kollha li jinkludu l-Pre\u017centazzjoni tal-Istokk, l-Assistenza ta\u2019 Klijenti, ix-Xiri, il-Kummer\u010bjalizzazzjoni Vi\u017civa u l-Im\u0121iba tal-Konsumaturi. Matul dan il-kors, li qed jigi offrut fuq bazi ta\u2019 Apprendistat, l-istudenti \u0127a jistud-jaw b\u2019sistema \u2018dual\u2019 fejn iqattg\u0127u \u0121ranet l-iskola u o\u0127rajn fuq il-post tax-xog\u0127ol."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Apprenticeship",
+                "req_entry": [
+                    "MCAST Level 3 Diploma",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "Mathematics, English Language",
+                "req_other": "",
+                "careers": [
+                    "Shop supervisor",
+                    "Visual merchandiser"
+                ]
+            },
+            {
+                "index": "02-13",
+                "institute": "ibmc",
+                "code": "BC5-01-19",
+                "title": "Higher Diploma for Accounting Technicians",
+                "desc_en": [
+                    "This course builds upon the MCAST Advanced Diploma in Accounting and offers learners the possibility to become members of the Association of Accounting Technicians (UK). During this programme, the learners will continue to broaden and deepen their studies in the different areas of accounting including Financial and Management Accounting as well as Management and Business Law.",
+                    "Learners who successfully complete the AAT (UK) Advanced Diploma in Accounting as well as the AAT (UK) Professional Diploma in Accounting, are entitled to exemptions from the ACCA qualification (F1, F2, F3). Following the successful completion of related study-units, learners will also be eligible to register for further exemptions, namely F4 and F5."
+                ],
+                "desc_mt": [
+                    "Dan il-kors jibni fuq l-MCAST Advanced Diploma in Accounting u joffri lill-istudenti l-possibbilt\u00e0 li jsiru membri tal-Association of Accounting Technicians (UK). Matul dan il-programm, l-istudenti jkomplu jwessg\u0127u u jsa\u0127\u0127u l-istudji tag\u0127hom fl-oqsma differenti tal-accounting, inklu\u017c l-Accounting Finanzjarju u ta\u2019 Mmani\u0121\u0121jar, kif ukoll il-Li\u0121i dwar il-Mani\u0121ment u n-Negozju.",
+                    "L-istudenti li jlestu b\u2019su\u010b\u010bess l-AAT (UK) Advanced Diploma in Accounting, kif ukoll l-AAT (UK) Professional Diploma in Accounting, ikunu intitolati g\u0127al e\u017cenzjonijiet mill-kwalifika tal-ACCA (F1, F2, F3). Studenti li jkunu lestew b\u2019su\u010b\u010bess unitajiet ta\u2019 studju relatati, ikunu eli\u0121ibbli wkoll li jirre\u0121istraw g\u0127al aktar e\u017cenzjonijiet, ji\u0121ifieri F4 u F5."
+                ],
+                "mqf": 5,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Accounting"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Accounts administrator",
+                    "Accounts executive",
+                    "Accounting technician",
+                    "Audit assistant",
+                    "Credit management officer",
+                    "Senior accounts clerk"
+                ]
+            },
+            {
+                "index": "02-14",
+                "institute": "ibmc",
+                "code": "BC6-01-19",
+                "title": "Bachelor of Arts (Honours) in Business Enterprise",
+                "desc_en": [
+                    "This degree provides specialist content which is constantly applied to real life business and management scenarios. Learners will be prepared to become proficient in a number of areas as the course allows the students to develop appropriate analytical, critical and research skills in a range of business related areas ranging from Human Resources to Operations Management, and from Purchasing to Project Management and Marketing Management. These are only some of the areas that students will cover during their studies. This 360 degree approach gives the learners maximum flexibility on the workplace as graduates would be able to deal with a wide range of responsibilities."
+                ],
+                "desc_mt": [
+                    "Dan il-ba\u010bellerat jipprovdi lill-istudenti kontenut spe\u010bjalizzat li huwa applikat b\u2019mod kostanti f\u2019xenarji tan-negozju u tal-mani\u0121ment fil-\u0127ajja reali. L-istudenti jit\u0127ejjew biex isiru profi\u010bjenti f\u2019g\u0127add ta\u2019 oqsma, billi l-kors jippermetti lill-istudenti ji\u017cviluppaw \u0127iliet analiti\u010bi, kriti\u010bi u ta\u2019 ri\u010berka f\u2019firxa ta\u2019 oqsma relatati man-negozju, li jvarjaw mir-Ri\u017corsi Umani sal-Immani\u0121\u0121jar tal-Operazzjonijiet, u mix-Xiri sal-Immani\u0121\u0121jar ta\u2019 Pro\u0121etti u l-Immani\u0121\u0121jar tal-Marketing. Dawn huma biss xi w\u0127ud mill-oqsma li l-istudenti se jkopru waqt l-istudji tag\u0127hom. Dan l-appro\u010b\u010b komprensiv jag\u0127ti lill-istudenti flessibbilt\u00e0 massima fuq il-post tax-xog\u0127ol, billi l-gradwati jkunu jistg\u0127u jid\u0127lu g\u0127al firxa wiesg\u0127a ta\u2019 responsabbiltajiet."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Marketing",
+                    "MCAST Advanced Diploma in Administrative and Secretarial Studies",
+                    "MCAST Advanced Diploma in Aviation Operations",
+                    "MCAST Advanced Diploma in Financial Services",
+                    "MCAST Advanced Diploma in Insurance",
+                    "MCAST Advanced Diploma in Business Administration",
+                    "MCAST Advanced Diploma in Transportation and Logistics Management",
+                    "2 A-Level passes and 2 I-Level passes"
+                ],
+                "req_compusolry": "A-Level: Accounts or Marketing or Economics",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Business development manager",
+                    "Human resources manager",
+                    "Operations manager",
+                    "Project manager",
+                    "Research manager",
+                    "Analyst"
+                ]
+            },
+            {
+                "index": "02-15",
+                "institute": "ibmc",
+                "code": "BC6-03-18",
+                "title": "Bachelor of Arts (Honours) in Procurement and Finance",
+                "desc_en": [
+                    "This three-year Bachelor degree intends to provide learners with a strong basis of procurement processes and supporting aspects. By applying theory to both public procurement procedures as well as those adopted within the private sector, this degree will expose learners to the various aspects of Procurement Management. This is coupled with a detailed understanding of the finance function, which in itself provides the students with the capability to carry out work more effectively. Management studies are also incorporated in the programme of studies, in a way as to provide the students with a launch pad into the heart of effective operations coordination in this dynamic area."
+                ],
+                "desc_mt": [
+                    "Dan il-kors ta\u2019 ba\u010bellerat ta\u2019 tliet snin huwa ma\u0127sub biex jipprovdi lill-istudenti ba\u017ci b\u2019sa\u0127\u0127itha dwar il-pro\u010bessi ta\u2019 akkwist u aspetti relatati. Filwaqt li ti\u0121i applikata t-teorija kemm g\u0127all-pro\u010beduri ta\u2019 akkwist pubbliku, kif ukoll g\u0127al dawk adottati fis-settur privat, din id-degree tesponi lill-istudenti g\u0127ad-diversi aspetti tal-Immani\u0121\u0121jar tal-Akkwist. Dan isir flimkien ma\u2019 fehim dettaljat tal-funzjoni tal-finanzi, li fiha nnifisha twassal lill-istudenti sabiex ikunu kapa\u010bi jwettqu x-xog\u0127ol b\u2019mod aktar effettiv. L-istudji tal-mani\u0121ment huma inkorporati wkoll fil-programm ta\u2019 studji, b\u2019tali mod li jipprovdu lill-istudenti b\u2019mezz biex jid\u0127lu direttament fil-qalba tal-koordinazzjoni effettiva tal-operat f\u2019dan il-qasam dinamiku."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Business Administration",
+                    "MCAST Advanced Diploma in Accounting",
+                    "2 A-Level passes and 2 I-Level passes"
+                ],
+                "req_compusolry": "A-Level: Accounts or Marketing or Economics",
+                "req_preferred": "",
+                "req_other": "Note: Applicants with similar qualifications may still show their interest in applying for this course. Such applications will be presented to the Admissions Board for its consideration.",
+                "careers": [
+                    "Procurement manager",
+                    "Supply chain manager",
+                    "Logistics manager",
+                    "Purchasing and inventory coordinator"
+                ]
+            },
+            {
+                "index": "02-16",
+                "institute": "ibmc",
+                "code": "BC6-01-20",
+                "title": "Bachelor of Science (Honours) in Financial Services Management",
+                "desc_en": [
+                    "Targeting one of Malta\u2019s strongest economic sectors, this degree in Financial Services offers learners the opportunity to get a detailed insight into the various aspects of Financial Services, an industry which offers a range of career opportunities ranging from Risk Management to Fund Administration and Wealth Management. Apart from the more technical aspects related to financial services, learners will also gain the required analytical, critical and research skills that are required to work in such a high profile and demanding industry. Learners graduating from this degree find themselves in a very strong position in terms of employment as they are well geared to work in different sectors within this industry."
+                ],
+                "desc_mt": [
+                    "Filwaqt li g\u0127andha fil-mira tag\u0127ha wie\u0127ed mis-setturi ekonomi\u010bi l-aktar b\u2019sa\u0127\u0127ithom f\u2019Malta, din id-degree fis-Servizzi Finanzjarji toffri lill-istudenti l-opportunit\u00e0 li jiksbu g\u0127arfien dettaljat tad-diversi aspetti tas-Servizzi Finanzjarji, industrija li toffri firxa ta\u2019 opportunitajiet ta\u2019 karriera li jvarjaw mill-\u0120estjoni tar-Riskju sal-Amministrazzjoni tal-Fondi u l-Immani\u0121\u0121jar tal-\u0120id. Minbarra l-aspetti aktar tekni\u010bi relatati mas-servizzi finanzjarji, l-istudenti jiksbu wkoll il-\u0127iliet analiti\u010bi, kriti\u010bi u ta\u2019 ri\u010berka me\u0127tie\u0121a biex ja\u0127dmu f\u2019industrija ta\u2019 profil g\u0127oli u e\u017ci\u0121enti b\u0127al din. L-istudenti li jiggradwaw minn dan il-kors isibu ru\u0127hom f\u2019po\u017cizzjoni b\u2019sa\u0127\u0127itha \u0127afna fir-rigward ta\u2019 impjieg, billi jkunu kisbu l-\u0127iliet biex ja\u0127dmu f\u2019setturi differenti f\u2019din l-industrija."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Internship",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Financial Services",
+                    "2 A-Level passes and 2 I-Level passes"
+                ],
+                "req_compusolry": "A-Levels: Accounts and Economics",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Banking adviser",
+                    "Compliance executive",
+                    "Financial adviser",
+                    "Analyst",
+                    "Risk management fund administrator"
+                ]
+            },
+            {
+                "index": "02-17",
+                "institute": "ibmc",
+                "code": "BC7-01-18",
+                "title": "ACCA Qualification",
+                "desc_en": [
+                    "An ACCA Qualification is a path that leads to becoming an internationally recognised Chartered Certified Accountant, and can take your career in any direction. It is a rewarding and intense course with a number of Professional Courses which allows the students to have a rigorous qualification that is accepted across the globe. The ACCA course is the perfect choice for a career in accountancy and the perfect milestone on anyone\u2019s route to become a qualified finance professional. The programme provides different exit routes at Level 6 and at Level 7."
+                ],
+                "desc_mt": [
+                    "Kwalifika tal-ACCA twasslek biex issir Chartered Certified Accountant rikonoxxut fuq livell internazzjonali. Biha tista\u2019 ti\u017cviluppa l-karriera tieg\u0127ek fi kwalunkwe direzzjoni. Huwa kors intensiv li jag\u0127ti \u0127afna sodisfazzjon, b\u2019g\u0127add ta\u2019 Korsijiet Professjonali li jwasslu biex l-istudenti jakkwistaw kwalifika rigoru\u017ca li hija a\u010b\u010bettata madwar id-dinja. Il-kors tal-ACCA huwa l-g\u0127a\u017cla perfetta g\u0127al min jixtieq karriera fl-Accountancy u stadju importanti perfett fit-triq ta\u2019 kull min jixtieq isir professjonist finanzjarju kwalifikat. Il-programm jipprovdi rotot ta\u2019 \u0127ru\u0121 differenti fil-Livell 6 u fil-Livell 7."
+                ],
+                "mqf": "6\/7",
+                "duration": 4,
+                "study": "FT",
+                "mode": "Work Experience",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Accounting",
+                    "MCAST Advanced Diploma in Administrative and Secretarial Studies",
+                    "MCAST Advanced Diploma in Business Administration"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "2 A-Level and 2 I-Level passes\\nCompulsory A-Level or SEC\/O-Level: Mathematics and English Language\\nPreferred A-Level or SEC\/O-Level: Economics, Accounts\\nLearners incur fees payable to ACCA, for any membership and examinations, and MIA (Malta Institute of Accountants) membership\\nL-istudenti j\u0127allsu l-mi\u017cati lill-ACCA g\u0127al kwalunkwe s\u0127ubija u e\u017camijiet, kif ukoll s\u0127ubija fl-MIA (Malta Institute of Accountants)",
+                "careers": [
+                    "Accountant",
+                    "Financial controller",
+                    "Financial analyst",
+                    "Business analyst",
+                    "Corporate finance specialist",
+                    "Project finance accountant"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "ics",
+        "color": "#f4b719",
+        "name_en": "Institute of Community Services",
+        "desc_en": "The Institute of Community Services equips learners with the required holistic skills in various fields for the well-being of our community. In particular we offer courses in Sports, Health and Social Care, Early Years, Beauty, Hairdressing, Inclusive Education and Protection, Security and Enforcement. Our vocational educators amalgamate theory and practice to provide a hands-on experience to our learners which reflects the workplace and its requirements within industry. This Institute is equipped with a number of resources to enable this approach to learning, such as fully functional hair salons, beauty salons and Care rooms. Furthermore, all VET programmes include a work placement which offers valuable experience within the industry. Courses offered range from MQF Level 1 to Level 6.",
+        "name_mt": "",
+        "desc_mt": "L-Istitut tas-Servizzi Komunitarji jipprovdi lill-istudenti l-\u0127iliet \u0127olisti\u010bi me\u0127tie\u0121a f\u2019diversi oqsma g\u0127all-benesseri tal-komunit\u00e0 tag\u0127na. Noffru korsijiet fl-Isport, is-Sa\u0127\u0127a u l-Kura So\u010bjali, l-Et\u00e0 Bikrija, is-Sbu\u0127ija, il-Hairdressing, l-Edukazzjoni Inklu\u017civa u l-Protezzjoni, is- Sigurt\u00e0 u l-Infurzar. L-edukaturi vokazzjonali tag\u0127na jamalgamaw it-teorija u l-prattika biex jipprovdu esperjenza prattika lill-istudenti tag\u0127na, li tirrifletti l-post tax-xog\u0127ol u r-rekwi\u017citi tieg\u0127u fl-industrija. Dan l-Istitut huwa mg\u0127ammar b\u2019g\u0127add ta\u2019 ri\u017corsi biex ikun jista\u2019 jse\u0127\u0127 dan l-appro\u010b\u010b g\u0127at-tag\u0127lim, fosthom salons tax-xag\u0127ar, salons tas-sbu\u0127ija u kmamar dedikati g\u0127al programmi relatati mas-settur tal-Kura. Barra minn hekk, il-programmi ta\u2019 VET jinkludu perjodu ta\u2019 ta\u0127ri\u0121 fuq il-post tax-xog\u0127ol li joffri esperjenza siewja fl-industrija. Il-korsijiet offruti jvarjaw mil-Livell 1 sal-Livell 6 tal-MQF.",
+        "courses": [
+            {
+                "index": "03-01",
+                "institute": "ics",
+                "code": "CS1-01-19",
+                "title": "Introductory Certificate in Care",
+                "desc_en": [
+                    "This programme of study is an ideal start to a career in Health and Social Care for those learners who have just finished their compulsory education with minimum certification. This one-year full-time programme does not qualify the learner to work in the sector. However, the vocational and key skills modules which make up the course specification will help the learner to progress slowly to higher levels of study.",
+                    "The course includes both practical and theoretical lectures which cover the basics of health and social care including basic nutrition, first aid and interpersonal communication with service-users that projects respect, integrity, dignity, and anti-discrimination."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studju huwa l-bidu ideali g\u0127al karriera fis-Sa\u0127\u0127a u l-Kura So\u010bjali g\u0127al dawk l-istudenti li jkunu g\u0127adhom kemm lestew l-edukazzjoni obbligatorja tag\u0127hom bi ftit jew xejn \u010bertifikati. Dan il-programm full-time ta\u2019 sena ma jag\u0127tix lill-istudent bi\u017c\u017cejjed kwalifiki biex ja\u0127dem fis-settur. Madankollu, l-unitajiet vokazzjonali u tal-\u0127iliet ewlenin li jiffurmaw l-ispe\u010bifikazzjoni tal-kors iwasslu lill-istudent biex javvanza bil-mod g\u0127al livelli og\u0127la ta\u2019 studju.",
+                    "Il-kors jinkludi lezzjonijiet pratti\u010bi kif ukoll ta\u2019 teorija li jkopru l-elementi ba\u017ci\u010bi tas-sa\u0127\u0127a u l-kura so\u010bjali, inklu\u017ci n-nutrizzjoni ba\u017cika, l-ewwel g\u0127ajnuna u l-komunikazzjoni ma\u2019 dawk li ju\u017caw is-servizzi, li tkun tirrifletti r-rispett, l-integrit\u00e0, id-dinjit\u00e0 u n-nuqqas ta\u2019 diskriminazzjoni."
+                ],
+                "mqf": 1,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assessment Tests (as may be applicable)",
+                "careers": []
+            },
+            {
+                "index": "03-02",
+                "institute": "ics",
+                "code": "CS1-02-19",
+                "title": "Introductory Certificate in Hairdressing",
+                "desc_en": [
+                    "This programme of studies introduces the learner to modules related to this sector. A number of interesting topics will be discussed. Examples include the different types of equipment and products typically found in hairdressing salons, customer care services, communication skills, professional attitudes, window-dressing, personal appearance and hygiene. The study-units incorporate theoretical aspects of hairdressing as well as practical sessions of basic hairdressing procedures using a mannequin head.",
+                    "Learners are also given the opportunity to strengthen their key skills subjects. Weekly lessons in English Language, Maltese, Mathematics, Science, Information Technology and Individual and Social Responsibility (ISR) are delivered in a manner that will help to render the vocational units more appealing and relevant to the students."
+                ],
+                "desc_mt": [
+                    "Dan il-programm jintrodu\u010bi lill-istudent g\u0127al su\u0121\u0121etti relatati ma\u2019 dan is-settur. E\u017cempji jinkludu t-tipi differenti ta\u2019 tag\u0127mir u prodotti li normalment insibu f\u2019salons tal-hairdressing, is-servizzi tal-kura tal-klijenti, il-\u0127iliet ta\u2019 komunikazzjoni, l-attitudnijiet personali, l-arran\u0121ament tal-vetrini tas-salon, id-dehra u l-i\u0121jene personali. L-unitajiet ta\u2019 studju jinkorporaw aspetti teoreti\u010bi tal-hairdressing, kif ukoll sessjonijiet pratti\u010bi dwar il-pro\u010beduri ba\u017ci\u010bi tal-hairdressing fejn tintu\u017ca ras ta\u2019 manikin.",
+                    "L-istudenti jing\u0127ataw ukoll l-opportunit\u00e0 li jsa\u0127\u0127u s-su\u0121\u0121etti tal-\u0127iliet ewlenin tag\u0127hom. Il-lezzjonijiet ta\u2019 kull \u0121img\u0127a fl-Ingli\u017c, il-Malti, il-Matematika, ix-Xjenza, it-Teknolo\u0121ija tal-Informazzjoni u r-Responsabbilt\u00e0 Individwali u So\u010bjali (ISR) jing\u0127ataw b\u2019mod li jg\u0127inu biex l-unitajiet vokazzjonali jkunu aktar attraenti u rilevanti g\u0127all-istudenti."
+                ],
+                "mqf": 1,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assessment Tests (as may be applicable)",
+                "careers": []
+            },
+            {
+                "index": "03-03",
+                "institute": "ics",
+                "code": "CS2-01-19",
+                "title": "Foundation Certificate in Care",
+                "desc_en": [
+                    "This programme of studies is aimed at those individuals who wish to embark on a future career in the Health and Social Care Sector. During the year the learners will have a variety of lectures which will give them an understanding of basic concepts related to this sector. Lectures will focus on human behaviour, the way the body works and what constitutes a safe working environment. Learners will also be given the opportunity to strengthen their key skills subjects including Maltese, English, Mathematics and Science through the vocational perspective.",
+                    "Learners will have the opportunity to visit organisations related to this sector so that they become accustomed to the environment."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studju full-time huwa mmirat lejn dawk l-individwi li fil-futur jixtiequ jibdew karriera fis-Settur tas-Sa\u0127\u0127a u l-Kura So\u010bjali. Matul is-sena, l-istudenti jkollhom varjet\u00e0 ta\u2019 lezzjonijiet li jag\u0127tuhom tag\u0127rif dwar il-kun\u010betti ba\u017ci\u010bi relatati ma\u2019 dan is-settur. Il-lezzjonijiet jiffokaw fuq l-im\u0121iba tal-bniedem, il-mod kif ja\u0127dem il-\u0121isem u x\u2019inhu dak li jag\u0127mel ambjent tax-xog\u0127ol sikur. L-istudenti jing\u0127ataw ukoll l-opportunit\u00e0 li jsa\u0127\u0127u s-su\u0121\u0121etti tal-\u0127iliet ewlenin tag\u0127hom, inklu\u017ci l-Malti, l-Ingli\u017c, il-Matematika u x-Xjenza mil-lat vokazzjonali.",
+                    "L-istudenti jkollhom l-opportunit\u00e0 li j\u017curu organizzazzjonijiet relatati ma\u2019 dan is-settur sabiex isiru familjari mal-ambjent. Fl-a\u0127\u0127ar ta\u2019 dan il-kors ta\u2019 sena, l-istudenti jkollhom l-opportunit\u00e0 li javvanzaw g\u0127al-livell ta\u2019 Diploma fl-istess settur."
+                ],
+                "mqf": 2,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education",
+                    "MCAST Introductory Certificate"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assessment Tests (as may be applicable)",
+                "careers": []
+            },
+            {
+                "index": "03-04",
+                "institute": "ics",
+                "code": "CS2-02-19",
+                "title": "Foundation Certificate in Hairdressing, Beauty and Well-Being",
+                "desc_en": [
+                    "This programme of study provides an overview of the different routes available to learners within the Institute of Community Services, whilst leaving all their options open.",
+                    "The modules on offer provide learners with basic knowledge in health and safety practices employed during beauty and hairdressing techniques and procedures. Other modules focus on an understanding of the basic scientific concepts related to all hair and beauty services and treatments, while introducing the learners to basic business concepts.",
+                    "The course also provides learners with quality work experience exposure where they will be expected to assist and carry out a range of assigned tasks, using approved models. Learners are required to purchase the necessary hairdressing and beauty accessories at the beginning of the academic year."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji jipprovdi \u0127arsa \u0121enerali lejn it-toroq differenti li huma disponibbli g\u0127all-istudenti fl-Istitut tas-Servizzi Komunitarji, filwaqt li j\u0127allilhom miftu\u0127a l-g\u0127a\u017cliet kollha.",
+                    "L-unitajiet offruti jipprovdu lill-istudenti b\u2019g\u0127arfien ba\u017ciku tal-pratti\u010bi tas-sa\u0127\u0127a u s-sigurt\u00e0 u\u017cati fit-teknika u l-pro\u010beduri tas-sbu\u0127ija u l-hairdressing. Unitajiet o\u0127ra jiffokaw fuq l-g\u0127arfien tal-kun\u010betti xjentifi\u010bi ba\u017ci\u010bi relatati mas-servizzi u t-trattamenti kollha tax-xag\u0127ar u tas-sbu\u0127ija; u jintrodu\u010bu wkoll lill-istudenti g\u0127all-kun\u010betti ba\u017ci\u010bi tan-negozju.",
+                    "Il-kors jesponi lill-istudenti g\u0127al esperjenza ta\u2019 xog\u0127ol ta\u2019 kwalit\u00e0 fejn ikunu mistennija ju\u017caw mudelli approvati biex jassistu u jwettqu firxa ta\u2019 xog\u0127lijiet assenjati lilhom. L-istudenti huma me\u0127tie\u0121a jixtru l-a\u010b\u010bessorji ne\u010bessarji tal-hairdressing u tas-sbu\u0127ija fil-bidu tas-sena akkademika."
+                ],
+                "mqf": 2,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compulsory Education",
+                    "MCAST Introductory Certificate"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assessment Tests (as may be applicable)",
+                "careers": []
+            },
+            {
+                "index": "03-05",
+                "institute": "ics",
+                "code": "CS2-03-19",
+                "title": "Foundation Certificate in Sport",
+                "desc_en": [
+                    "This programme of studies serves as a stepping stone to a future working career in the sport sector. The learner experiences the practical and basic theoretical components of a number of sports and fitness related subjects. The vocational study-units cover the basics of health and active lifestyles, community sports, fitness training methods and include an introduction to gym-based exercise. Concurrently, learners strengthen their knowledge of the key skills in English, Maltese, Mathematics, Science, Information Technology, and Individual and Social Responsibility. Throughout the academic year, MCAST and the Institute of Community Services organise a number of sport related extra-curricular activities in which the learners will be invited to participate in order to enrich their experience on campus."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji jservi b\u0127ala pass lejn karriera ta\u2019 xog\u0127ol futura fis-settur tal-isport. L-istudent jesperjenza l-komponenti teoreti\u010bi pratti\u010bi u ba\u017ci\u010bi ta\u2019 g\u0127add ta\u2019 su\u0121\u0121etti relatati mal-isport u mal-kundizzjoni fi\u017cika tajba. L-unitajiet ta\u2019 studju vokazzjonali jkopru l-elementi ba\u017ci\u010bi ta\u2019 sa\u0127\u0127a tajba u stili ta\u2019 \u0127ajja attiva, l-isport fil-komunit\u00e0, il-metodi ta\u2019 ta\u0127ri\u0121 g\u0127al kundizzjoni fi\u017cika tajba, u jinkludu introduzzjoni g\u0127all-e\u017cer\u010bizzju bba\u017cat fil-gym. Fl-istess \u0127in, l-istudenti jsa\u0127\u0127u l-g\u0127arfien tag\u0127hom tal-\u0127iliet ewlenin fl-Ingli\u017c, il-Malti, il-Matematika, ix-Xjenza, it-Teknolo\u0121ija tal-Informazzjoni, u r-Responsabbilt\u00e0 Individwali u So\u010bjali. Matul is-sena akkademika, l-MCAST u l-Istitut tas-Servizzi Komunitarji jorganizzaw g\u0127add ta\u2019 attivitajiet extrakurrikulari relatati mal-isport li fihom l-istudenti jkunu mistiedna jipparte\u010bipaw sabiex l-esperjenza tag\u0127hom fil-kampus tkun ferm isba\u0127."
+                ],
+                "mqf": 2,
+                "duration": 1,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "Finished Compolsory Education",
+                    "MCAST Introductory Certificate"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "Initial Assesment Tests (as may be applicable)\\nMedical clearance required",
+                "careers": []
+            },
+            {
+                "index": "03-06",
+                "institute": "ics",
+                "code": "CS3-01-19",
+                "title": "Diploma for Beauty Specialists",
+                "desc_en": [
+                    "This programme of studies offers learners the possibility to seek employment in salons as Beauty Specialists. Alternatively, students who complete successfully this one-year full-time course may wish to consider furthering their studies by progressing to the Level 4 Advanced Diploma programme in Beauty and Complementary Therapies.",
+                    "Leaners are guided on how to develop and carry out individual treatment plans based on the specific requirements of each individual client. Treatments include skin care, manicure and pedicure, depilation, nails, make-up services, eyebrow and eyelash treatments. Other modules relate to health and safety practices in the salon and business aspects including business plans, effective communication skills and proper conduct with clients."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji joffri lill-istudenti l-possibbilt\u00e0 li jfittxu impjieg fis-salons b\u0127ala Spe\u010bjalisti tas-Sbu\u0127ija. Min-na\u0127a l-o\u0127ra, l-istudenti li jtemmu dan il-kors b\u2019su\u010b\u010bess jistg\u0127u jikkunsidraw li jkomplu l-istudji tag\u0127hom billi jid\u0127lu ghall-Advanced Diploma in Beauty and Complementary Therapies (Livell 4).",
+                    "L-istudenti jing\u0127ataw gwida dwar kif g\u0127andhom iwettqu trattamenti individwali mfassla g\u0127al kull klijent individwali. Dawn it-trattamenti jistg\u0127u jinkludu trattamenti g\u0127all-kura tal-\u0121ilda, tal-idejn u tas-saqajn, depilazzjoni, il-kura tad-dwiefer, servizzi ta\u2019 make-up u trattamenti tax-xag\u0127ar tal-g\u0127ajnejn u tal-\u0127u\u0121bejn. Unitajiet o\u0127ra jirrigwardjaw pratti\u010bi tas-sa\u0127\u0127a u s-sigurt\u00e0 fis-salon u aspetti tan-negozju inklu\u017ci pjanijiet tan-negozju, \u0127iliet ta\u2019 komunikazzjoni effettivi u m\u0121iba tajba mal-klijenti."
+                ],
+                "mqf": 3,
+                "duration": 1,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Foundation Certificate",
+                    "2 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "English Language, Biology, Chemistry, Home Economics, Art",
+                "req_other": "",
+                "careers": [
+                    "Beauty specialist"
+                ]
+            },
+            {
+                "index": "03-07",
+                "institute": "ics",
+                "code": "CS3-A2-19",
+                "title": "Diploma in Hairdressing \u2013 Women",
+                "desc_en": [
+                    "Hairdressing is a creative industry which requires skilled technical stylists to cope with the customers\u2019 demands. In today\u2019s fast-moving world self-image is your brand. This programme of studies provides the learners with the skills and confidence to step on to the road to success; indeed, the opportunities are endless.",
+                    "Learners cover a variety of interesting study-units such as client consultation, hair styling for different occasions, hair colouring, perming and straightening. This includes experience in the Community Services salons as well as placements in industry as part of the Apprenticeship scheme. Learners will also further develop their knowledge in key skills."
+                ],
+                "desc_mt": [
+                    "Il-hairdressing huwa industrija kreattiva li tirrikjedi stilisti tekni\u010bi kwalifikati biex ila\u0127\u0127qu mad-domanda tal-klijenti. Fid-dinja mg\u0127a\u0121\u0121la tal-lum, l-imma\u0121ni tal-persuna tiddefiniha. Dan il-programm ta\u2019 studji jipprovdi lill-istudenti bil-\u0127iliet u l-kunfidenza biex jibdew it-triq g\u0127as-su\u010b\u010bess; fil-fatt l-opportunitajiet huma bla limitu.",
+                    "L-istudenti jkopru varjet\u00e0 ta\u2019 unitajiet ta\u2019 studju b\u0127all-konsultazzjoni tal-klijenti, l-issettjar tax-xag\u0127ar g\u0127al okka\u017cjonijiet differenti, i\u017c-\u017cebg\u0127a, l-ippermjar u l-illixxjar tax-xag\u0127ar. Dan jinkludi esperjenza fis-salons tal-Istitut tas-Servizzi Komunitarji, kif ukoll esperjenza ta\u2019 xog\u0127ol fl-industrija b\u0127ala parti mill-iskema tal-Apprendistat. L-istudenti jkomplu wkoll ji\u017cviluppaw l-g\u0127arfien tag\u0127hom f\u2019\u0127iliet ewlenin."
+                ],
+                "mqf": 3,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Apprenticeship",
+                "req_entry": [
+                    "MCAST Foundation Certificate",
+                    "2 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "English Language, Biology, Chemistry, Physics, Home Economics, General Science, Art",
+                "req_other": "",
+                "careers": [
+                    "Junior hair stylist for women, Sales representative for hair products"
+                ]
+            },
+            {
+                "index": "03-08",
+                "institute": "ics",
+                "code": "CS3-03-19",
+                "title": "Diploma in Health and Social Care",
+                "desc_en": [
+                    "Prospective candidates who enrol in this course should have an interest in working with elderly persons and persons with different abilities. Lectures include a number of varied topics such as nutrition, equality, diversity, dignity and rights of individuals. Moreover, this programme of studies provides a route for education within a number of specialised areas such as the Social Care sector, Early Years Education, and Health Sciences. The programme offers an opportunity for learners to carry out work-based learning in two different host organisations which form part of the sector. Here they will be expected to carry out a range of assigned tasks under supervision.",
+                    "In the case of learners who do not wish to further their studies, this one-year programme provides a suitable exit point to seek employment as a care worker."
+                ],
+                "desc_mt": [
+                    "Il-kandidati prospettivi li jirre\u0121istraw g\u0127al dan il-kors full-time g\u0127andu jkollhom interess li ja\u0127dmu ma\u2019 persuni anzjani u individwi b\u2019kapa\u010bitajiet differenti. Il-lezzjonijiet jinkludu g\u0127add ta\u2019 su\u0121\u0121etti varjati b\u0127an-nutrizzjoni, l-ugwaljanza, id-diversit\u00e0, id-dinjit\u00e0 u d-drittijiet tal-individwi. Barra minn hekk, dan il-programm ta\u2019 studji jwitti t-triq g\u0127al edukazzjoni f\u2019g\u0127add ta\u2019 oqsma spe\u010bjalizzati b\u0127as-settur tal-Kura So\u010bjali, l-Edukazzjoni tat-Tfal fis-Snin Bikrin, u x-Xjenzi tas-Sa\u0127\u0127a. Il-programm joffri opportunit\u00e0 biex l-istudenti jir\u010bievu tag\u0127lim ibba\u017cat fil-post tax-xog\u0127ol, f\u2019organizzazzjonijiet ospitanti differenti li jiffurmaw parti mis-settur. Hawnhekk ikunu mistennija jwettqu ta\u0127t supervi\u017cjoni, ix-xog\u0127ol li huma ji\u0121u assenjati.",
+                    "Fil-ka\u017c ta\u2019 studenti li ma jixtiqux ikomplu l-istudji tag\u0127hom, dan il-programm ta\u2019 sena jipprovdi punt ta\u2019 \u0127ru\u0121 xieraq biex wie\u0127ed isib impjieg b\u0127ala \u0127addiem ta\u2019 appo\u0121\u0121 jew assistent fil-qasam tal-kura tas-sa\u0127\u0127a."
+                ],
+                "mqf": 3,
+                "duration": 1,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Foundation Certificate",
+                    "2 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "English Language, Biology, Physics, Chemistry, Maltese, Social Studies, Nutrition, Food Consumer Studies (Home Economics)",
+                "req_other": "Prior to embarking on any Placement, learners need to:\\n\u2022 satisfy the requirements of the Protection of Minors Act (POMA);\\n\u2022 satisfy specific immunisation requirements; and \u2022\\n present a clean police conduct.",
+                "careers": [
+                    "Care worker, Care assistant, Support care worker"
+                ]
+            },
+            {
+                "index": "03-09",
+                "institute": "ics",
+                "code": "CS3-04-19",
+                "title": "Diploma in Sport",
+                "desc_en": [
+                    "This programme of studies covers the basics of Anatomy and Physiology in Sport, Fitness Testing, Fitness Instruction, Fundamental Methodology of Physical Activity and Sport, as well as the theory and practice of the mainstream sports. The syllabus incorporates a work-based learning component thus facilitating the transition into employment for those learners who do not wish to further their studies. By the end of the course, the learner will be able to assist a Fitness Instructor in the preparation and delivery of basic fitness training programmes.",
+                    "The learner will be encouraged to take part in various sports-related events that are organised on campus from time to time."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji jkopri l-elementi ba\u017ci\u010bi tal-Anatomija u l-Fi\u017cjolo\u0121ija fl-Isport, l-Ittestjar tal-Kundizzjoni Fi\u017cika Tajba, l-Istruzzjoni g\u0127al Kundizzjoni Fi\u017cika Tajba, il-Metodolo\u0121ija Fundamentali tal-Attivit\u00e0 Fi\u017cika u l-Isport, kif ukoll it-teorija u l-prattika tal-isport l-iktar komuni. Is-sillabu jinkludi komponent ta\u2019 tag\u0127lim fil-post tax-xog\u0127ol li jiffa\u010bilita t-tran\u017cizzjoni f\u2019impjieg g\u0127al dawk l-istudenti li ma jixtiqux ikomplu jistudjaw. Sal-a\u0127\u0127ar tal-kors, l-istudent ikun kapa\u010bi jassisti lill-G\u0127alliem tal-Fitness i\u0127ejji u jg\u0127allem programmi ba\u017ci\u010bi ta\u2019 ta\u0127ri\u0121 g\u0127al kundizzjoni fi\u017cika tajba.",
+                    "L-istudent ji\u0121i m\u0127e\u0121\u0121e\u0121 jie\u0127u sehem f\u2019diversi avvenimenti relatati mal-isport li huma organizzati fil-kampus minn \u017cmien g\u0127al \u017cmien."
+                ],
+                "mqf": 3,
+                "duration": 1,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Foundation Certificate",
+                    "2 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "English Language, Biology, Physical Education",
+                "req_other": "Medical clearance is required.\\nApplicants are expected to successfully fulfill the requirements of a Fitness Test.",
+                "careers": [
+                    "Assistant fitness instructor, Sports fundamentals assistant coach, Gym instructor"
+                ]
+            },
+            {
+                "index": "03-10",
+                "institute": "ics",
+                "code": "CS3-05-18",
+                "title": "Extended Diploma in Foundation Studies for Security, Enforcement and Protection",
+                "desc_en": [
+                    "This programme is gaining a lot of popularity with learners who intend to seek future employment within the Academy for Disciplined Forces. Lecturers will discuss current and contemporary issues relating to security, enforcement and protection both in Malta and beyond our shores. Learners will also tackle topics related to equality, diversity, dignity and rights of individuals. Educational visits will be organised to different departments which form part of the Academy: the Civil Protection Department, the Police Force, the Armed Forces of Malta and the Law Courts.",
+                    "This Extended Diploma course is delivered over two years. However, learners can opt to exit after the successful completion of their first year of studies. In this case, they will be eligible to attain a Level 3 Diploma in Foundation Studies for Security, Enforcement and Protection."
+                ],
+                "desc_mt": [
+                    "Dan il-programm qed jikseb \u0127afna popolarit\u00e0 mal-istudenti li g\u0127andhom l-intenzjoni li fil-futur isibu impjieg fl-Akkademja g\u0127al Forzi Dixxiplinati. L-istudenti jiddiskutu kwistjonijiet kurrenti u kontemporanji relatati mas-sikurezza, l-infurzar u l-protezzjoni, kemm f\u2019Malta kif ukoll lil hinn minn xtutna. L-istudenti jittrattaw ukoll su\u0121\u0121etti relatati mal-ugwaljanza, id-diversit\u00e0, id-dinjit\u00e0 u d-drittijiet ta\u2019 l-individwi. Ji\u0121u organizzati \u017cjarat edukattivi f\u2019dipartimenti differenti li jiffurmaw parti mill-Akkademja: id-Dipartiment tal-Protezzjoni \u010aivili, il-Pulizija, il-Forzi Armati ta\u2019 Malta u l-Qrati.",
+                    "Dan il-kors ta\u2019 Diploma Esti\u017ca jdum sentejn. Madankollu, l-istudenti jistg\u0127u jag\u0127\u017clu li jo\u0127or\u0121u minn dan il-kors wara li jlestu b\u2019su\u010b\u010bess l-ewwel sena tal-istudji tag\u0127hom. F\u2019dan il-ka\u017c, ikunu eli\u0121ibbli biex jiksbu Diploma in Foundation Studies for Security, Enforcement and Protection tal-Livell 3."
+                ],
+                "mqf": 3,
+                "duration": 2,
+                "study": "FT",
+                "mode": "",
+                "req_entry": [
+                    "MCAST Foundation Certificate",
+                    "2 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Careers in Disciplined Forces (further training may apply depending on the chosen career path)"
+                ]
+            },
+            {
+                "index": "03-11",
+                "institute": "ics",
+                "code": "CS4-01-19",
+                "title": "Advanced Diploma in Beauty and Complementary Therapies",
+                "desc_en": [
+                    "This programme is made up of study-units intended to equip learners with the knowledge to provide treatments for the purpose of relaxation and stress relief as well as to improve the condition of the skin. Learners will have the opportunity to perform practical tasks during hands-on sessions within the MCAST salons. There will also be work placement periods within established Salons and Spas.",
+                    "Study-units during the second year of studies include alternative therapies such as reflexology, stone therapy and aromatherapy.",
+                    "At the end of the first academic year, successful learners will have the option to exit their studies, and be awarded the MCAST Award in Beauty Therapy. This award will enable them to work in the industry as beauty therapists."
+                ],
+                "desc_mt": [
+                    "Dan il-programm huwa mag\u0127mul minn unitajiet ta\u2019 studju ma\u0127suba biex jag\u0127tu lill-istudenti l-g\u0127arfien biex jipprovdu trattamenti g\u0127all-finijiet ta\u2019 rilassament u ser\u0127an mill-istress, kif ukoll biex itejbu l-kundizzjoni tal-\u0121ilda. L-istudenti jkollhom l-opportunit\u00e0 li jwettqu xog\u0127lijiet pratti\u010bi matul sessjonijiet pratti\u010bi fis-salons tal-MCAST. Ikun hemm ukoll perjodi ta\u2019 esperjenza ta\u2019 xog\u0127ol f\u2019Salons u Spas stabbiliti.",
+                    "L-unitajiet ta\u2019 studju matul it-tieni sena tal-istudji jinkludu terapiji alternattivi b\u0127al reflexology, stone therapy u aromatherapy.",
+                    "L-istudenti li jtemmu l-ewwel sena akkademika b\u2019su\u010b\u010bess ikollhom l-g\u0127a\u017cla li jieqfu mill-istudji tag\u0127hom u jing\u0127ataw l-MCAST Award in Beauty Therapy. Permezz ta\u2019 din l-g\u0127otja, huma jkunu jistg\u0127u ja\u0127dmu fl-industrija b\u0127ala terapisti tas-sbu\u0127ijia."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "ITEC Diploma for Beauty Specialists",
+                    "MCAST Diploma for Beauty Specialists"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Beauty therapist"
+                ]
+            },
+            {
+                "index": "03-12",
+                "institute": "ics",
+                "code": "CS4-04-19",
+                "title": "Advanced Diploma in Children\u2019s Care, Learning and Development",
+                "desc_en": [
+                    "This programme provides major emphasis on the practical components which form an integral part of the programme. Learners are taught how to observe babies and toddlers in an early years\u2019 environment, to be able to help each child reach his or her maximum potential. Innovative methods are used to plan activities for children in a childcare setting. Other topics include the safeguarding and promotion of children\u2019s rights and the creation of a safe and engaging environment where positive development can take place.",
+                    "At the end of the first academic year, successful learners will have the option to exit their studies, and be awarded the MCAST Award in Children\u2019s Care, Learning and Development. This award will enable them to work as child care practitioners."
+                ],
+                "desc_mt": [
+                    "Dan il-programm jag\u0127ti importanza kbira lill-komponenti pratti\u010bi li jiffurmaw parti integrali tal-programm. L-istudenti ji\u0121u mg\u0127allma kif josservaw lit-trabi u t-tfal i\u017c-\u017cg\u0127ar f\u2019ambjent ta\u2019 snin bikrija, biex ikunu jistg\u0127u jg\u0127inu lit-tfal jil\u0127qu l-potenzjal massimu tag\u0127hom. Jintu\u017caw metodi innovattivi biex ji\u0121u ppjanati attivitajiet g\u0127al tfal f\u2019ambjent tal-kura tat-tfal. Lezzjonijiet o\u0127ra jinkludu su\u0121\u0121etti dwar it-t\u0127aris u l-promozzjoni tad-drittijiet tat-tfal u l-\u0127olqien ta\u2019 ambjent sikur u motivanti fejn jista\u2019 jse\u0127\u0127 \u017cvilupp po\u017cittiv.",
+                    "L-istudenti li jtemmu l-ewwel sena akkademika b\u2019su\u010b\u010bess ikollhom l-g\u0127a\u017cla li ma jkomplux l-istudji tag\u0127hom, u jing\u0127ataw l-MCAST Award in Children\u2019s Care, Learning and Development. Permezz ta\u2019 din l-g\u0127otja, huma jkunu jistg\u0127u ja\u0127dmu b\u0127ala prattikanti fil-qasam tal-kura tat-tfal."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Diploma in Health and Social Care",
+                    "MCAST Diploma in Sport",
+                    "MCAST Diploma in Performing Arts",
+                    "MCAST Diploma in Art and Design",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "English Language, Maltese, Mathematics",
+                "req_other": "Prior to embarking on any Placement, learners need to:\\n\u2022 satisfy the requirements of the Protection of Minors Act (POMA);\\n\u2022 present a clean police conduct\\n\u2022 complete a Basic First Aid course\\n\u2022 complete a Paediatric First Aid course.",
+                "careers": [
+                    "Child care practitioner"
+                ]
+            },
+            {
+                "index": "03-13",
+                "institute": "ics",
+                "code": "CS4-02-19",
+                "title": "Advanced Diploma in Health and Social Care",
+                "desc_en": [
+                    "This is a two-year full-time programme during which the learner becomes better acquainted with the specialised services offered by different agencies and organisations in the care sector. This programme of studies is ideal for those prospective candidates who derive a lot of personal satisfaction from helping others. Lectures deal with sociological and psychological perspectives, legislation, communication skills and human biology.",
+                    "Lecturers will present scenarios which are dynamic and thought-provoking, and learners are prepared to work in challenging environments dealing with vulnerable individuals. A work-based learning component is included in the framework of this programme. Learners who successfully graduate from this programme of studies are very much in demand and all manage to find immediate employment in the sector."
+                ],
+                "desc_mt": [
+                    "Dan huwa programm full-time ta\u2019 sentejn li matulu l-istudent isir aktar familjari mas-servizzi spe\u010bjalizzati offruti minn a\u0121enziji u organizzazzjonijiet differenti fis-settur tal-kura. Dan il-programm ta\u2019 studji huwa ideali g\u0127al dawk il-kandidati prospettivi li jiksbu sodisfazzjon personali meta jg\u0127inu lill-o\u0127rajn. Il-lezzjonijiet jittrattaw perspettivi so\u010bjolo\u0121i\u010bi u psikolo\u0121i\u010bi, il-le\u0121i\u017clazzjoni, il-\u0127iliet tal-komunikazzjoni u l-bijolo\u0121ija tal-bniedem.",
+                    "L-g\u0127alliema jippre\u017centaw xenarji li huma dinami\u010bi u li j\u0121ieg\u0127lu lill-istudenti ja\u0127sbu, u l-istudenti jit\u0127ejjew biex ja\u0127dmu f\u2019ambjenti ta\u2019 sfida ma\u2019 individwi vulnerabbli. Komponent ta\u2019 tag\u0127lim ibba\u017cat fuq ix-xog\u0127ol huwa inklu\u017c fil-qafas ta\u2019 dan il-programm. L-istudenti li jiggradwaw b\u2019su\u010b\u010bess minn dan il-programm ta\u2019 studji huma me\u0127tie\u0121a ferm u kollha jirnexxilhom isibu impjieg fis-settur immedjatament."
+                ],
+                "mqf": 4,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Diploma in Health and Social Care",
+                    "MCAST Diploma in Applied Science",
+                    "MCAST Diploma in Sport",
+                    "MCAST Diploma in Foundation Studies for Security, Enforcement and Protection",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "Health and Social Care, English Language, Maltese, Ethics, Social Studies, Home Economics, Biology",
+                "req_other": "Prior to embarking on any Placement, learners need to present a clean police conduct.",
+                "careers": [
+                    "Social support worker"
+                ]
+            },
+            {
+                "index": "03-14",
+                "institute": "ics",
+                "code": "CS4-03-19",
+                "title": "Advanced Diploma in Sport (Development, Coaching and Fitness)",
+                "desc_en": [
+                    "This is a full-time programme with a strong emphasis on work-based learning. The course looks into coaching, fitness, and sports development, as well as modules relating to sports injury and sports as a business venture. Placement experience provided throughout the course further strengthens these abilities.",
+                    "During the two years of study, the learner will be exposed to an array of practical and theoretical modules related to the sector. As an entry criterion to the course, the learners would need to undertake and pass a basic Fitness Test that physically tests the learners\u2019 personal level of fitness in terms of flexibility, cardiovascular endurance, power, speed and agility."
+                ],
+                "desc_mt": [
+                    "Dan huwa programm full-time b\u2019enfasi qawwija fuq it-tag\u0127lim waqt esperjenzi fil-post tax-xog\u0127ol. Il-kors jittratta l-ikkow\u010bjar, il-fitness, l-i\u017cvilupp, u jinkludi unitajiet ta\u2019 studju relatati ma\u2019 korrimenti waqt l-isport u l-isport b\u0127ala negozju. L-esperjenza ta\u2019 xog\u0127ol waqt il-kors tkompli ssa\u0127\u0127a\u0127 il-kapa\u010bit\u00e0 tal-istudent f\u2019dawn l-oqsma.",
+                    "Matul is-sentejn ta\u2019 studju, l-istudent jiltaqa\u2019 ma\u2019 firxa ta\u2019 unitajiet pratti\u010bi u teoreti\u010bi relatati mas-settur. B\u0127ala kriterju g\u0127ad-d\u0127ul fil-kors, l-istudenti jkunu me\u0127tie\u0121a joqog\u0127du g\u0127al u jg\u0127addu minn Test ba\u017ciku ta\u2019 Kundizzjoni Fi\u017cika Tajba li g\u0127andu l-g\u0127an li jittestja l-livell personali tal-fitness tal-istudenti f\u2019dak li g\u0127andu x\u2019jaqsam ma flessibbilt\u00e0, re\u017cistenza kardjovaskolari, sa\u0127\u0127a, velo\u010bit\u00e0 u a\u0121ilit\u00e0."
+                ],
+                "mqf": 2,
+                "duration": 4,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Diploma in Sport",
+                    "MCAST Diploma in Applied Science",
+                    "MCAST Diploma in Health and Social Care",
+                    "MCAST Diploma in Foundation Studies for Security, Enforcement and Protection",
+                    "4 SEC\/O-Level\/SSC&P (Level 3) passes"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "Physical Education, English Language, Biology",
+                "req_other": "Medical clearance required.\\nApplicants are expected to successfully fulfill the requirements of a fitness test in terms of flexibility, cardiovascular endurance, power, speed and agility.",
+                "careers": [
+                    "Fitness instructor, Fitness coach, Gym instructor\/coach, Sport fundamentals coach, Sport development officer, Sport activity organiser"
+                ]
+            },
+            {
+                "index": "03-15",
+                "institute": "ics",
+                "code": "CS5-01-19",
+                "title": "Higher Diploma in Advanced Studies in the Early Years",
+                "desc_en": [
+                    "This programme is one of the most sought-after courses within this Institute. It is highly popular since it provides ample opportunities to find employment at the end of the two-year programme.",
+                    "The study-units are designed in a manner that provides a strong link between theoretical concepts and hands-on practice during internships. Lectures focus on guiding the undergraduates on how to make learning for young children stimulating and fun, in a safe and healthy environment.",
+                    "Upon completion of this programme, the undergraduates may proceed to the final year of the Bachelor of Arts (Hons) in Early Childhood Education and Care (ECEC) within the Faculty of Education, University of Malta, subject to fulfilling a number of requirements relating to proficiency in the Maltese and English languages."
+                ],
+                "desc_mt": [
+                    "Dan il-programm huwa wie\u0127ed mill-aktar korsijiet popolari f\u2019dan l-Istitut. Huwa popolari \u0127afna min\u0127abba li jipprovdi numru ta\u2019 opportunitajiet biex wie\u0127ed isib impjieg fi tmiem il-programm ta\u2019 sentejn.",
+                    "L-unitajiet ta\u2019 studju huma mfassla b\u2019tali mod li jipprovdu rabta qawwija bejn kun\u010betti teoreti\u010bi u l-prattika matul internships. Il-lezzjonijiet jiggwidaw lill-istudenti dwar kif it-tag\u0127lim jista\u2019 jkun stimulanti u ta\u2019 interess g\u0127at-tfal i\u017c-\u017cg\u0127ar, f\u2019ambjent sikur u tajjeb g\u0127as-sa\u0127\u0127a.",
+                    "Meta jlestu dan il-programm, l-istudenti jistg\u0127u jkomplu bl-istudji tag\u0127hom fl-a\u0127\u0127ar sena tal-Bachelor of Arts (Hons) in Early Childhood Education and Care (ECEC) fil-Fakult\u00e0 tal-Edukazzjoni, l-Universit\u00e0 ta\u2019 Malta, basta li jissodisfaw g\u0127add ta\u2019 rekwi\u017citi relatati mal-profi\u010bjenza fil-lingwa Maltija u f\u2019dik Ingli\u017ca."
+                ],
+                "mqf": 5,
+                "duration": 2,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Children\u2019s Care, Learning and Development",
+                    "2 A-Level passes and 2 I-Level passes"
+                ],
+                "req_compusolry": "A-level or I-level: Two subjects from Mathematics, English, Maltese\\nApplicants need to be in possession of a pass at SEC\/O-Level in the subject that is not presented at A-level or I-level.",
+                "req_preferred": "",
+                "req_other": "Prior to embarking on any Placement, learners need to:\\n\u2022 satisfy the requirements of the Protection of Minors Act (POMA);\\n\u2022 present a clean police conduct\\n\u2022 complete a Basic First Aid course\\n\u2022 complete a Paediatric First Aid course.",
+                "careers": [
+                    "Early years educator"
+                ]
+            },
+            {
+                "index": "03-16",
+                "institute": "ics",
+                "code": "CS6-01-19",
+                "title": "Bachelor of Arts (Honours) in Health and Social Care (Management)",
+                "desc_en": [
+                    "The Health and Social Care sector provides a number of career opportunities for successful learners to find engaging and rewarding employment at the end of this degree programme of studies. Throughout the duration of the course, undergraduates participate in work placement experiences in related settings under the supervision of experienced professionals.",
+                    "This programme of studies includes a varied pool of modules aimed at enhancing the undergraduates\u2019 managerial attributes, amongst which Governance and Quality Management and European Law and Social Policy. Other study-units focus on the importance of the undergraduates to keep abreast of current issues that different categories of service-users may encounter such as Globalisation and Poverty and Family and Individual Functioning."
+                ],
+                "desc_mt": [
+                    "Is-settur tas-Sa\u0127\u0127a u l-Kura So\u010bjali jipprovdi g\u0127add ta\u2019 opportunitajiet ta\u2019 karriera biex l-istudenti li jtemmu dan il-kors b\u2019su\u010b\u010bess isibu impjieg motivanti u ta\u2019 sodisfazzjon fi tmiem dan il-programm ta\u2019 studji. Matul il-kors kollu, l-istudenti tal-ba\u010bellerat jipparte\u010bipaw f\u2019esperjenzi ta\u2019 internship f\u2019ambjenti relatati, ta\u0127t is-supervi\u017cjoni ta\u2019 professjonisti ta\u2019 esperjenza.",
+                    "Dan il-programm ta\u2019 studji jinkludi \u0121abra varjata ta\u2019 unitajiet immirati lejn it-tis\u0127i\u0127 tal-karatteristi\u010bi mani\u0121erjali tal-istudenti tal-ba\u010bellerat, fosthom Il-Governanza u l-\u0120estjoni tal-Kwalit\u00e0 u Il-Li\u0121i Ewropea u l-Politika So\u010bjali. Unitajiet ta\u2019 studju o\u0127ra jiffokaw fuq l-importanza li l-istudenti j\u017commu ru\u0127hom a\u0121\u0121ornati fir-rigward ta\u2019 kwistjonijiet kurrenti li jistg\u0127u jiffa\u010b\u010bjaw kategoriji differenti ta\u2019 dawk li ju\u017caw is-servizzi b\u0127alma huma Il-Globalizzazzjoni u l-Faqar u Il-Familja u l-Funzjonament Individwali."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Health and Social Care",
+                    "MCAST Advanced Diploma in Applied Science",
+                    "MCAST Advanced Diploma for Pharmacy Technicians",
+                    "MCAST Advanced Diploma in Health Sciences",
+                    "2 A-Level passes and 2 I-Level passes and SEC\/O-Lev-el Pass in English Language"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "A-Level or I-Level: Chemistry, Biology, Physics, Sociology, Psychology, Home Economics and Human Ecology, Accounts, Economics",
+                "req_other": "",
+                "careers": [
+                    "Administrative and\/or managerial positions within the Health and Social Care sector, Social welfare professional"
+                ]
+            },
+            {
+                "index": "03-17",
+                "institute": "ics",
+                "code": "CS6-03-18",
+                "title": "Bachelor of Arts (Honours) in Inclusive Education",
+                "desc_en": [
+                    "This programme of studies focuses on how educational institutions in general, and the classroom settings, specifically, can become more inclusive to cater for different individual needs.",
+                    "The undergraduates tackle a variety of study-units aimed at identifying what barriers exist which may be preventing students from accessing quality education. Furthermore, the study-units also explore innovative techniques of how these barriers can be overcome so that all students feel valued during compulsory schooling years, and possibly beyond. This course includes internship opportunities aimed at developing a mindset of promoting inclusive communities that celebrate diversity and cater for the diverse needs of different groups of students."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji jiffoka fuq kif l-istituzzjonijiet edukattivi, b\u2019mod \u0121enerali, u l-ambjenti tal-klassi b\u2019mod spe\u010bifiku, jistg\u0127u jsiru aktar inklu\u017civi biex jil\u0127qu \u0127ti\u0121ijiet individwali differenti.",
+                    "L-istudenti tal-ba\u010bellerat jittrattaw varjet\u00e0 ta\u2019 unitajiet ta\u2019 studju, bil-g\u0127an li ji\u0121u identifikati liema ostakoli jistg\u0127u jkunu qeg\u0127din ma j\u0127allux lill-istudenti jkollhom a\u010b\u010bess g\u0127al edukazzjoni ta\u2019 kwalit\u00e0. Barra minn hekk, l-unitajiet ta\u2019 studju jesploraw ukoll teknika innovattiva dwar kif jistg\u0127u jing\u0127elbu dawn l-ostakoli sabiex l-istudenti kollha j\u0127ossuhom stmati matul is-snin ta\u2019 edukazzjoni obbligatorja, u possibilment lil hinn minnhom. Dan il-kors jinkludi opportunitajiet ta\u2019 internship immirati lejn l-i\u017cvilupp ta\u2019 mentalit\u00e0 li tippromwovi komunitajiet inklu\u017civi li ji\u010b\u010belebraw id-diversit\u00e0."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Children\u2019s Care, Learning and Development",
+                    "MCAST Advanced Diploma in Health and Social Care",
+                    "2 A-Level passes and 2 I-Level passes, to include at least one A-Level and one I-Level from Mathematics, English, Maltese, Philosophy, Sociology, Psychology"
+                ],
+                "req_compusolry": "",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Learning support educator (LSE)"
+                ]
+            },
+            {
+                "index": "03-18",
+                "institute": "ics",
+                "code": "CS6-02-20",
+                "title": "Bachelor of Science (Honours) in Sport, Exercise and Health",
+                "desc_en": [
+                    "This programme of studies covers modules that prepare the undergraduates to work alongside medical and healthcare professionals in promoting physical activity and exercise; and are mapped to the rigorous standards upheld by various international accrediting bodies in the field. The ultimate aim will be to improve the general health of the individual and of society as a whole. This course provides learners with hands-on experience throughout the three years, to engage in exercise, health and fitness programmes, conferences and events on and off campus working with different sectors of the community.",
+                    "The undergraduates will develop the knowledge and skills required to assist clients and patients in their various health challenges, non-communicable diseases, health conditions, injuries or disabilities. Furthermore the degree programme also aims to facilitate the pursuit of a number of distinctive sport or exercise-related Master\u2019s (Level 7) programmes."
+                ],
+                "desc_mt": [
+                    "Dan il-programm ta\u2019 studji jkopri unitajiet ta\u2019 studju li j\u0127ejju lill-istudenti tal-ba\u010bellerat biex ja\u0127dmu ma\u2019 professjonisti medi\u010bi u fil-kura tas-sa\u0127\u0127a fil-promozzjoni tal-attivit\u00e0 fi\u017cika u l-e\u017cer\u010bizzju; u jissodisfaw l-istandards rigoru\u017ci osservati minn diversi korpi internazzjonali ta\u2019 akkreditazzjoni fil-qasam. L-g\u0127an a\u0127\u0127ari jkun li titjieb is-sa\u0127\u0127a \u0121enerali tal-individwu u tas-so\u010bjet\u00e0 kollha. Permezz ta\u2019 esperjenza prattika matul it-tliet snin tal-kors, l-istudenti jie\u0127du sehem fi sport, programmi ta\u2019 sa\u0127\u0127a u fitness, konferenzi u avvenimenti kemm \u0121ewwa kif ukoll barra l-kampus, u ja\u0127dmu ma\u2019 setturi differenti tal-komunit\u00e0.",
+                    "L-istudenti ji\u017cviluppaw l-g\u0127arfien u l-\u0127iliet me\u0127tie\u0121a biex jassistu lill-klijenti u lill-pazjenti fid-diversi sfidi tas-sa\u0127\u0127a tag\u0127hom, b\u0127al mard li ma jitte\u0127idx, kundizzjonijiet ta\u2019 sa\u0127\u0127a, korrimenti jew di\u017cabilit\u00e0. Barra minn hekk, il-programm g\u0127andu wkoll l-g\u0127an li jiffa\u010bilita l-a\u010b\u010bess g\u0127al numru ta\u2019 programmi differenti relatati mal-isport jew mal-e\u017cer\u010bizzju fil-livell ta\u2019 Master\u2019s (Livell 7)."
+                ],
+                "mqf": 6,
+                "duration": 3,
+                "study": "FT",
+                "mode": "Work Placement",
+                "req_entry": [
+                    "MCAST Advanced Diploma in Sports (Development, Coaching and Fitness)",
+                    "2 A-Level passes and 2 I-Level passes and SEC\/O-Level pass in English Language"
+                ],
+                "req_compusolry": "I-or A-Level: Physics or Chemistry or Biolo-gy or Physical Education",
+                "req_preferred": "",
+                "req_other": "",
+                "careers": [
+                    "Personal trainer, Exercise for health professional, Specialist trainer, Sports activity manager, Functional sports trainer"
+                ]
+            }
+        ]
+    },
+    {
+        "code": "ica",
+        "color": "#ca2f88",
+        "name_en": "Institute for the Creative Arts",
+        "desc_en": "Formerly known as the Institute of Art and Design, this Institute was established in 2001, merging the expertise of the Art and Design Centre and Salvatore Dimech School for Craftsmen. In 2014, the name was changed to Institute for the Creative Arts to reflect its growing portfolio of courses offered, ranging from art and design to graphic design and interactive media, creative media production, photography and journalism, and recently, fashion design and performing arts as well as cultural heritage skills. The Institute works closely with the industry to provide students with realistic assignment briefs and experiences. The creative arts play a crucial role in communicating visions and ideas which words alone cannot fully express. They may also be perceived as a means to educate, to provide a cultural identity and act as agents of change.",
+        "name_mt": "",
+        "desc_mt": "Dan l-Istitut, li \u0121ie stabbilit fl-2001, qabel kien mag\u0127ruf b\u0127ala l-Istitut tal-Arti u d-Disinn u g\u0127aqqad flimkien il-kompetenzi ta\u010b-\u010aentru tal- Arti u d-Disinn u tal-Iskola Salvatore Dimech g\u0127al Persuni tas-Seng\u0127a. Fl-2014, l-isem inbidel g\u0127all-Istitut g\u0127all-Arti Kreattiva, biex jirrifletti l-portafoll dejjem jikber ta\u2019 korsijiet offruti, li jvarjaw mill-arti u d-disinn, g\u0127ad-disinn grafiku u l-midja interattiva, il-produzzjoni tal-midja kreattiva, il-fotografija u l-\u0121urnali\u017cmu, id-disinn tal-moda u l-arti tal-ispettaklu, kif ukoll il-\u0127iliet tal-patrimonju kulturali. L-Istitut ja\u0127dem mill-qrib mal-industrija biex jipprovdi lill-istudenti tag\u0127rif u esperjenzi ta\u2019 xog\u0127ol realisti\u010bi. L-arti kreattiva g\u0127andha rwol kru\u010bjali fil-komunikazzjoni ta\u2019 vi\u017cjonijiet u ideat li ma jistg\u0127ux ji\u0121u espressi bil-kliem biss. Tista\u2019 ti\u0121i meqjusa wkoll b\u0127ala mezz ta\u2019 edukazzjoni, li tipprovdi identit\u00e0 kulturali u ta\u0121ixxi b\u0127ala a\u0121ent tal-bidla.",
+        "courses": []
+    },
+    {
+        "code": "iet",
+        "color": "#104b9b",
+        "name_en": "Institute of Engineering & Transport",
+        "desc_en": "Well equipped with the latest technology in the various areas of Engineering and Transport related training programmes, the Institute prides itself on a portfolio of VET programmes covering MQF Levels 1 to 7, ranging from the generic to the specific. In order to provide sectorial focus, the Institute is organised into a number of Centres and Departments, covering the respective areas, namely: Aviation Maintenance and Training, Building and Construction, Electrical and Electronics, Mechanical Engineering and Maritime Studies. Thus, learners interested in embarking on a career in any of the above mentioned areas, can start off their studies at an entry level which fits their current qualifications, progressing towards the achievement of prestigious exit level qualifications, some of which may also provide possible eligibility for Professional Warrant recognition (subject to specific requirements).",
+        "name_mt": "",
+        "desc_mt": "Dan l-Istitut, li huwa mg\u0127ammar sew bit- teknolo\u0121ija l-aktar ri\u010benti fid-diversi oqsma tal-programmi tat-ta\u0127ri\u0121 relatati mal-In\u0121inerija u t-Trasport, g\u0127andu portafoll ta\u2019 programmi VET li jkopru l-Livelli 1 sa 7 tal-MQF, u li jvarjaw minn programmi \u0121eneri\u010bi g\u0127al dawk spe\u010bifi\u010bi. Sabiex jipprovdi fokus settorjali, l-Istitut huwa organizzat f\u2019g\u0127add ta\u2019 \u010aentri u Dipartimenti li jkopru l-oqsma rispettivi, ji\u0121ifieri: I\u010b-\u010aentru tal- Manutenzjoni u t-Ta\u0127ri\u0121 fil-Qasam tal-Avjazzjoni, Id-Dipartiment g\u0127all-Bini u l-Kostruzzjoni, Id-Dipartiment g\u0127all-Elettriku u l-Elettronika, Id-Dipartiment g\u0127all-In\u0121inerija Mekkanika, I\u010b-\u010aentru g\u0127all-Istudji Marittimi. Hekk, l-istudenti interessati li jibdew karriera fi kwalunkwe qasam minn dawk imsemmija hawn fuq, ikunu jistg\u0127u jibdew l-istudji tag\u0127hom f\u2019livell ta\u2019 d\u0127ul li jaqbel mal-kwalifiki attwali tag\u0127hom, u jibqg\u0127u javvanzaw sakemm, meta ji\u0121u biex i\u0127allu l-Kulle\u0121\u0121, ikunu kisbu kwalifiki presti\u0121ju\u017ci li, fil-ka\u017c ta\u2019 w\u0127ud minnhom, hemm il-possibbilt\u00e0 li ji\u0121u rikonuxxuti permezz ta\u2019 Warrant Professjonali (dejjem jekk ikunu jissodisfaw rekwi\u017citi spe\u010bifi\u010bi).",
+        "courses": []
+    },
+    {
+        "code": "iict",
+        "color": "#e96c24",
+        "name_en": "Institute of Information & Communication Technology",
+        "desc_en": "The Institute of Information and Communication Technology is the natural choice one should consider before finding a job in the ICT industry. This is a dynamic sector which requires a number of technical people to cope with the constantly evolving computing technologies. The Institute offers various entry points for everyone to successfully obtain the required qualification with the possibility to continue furthering their studies at higher levels. We work closely with the industry to keep our courses relevant to their needs while providing the best training using the latest tools and new emerging technologies.",
+        "name_mt": "",
+        "desc_mt": "L-Istitut tat-Teknolo\u0121ija tal-Informazzjoni u l-Komunikazzjoni huwa l-g\u0127a\u017cla naturali li wie\u0127ed g\u0127andu jikkunsidra qabel ma jfittex impjieg fl-industrija tal-ICT. Dan huwa settur dinamiku li jirrikjedi g\u0127add ta\u2019 persuni tekni\u010bi biex ila\u0127\u0127qu mat-teknolo\u0121iji tal-kompjuters li dejjem jevolvu. L-Istitut joffri diversi punti ta\u2019 d\u0127ul g\u0127al kul\u0127add biex wie\u0127ed ikun jista\u2019 jikseb b\u2019su\u010b\u010bess il-kwalifika me\u0127tie\u0121a, bil-possibbilt\u00e0 li jkompli jistudja f\u2019livelli og\u0127la. A\u0127na na\u0127dmu mill-qrib mal-industrija biex in\u017commu l-korsijiet tag\u0127na rilevanti g\u0127all-\u0127ti\u0121ijiet tag\u0127ha, filwaqt li nipprovdu l-a\u0127jar ta\u0127ri\u0121 bl-u\u017cu tal-g\u0127odod l-aktar ri\u010benti u t-teknolo\u0121iji \u0121odda li qed ji\u0121u \u017cviliuppati.",
+        "courses": []
+    },
+    {
+        "code": "gc",
+        "color": "#1abcee",
+        "name_en": "Gozo Campus",
+        "desc_en": "The MCAST Gozo Campus offers a selection of 24 full-time day courses ranging from MQF Levels 1 to 6 and covering a broad spectrum of vocational disciplines. Some of these programmes lead learners directly to employment, whilst others lead to higher level studies in Gozo and\/or Malta. In either case, learners are thoroughly prepared for their next step, whichever that may be. MCAST training programmes delivered at the Gozo Campus fulfil the same quality assurance standards that are applicable to the same programmes delivered at the respective MCAST Institute in Malta, ensuring that Gozitan students benefit from the same quality of service on their home ground. Learners hailing from the northern region of Malta who choose to study at the Gozo Campus are eligible for a government subsidy.",
+        "name_mt": "",
+        "desc_mt": "Il-Kampus tal-MCAST f\u2019G\u0127awdex joffri g\u0127a\u017cla ta\u2019 24 kors full-time, li jvarjaw minn Livell 1 sa 6 tal-MQF u jkopru numru sewwa ta\u2019 dixxiplini vokazzjonali. Xi w\u0127ud minn dawn il-programmi jwasslu lill-istudenti direttament g\u0127al impjieg, filwaqt li o\u0127rajn jag\u0127tuhom a\u010b\u010bess g\u0127al studji ta\u2019 livell og\u0127la f\u2019G\u0127awdex u\/jew Malta. Fi kwalunkwe ka\u017c, l-istudenti jit\u0127ejjew bir-reqqa g\u0127all-pass li jkun imiss, ikun xi jkun. Il-programmi tat-ta\u0127ri\u0121 tal-MCAST ipprovduti fil-Kampus t\u2019G\u0127awdex jissodisfaw l-istess standards ta\u2019 assigurazzjoni tal-kwalit\u00e0 li huma applikabbli g\u0127all-istess programmi li ji\u0121u pprovduti fl-Istituti rispettivi tal-MCAST f\u2019Malta, filwaqt li ji\u017cguraw li l-istudenti G\u0127awdxin jibbenefikaw mill-istess kwalit\u00e0 ta\u2019 servizz fil-g\u017cira tag\u0127hom. L-istudenti li ji\u0121u mir-re\u0121jun tat-Tramuntana ta\u2019 Malta li jag\u0127\u017clu li jistudjaw fil- Kampus t\u2019G\u0127awdex huma eli\u0121ibbli g\u0127al sussidju mill-gvern.",
+        "courses": []
+    },
+    {
+        "code": "gd",
+        "color": "#000000",
+        "name_en": "Generic Degrees",
+        "desc_en": "",
+        "name_mt": "",
+        "desc_mt": "",
+        "courses": []
+    },
+    {
+        "code": "md",
+        "color": "#752980",
+        "name_en": "Masters Degrees",
+        "desc_en": "",
+        "name_mt": "",
+        "desc_mt": "",
+        "courses": []
+    },
+    {
+        "code": "cpd",
+        "color": "#000000",
+        "name_en": "CPD",
+        "desc_en": "",
+        "name_mt": "",
+        "desc_mt": "",
+        "courses": []
+    }
+]
