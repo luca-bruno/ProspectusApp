@@ -6,8 +6,20 @@
 .past-work-title{
     margin-top: 20px;
     font-size: 1.2em;
+    color: var( --default-theme-color);
+    letter-spacing: 2.5px;
+
 }
 
 .past-work-description{
     margin-top: 17px;
+}
+
+.card-content-custom{
+    font-size: 1.15em;
+    letter-spacing: 0.3px;
+}
+
+ion-content{
+    --background: url('/assets/imgs/PastWork.jpg') no-repeat center center / cover;
 }

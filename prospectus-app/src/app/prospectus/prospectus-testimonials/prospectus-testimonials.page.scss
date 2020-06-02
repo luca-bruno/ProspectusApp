@@ -4,7 +4,7 @@
 
     .testimonial-card{
 
-        .background-image{
+        .background-image{ //avatar (background for card)
             background-size: cover;
             margin: auto;
             background-position: center;
@@ -18,12 +18,16 @@
             font-size: 1.2em;
             padding-left: 15px;
             padding-right: 15px;
+            color: var( --default-theme-color);
+            letter-spacing: 2.5px;
         }
 
         .testimonial-qualification{
             font-size: 1em;
             padding-left: 15px;
             padding-right: 15px;
+            color: var( --default-theme-color);
+            letter-spacing: 2.5px;
         }
 
         .testimonial-description{
@@ -31,6 +35,12 @@
             padding-bottom: 25px;
             padding-right: 15px;
             margin-bottom: 15px;
+            color: var( --default-theme-color);
+            letter-spacing: 0.85px;
         }
     }
+}
+
+ion-content{
+    --background: url('/assets/imgs/Testimonials.jpg') no-repeat center center / cover;
 }

@@ -14,7 +14,6 @@ export class ProspectusInstitutesPage implements OnInit {
      * The institute to be used with this page.
      */
     public institute: any = null;
-    public course: any = null;
   
   /**
    * Hide 'Find Us' div/button when Masters Degrees/Generic Degrees/CPD selected

@@ -1,6 +1,6 @@
 .pastwork-slider{
-    --bullet-background: grey;
-    --bullet-background-active: black;
+    --bullet-background: black;
+    --bullet-background-active: var( --default-theme-color);
 
     .pastwork-card{
 
@@ -16,6 +16,13 @@
             padding-right: 15px;
             padding-bottom: 25px;
             margin-bottom: 15px;
+            color: var( --default-theme-color);
+            letter-spacing: 2.5px;
+            font-size: 1.2em;
         }
     }
+}
+
+ion-content{
+    --background: url('/assets/imgs/PastWork.jpg') no-repeat center center / cover;
 }

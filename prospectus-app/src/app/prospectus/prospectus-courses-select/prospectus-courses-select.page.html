@@ -1,17 +1,18 @@
 <app-header-regular title="Course List"></app-header-regular>
 
-<ion-content>
+<ion-content class="background">
   <ion-list>
     
     <ion-button class="course-button"             
-    *ngFor="let institute of institutes"
+    *ngFor="let course of institute.courses"
     [ngStyle]="{ 'color': institute.color }"
-    [routerLink]="['/', 'institute', institute.code]">
+    [routerLink]="['/', 'courses', 'view', course.code]"
+    >
       <ion-grid>
         <ion-row>
           <!-- Course name -->
           <div class="ion-text-wrap">
-            {{ prospectusService.getCourseName(course) }}a
+            {{ course.title }}
           </div>
         </ion-row>
       </ion-grid>
@@ -19,3 +20,4 @@
     
   </ion-list>
 </ion-content>
+

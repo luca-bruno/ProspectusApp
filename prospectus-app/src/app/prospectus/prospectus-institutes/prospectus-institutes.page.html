@@ -1,6 +1,6 @@
 <app-header-regular title="Institute Info"></app-header-regular>
 
-<ion-content>
+<ion-content class="background">
   <ion-grid>
     <ion-row>
       <ion-col>
@@ -28,22 +28,22 @@
   </ion-grid>
 
   <!-- Institute info paragraph 1 -->
-  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom" style="margin-top: 16px">
+  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom">
     <ion-card-content>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
+      <p class="card-content-custom">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
     </ion-card-content>
   </ion-card>
   
   <!-- Institute info paragraph 2 -->
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom">
     <ion-card-content>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
+      <p class="card-content-custom">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
     </ion-card-content>
   </ion-card>
 
   <!-- 'Course List' button -->
   <div class="ion-text-center">
-    <ion-button [routerLink]="['/courses', 'select', institute.courses.code]" >
+    <ion-button [routerLink]="['/courses', 'select', institute.code]" >
       <ion-label>Course List</ion-label>
     </ion-button>
   </div>

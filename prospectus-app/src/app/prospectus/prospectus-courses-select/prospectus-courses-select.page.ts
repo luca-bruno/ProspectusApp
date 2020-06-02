@@ -8,16 +8,13 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['./prospectus-courses-select.page.scss'],
 })
 export class ProspectusCoursesSelectPage implements OnInit {
-  
-    /**
-     * The institute to be used with this page.
-     */
-    public institute: any = null;
 
-        /**
-     * The institute to be used with this page.
+  public institute: any = {};
+
+    /**
+     * The course to be used with this page.
      */
-    public course: any = null;
+    public courses: any = null;
 
   constructor(
     public route: ActivatedRoute,
@@ -26,7 +23,8 @@ export class ProspectusCoursesSelectPage implements OnInit {
 
   ngOnInit() {
     const code = this.route.snapshot.params.code;
-    this.institute.course = this.prospectusService.getCourse(code);
+    this.institute = this.prospectusService.getInstitute(code);
+
   }
 
 }

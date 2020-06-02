@@ -28,14 +28,8 @@
 .prospectus-button-icon{
     margin-right: 5px;
     color: white;
+    font-size: 1.6em;
 }
-
-.prospectus-icon{
-    margin-right: 5px;
-    color: black;
-    font-size: 1.3em;
-}
-
 
 .icon-arrow {
     font-size: 30px;
@@ -56,4 +50,9 @@
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 5px;
+}    
+
+@font-face {
+    font-family: 'BebasKai';
+    src: url('./assets/fonts/BebasKai.ttf');
 }

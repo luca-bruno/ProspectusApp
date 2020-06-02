@@ -4,15 +4,26 @@
     font-size: 1.2em;
     margin-top: 20px;
     margin-bottom: 4px;
+    color: var(--default-theme-color);
 }
 
 .corporate-email{
     text-align: center;
     width: 100%;
     margin-bottom: 2px;
+    color: var(--default-theme-color);
 }
 
 .corporate-telephone{
     text-align: center;
     width: 100%;
+    color: var(--default-theme-color);
+}
+
+ion-list{
+    background: 0;
+}
+
+ion-content{
+    --background: url('/assets/imgs/CorporateServices.jpg') no-repeat center center / cover;
 }

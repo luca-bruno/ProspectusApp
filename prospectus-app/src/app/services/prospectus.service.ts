@@ -71,27 +71,32 @@ export class ProspectusService {
     /**
      * Look for and return the courses list.
      */
-    public getCourses(): any[]
+    public getCourses(code: string): any[]
     {
-        return this._data.courses;
+        const institute = this._data.find(i => i.code == code);
+        return institute.courses;
     }
 
         /**
-     * Will retrieve one institute from the list.
-     * @param code The institute code.
+     * Will retrieve one course from the list.
+     * @param code The course code.
      */
     public getCourse(code: string): any
     {
-        return this._data.courses.find(i => i.code == code);
+        const institute = this._data.find(i => i.courses.find(c => c.code[0] == code));
+        const course = institute.courses.find(c => c.code == code);
+        return course;
     }
 
     /**
-     * Finds and returns the institute name from the JSON object.
-     * @param course The institute object
-     * @param lang [OPTIONAL] The language with which to retrieve the information.
+     * Finds and returns the course name from the JSON object.
+     * @param course The course object
      */
     public getCourseName(course: any): string
     {
-        return this._data.courses.find(i => i.course.name == course.name);
+        // this isn't needed
+        // because data is an array -> it has an index property but no courses
+        // therefore, this doesn't work
+        return this._data.courses.find(i => i.course.title == course.title);
     }
 }

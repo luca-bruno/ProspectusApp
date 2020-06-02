@@ -7,7 +7,7 @@ ion-menu.md ion-content {
   --padding-end: 8px;
   --padding-top: 55px;
   --padding-bottom: 20px;
-  --ion-background-color: #dadada;
+  --ion-background-color: var(--default-theme-color);
 }
 
 ion-menu.md ion-list {
@@ -64,6 +64,7 @@ ion-menu.md ion-item ion-icon {
 
 ion-menu.md ion-item ion-label {
   font-weight: 500;
+  font-size: 18px;
 }
 
 ion-menu.ios ion-content {
