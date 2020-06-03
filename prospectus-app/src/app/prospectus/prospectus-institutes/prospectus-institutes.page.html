@@ -30,17 +30,12 @@
   <!-- Institute info paragraph 1 -->
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom">
     <ion-card-content>
-      <p class="card-content-custom">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
+      <p class="card-content-custom">
+        {{ prospectusService.getInstituteDesc(institute) }}
+      </p>
     </ion-card-content>
   </ion-card>
   
-  <!-- Institute info paragraph 2 -->
-  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom">
-    <ion-card-content>
-      <p class="card-content-custom">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
-    </ion-card-content>
-  </ion-card>
-
   <!-- 'Course List' button -->
   <div class="ion-text-center">
     <ion-button [routerLink]="['/courses', 'select', institute.code]" >

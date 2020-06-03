@@ -67,6 +67,10 @@ export class ProspectusService {
         return (lang == 'en') ? institute.name_en : institute.name_mt;
     }
 
+    public getInstituteDesc(institute: any, lang: string = 'en'): string
+    {
+        return (lang == 'en') ? institute.desc_en : institute.desc_mt;
+    }
 
     /**
      * Look for and return the courses list.
