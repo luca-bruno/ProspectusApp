@@ -16,10 +16,10 @@
       <!-- 'Find Us' button -->
         <!-- Redirects to Google Maps institute location -->
       <ion-col>
-        <div class="ion-text-right"> <!-- make div/button hidden for Masters Degrees/Generic Degrees/CPD -->
+        <div class="ion-text-right">
           <ion-button href="{{location}}">
             <ion-icon name="location-outline" class="prospectus-button-icon"></ion-icon>
-            <ion-label>Find Us</ion-label>
+            <ion-label class="prospectus-button-icon-text">Find Us</ion-label>
           </ion-button>
         </div>
       </ion-col>
@@ -39,7 +39,7 @@
   <!-- 'Course List' button -->
   <div class="ion-text-center">
     <ion-button [routerLink]="['/courses', 'select', institute.code]">
-      <ion-label>Course List</ion-label>
+      <ion-label class="prospectus-button-icon-text">Course List</ion-label>
     </ion-button>
   </div>
 

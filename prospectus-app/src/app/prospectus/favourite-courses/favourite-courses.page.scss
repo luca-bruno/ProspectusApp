@@ -1,6 +1,10 @@
 .no-favourites{
     margin-top: 200px;
     padding-bottom: 25px;
-    font-size: 1.1em;
+    font-size: 1.3em;
     letter-spacing: 1.5px;
+}
+
+ion-content{
+    --background: url('/assets/imgs/FavouriteCoursesBackground.png') no-repeat center center / cover;
 }

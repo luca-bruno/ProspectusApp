@@ -1,10 +1,10 @@
 <app-header-regular title="Favourite Courses"></app-header-regular>
 
-<ion-content>
-  <ion-list>
+<ion-content class="background">
+  <ion-list style="background: 0;">
 
     <!-- Display div if favouritesArray empty -->
-    <div *ngIf="!favouritesArray || favouritesArray.length === 0" class="no-favourites ion-text-center" style="color: grey;">
+    <div *ngIf="!favouritesArray || favouritesArray.length === 0" class="no-favourites ion-text-center" style="color: var(--default-theme-color)">
       You currently have no courses favourited.
     </div>
 

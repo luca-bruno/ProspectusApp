@@ -2,7 +2,7 @@
   <ion-toolbar color="primary">
     <!-- 'Back' button -->
     <ion-buttons slot="start">
-      <ion-button (click)="navigateBack()">
+      <ion-button (click)="navigateBack()" style="color: black;">
         <ion-icon name="chevron-back-outline" slot="icon-only" ></ion-icon>
       </ion-button>
     </ion-buttons>
@@ -10,7 +10,7 @@
     <ion-title class="ion-text-center course-title">Course Info</ion-title>
     <!-- 'Favourite' heart toggle button -->
     <ion-buttons slot="end">
-      <ion-button (click) ="toggleSave()">
+      <ion-button (click) ="toggleSave()" style="color: black;">
         <ion-icon [name]="toggleIcon" slot="icon-only"></ion-icon>
       </ion-button>
     </ion-buttons>
@@ -34,7 +34,7 @@
           <!-- Redirects to specific course page on MCAST website -->
         <ion-button href="https://www.mcast.edu.mt/courses/ad6-05-19/">
           <ion-icon name="earth-outline" class="prospectus-button-icon"></ion-icon>
-          <ion-label>More Info</ion-label>
+          <ion-label class="prospectus-button-icon-text">More Info</ion-label>
       </ion-button>
       </div>
     </ion-col>
@@ -68,7 +68,7 @@
           <!-- Redirects to Facebook sharing option with specific MCAST course website link -->
     <!--    <ion-col class="ion-text-right">
           <ion-button href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mcast.edu.mt%2Fcourses%2Fad6-05-19%2F">
-              <ion-icon name="share-social-outline" class="prospectus-button-icon"></ion-icon>
+              <ion-icon name="share-social-outline" class="prospectus-button-icon-text"></ion-icon>
               <ion-label>Share</ion-label>
 
 
