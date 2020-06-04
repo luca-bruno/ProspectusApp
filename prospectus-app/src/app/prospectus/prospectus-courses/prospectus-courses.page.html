@@ -29,7 +29,7 @@
     </ion-col>
 
     <ion-col>
-      <div class="ion-text-right course-code">
+      <div class="ion-text-right course-code" [ngStyle]="{ 'color': selectedInstitute.color }">
         {{courseCode}}
         <!-- 'More Info' button -->
           <!-- Redirects to specific course page on MCAST website -->
@@ -56,21 +56,21 @@
         <!-- 'MQF Level' label -->
         <ion-col class="ion-text-center course-details"> 
           <ion-icon name="school-outline" class="course-detail-icon"></ion-icon>  
-            <ion-label class="course-detail">MQF Level {{courseMqf}}</ion-label>
+            <ion-label class="course-detail"><br>MQF Level {{courseMqf}}</ion-label>
         </ion-col>
   
         <!-- 'Course length' label -->
         <ion-col class="separator-col ion-text-center">
             <ion-icon name="time-outline" class="course-detail-icon"></ion-icon>
-            <ion-label class="course-detail">{{courseDuration}} Year(s)</ion-label>
+            <ion-label class="course-detail"><br>{{courseDuration}} Year(s)</ion-label>
         </ion-col>
   
         <!-- 'Share' button -->
           <!-- Redirects to Facebook sharing option with specific MCAST course website link -->
         <ion-col disabled class="ion-text-right">
           <ion-button href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mcast.edu.mt%2Fcourses%2Fad6-05-19%2F">
-              <ion-icon name="share-social-outline" class="prospectus-button-icon-text"></ion-icon>
-              <ion-label>Share</ion-label>
+              <ion-icon name="share-social-outline" class="prospectus-button-icon"></ion-icon>
+              <ion-label class="prospectus-button-icon-text">Share</ion-label>
 
 
           </ion-button>
