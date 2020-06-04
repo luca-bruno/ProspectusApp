@@ -13,6 +13,11 @@
     color: var(--default-theme-color);
 }
 
+.course-detail-subtitle{
+    font-size: 1.1rem;
+    color: var(--default-theme-color);
+}
+
 .card-content-custom{
     font-size: 1.15em;
     letter-spacing: 0.3px;
@@ -27,5 +32,5 @@
 
 
 ion-content{
-    --background: url('/assets/imgs/InstituteCourseInfo.jpg') no-repeat center center / cover;
+    --background: url('/assets/imgs/InstituteCourseListInfoBackground.jpg') no-repeat center center / cover;
 }

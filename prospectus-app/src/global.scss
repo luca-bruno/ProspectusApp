@@ -25,6 +25,10 @@
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
 
+.back-button{
+    color: black;
+}
+
 .prospectus-button-icon{
     margin-right: 5px;
     color: white;
@@ -41,16 +45,33 @@
 
 .page-title{
     font-size: 1.1rem;
+    margin-left: -48px;
+    letter-spacing: 3px;
+    color: black;
+}
+
+.course-title{
+    font-size: 1.1rem;
+    letter-spacing: 3px;
 }
 
 .course-button {
-    position: relative;
     height: auto;
-    font-size: 0.9em;
+    font-size: 1.1em;
     padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }    
+
+.card-properties {
+    box-shadow: none; 
+    color: white; 
+    opacity: 86%;
+
+}
 
 @font-face {
     font-family: 'BebasKai';

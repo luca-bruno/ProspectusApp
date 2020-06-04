@@ -10,7 +10,7 @@
 
 :root {
   /** primary **/
-  // not ideal, but seemingly only way to change heading colour
+  // not ideal, but seemingly only way to change heading colour [update: toolbar color does not work when [color] ]
   --ion-color-primary: #DC2326; //default
   --ion-color-primary-rgb: 56, 128, 255;
   --ion-color-primary-contrast: #ffffff;

@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { NavController } from '@ionic/angular';
+import { ProspectusService } from 'src/app/services/prospectus.service';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-prospectus-courses',
@@ -8,6 +10,19 @@ import { NavController } from '@ionic/angular';
 })
 export class ProspectusCoursesPage implements OnInit {
   
+  public institute: any = {};
+  public courses: any = null;
+  public courseCode: string;
+  public courseTitle: string;
+  public courseDuration: string;
+  public courseDesc: any = new Array();
+  public courseMqf: string;
+  public courseCareers: string;
+  public courseReqEntry: any = new Array();
+  public courseReqCompulsory: any = new Array();
+  public courseReqPrefer: any = new Array();
+  public courseReqOther: any = new Array();
+
   public toggleIcon = 'heart-outline';
 
   /**
@@ -29,10 +44,79 @@ export class ProspectusCoursesPage implements OnInit {
    */
   
   constructor(
-    public navCtrl: NavController
+    public navCtrl: NavController,
+    public prospectusService: ProspectusService,
+    public route: ActivatedRoute
   ) { }
 
-  ngOnInit() {}
+  ngOnInit() {
+    
+    this.institute = this.prospectusService.getInstitutes();
+    const code = this.route.snapshot.params.code;
+    console.log(this.institute);
+    for(var i = 0; i < this.institute.length; i++){ //alterative to find
+      for(var j = 0; j < this.institute[i].courses.length; j++){
+        if(this.institute[i].courses[j].code == code){
+          this.courseCode = this.institute[i].courses[j].code;
+          this.courseTitle = this.institute[i].courses[j].title;
+          this.courseDuration = this.institute[i].courses[j].duration;
+          this.courseMqf = this.institute[i].courses[j].mqf;
+          this.courseCareers = this.institute[i].courses[j].careers;
+        }
+      }
+    }
+  
+
+  for(var i = 0; i < this.institute.length; i++){ //alterative to find
+    for(var j = 0; j < this.institute[i].courses.length; j++){
+      if(this.institute[i].courses[j].code == code){
+        for(var k = 0; k < this.institute[i].courses[j].desc_en.length; k++){
+          this.courseDesc.push(this.institute[i].courses[j].desc_en[k]);
+        }
+      }
+    }
+  }
+
+  for(var i = 0; i < this.institute.length; i++){ //alterative to find
+    for(var j = 0; j < this.institute[i].courses.length; j++){
+      if(this.institute[i].courses[j].code == code){
+        for(var k = 0; k < this.institute[i].courses[j].req_entry.length; k++){
+          this.courseReqEntry.push(this.institute[i].courses[j].req_entry[k]);
+        }
+      }
+    }
+  }
+
+  for(var i = 0; i < this.institute.length; i++){ //alterative to find
+    for(var j = 0; j < this.institute[i].courses.length; j++){
+      if(this.institute[i].courses[j].code == code){
+        for(var k = 0; k < this.institute[i].courses[j].req_compulsory.length; k++){
+          this.courseReqCompulsory.push(this.institute[i].courses[j].req_compulsory[k]);
+        }
+      }
+    }
+  }
+
+  for(var i = 0; i < this.institute.length; i++){ //alterative to find
+    for(var j = 0; j < this.institute[i].courses.length; j++){
+      if(this.institute[i].courses[j].code == code){
+        for(var k = 0; k < this.institute[i].courses[j].req_preferred.length; k++){
+          this.courseReqPrefer.push(this.institute[i].courses[j].req_preferred[k]);
+        }
+      }
+    }
+  }
+
+  for(var i = 0; i < this.institute.length; i++){ //alterative to find
+    for(var j = 0; j < this.institute[i].courses.length; j++){
+      if(this.institute[i].courses[j].code == code){
+        for(var k = 0; k < this.institute[i].courses[j].req_other.length; k++){
+          this.courseReqOther.push(this.institute[i].courses[j].req_other[k]);
+        }
+      }
+    }
+  }
+}
     
   /**
    * Navigates back to the previously-accessed page. 

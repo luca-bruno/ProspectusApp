@@ -1,9 +1,13 @@
 ion-content{
-    --background: url('/assets/imgs/InstituteCourseInfo.jpg') no-repeat center center / cover;
+    --background: url('/assets/imgs/InstituteCourseListInfoBackground.jpg') no-repeat center center / cover;
 }
 
 ion-list{
     padding-top: 0px;
     padding-bottom: 0px;
     // to remove ion-list auto padding
+}
+
+.button-center{
+    width: 100%;
 }

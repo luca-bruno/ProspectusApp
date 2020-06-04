@@ -1,17 +1,16 @@
 <app-header-regular title="Course List"></app-header-regular>
 
 <ion-content class="background">
-  <ion-list>
+  <ion-list style="background: 0;">
     
     <ion-button class="course-button"             
     *ngFor="let course of institute.courses"
-    [ngStyle]="{ 'color': institute.color }"
-    [routerLink]="['/', 'courses', 'view', course.code]"
-    >
+    style=""
+    [routerLink]="['/', 'courses', 'view', course.code]">
       <ion-grid>
         <ion-row>
           <!-- Course name -->
-          <div class="ion-text-wrap">
+          <div class="ion-text-center ion-text-wrap button-center">
             {{ course.title }}
           </div>
         </ion-row>
@@ -20,4 +19,3 @@
     
   </ion-list>
 </ion-content>
-

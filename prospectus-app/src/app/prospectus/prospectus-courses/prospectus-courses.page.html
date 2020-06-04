@@ -1,5 +1,5 @@
 <ion-header class="ion-no-border">
-  <ion-toolbar>
+  <ion-toolbar color="primary">
     <!-- 'Back' button -->
     <ion-buttons slot="start">
       <ion-button (click)="navigateBack()">
@@ -7,7 +7,7 @@
       </ion-button>
     </ion-buttons>
     <!-- 'Title' label -->
-    <ion-title class="ion-text-center page-title">Course Info</ion-title>
+    <ion-title class="ion-text-center course-title">Course Info</ion-title>
     <!-- 'Favourite' heart toggle button -->
     <ion-buttons slot="end">
       <ion-button (click) ="toggleSave()">
@@ -22,14 +22,14 @@
 <ion-grid class="course-basic-grid">
   <ion-row>
     <ion-col>
-      <div class="ion-text-left course-name">
-        Bachelor of Arts (Honours) in Interactive Media
+      <div class="ion-text-left course-name" [ngStyle]="{ 'color': institute.color }">
+        {{courseTitle}}
       </div>
     </ion-col>
 
     <ion-col>
       <div class="ion-text-right course-code">
-        AD6-05-19
+        {{courseCode}}
         <!-- 'More Info' button -->
           <!-- Redirects to specific course page on MCAST website -->
         <ion-button href="https://www.mcast.edu.mt/courses/ad6-05-19/">
@@ -44,7 +44,7 @@
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom course-description">
     <!-- Course info paragraph -->
     <ion-card-content>
-      <p class="card-content-custom">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
+      <p class="card-content-custom" style="padding-bottom: 5px;" *ngFor="let desc of courseDesc">{{desc}}</p>
     </ion-card-content>
 
   </ion-card>
@@ -55,24 +55,27 @@
         <!-- 'MQF Level' label -->
         <ion-col class="ion-text-center course-details"> 
           <ion-icon name="school-outline" class="course-detail-icon"></ion-icon>  
-            <ion-label class="course-detail">MQF Level 6</ion-label>
+            <ion-label class="course-detail">MQF Level {{courseMqf}}</ion-label>
         </ion-col>
   
         <!-- 'Course length' label -->
         <ion-col class="separator-col ion-text-center">
             <ion-icon name="time-outline" class="course-detail-icon"></ion-icon>
-            <ion-label class="course-detail">3 Years</ion-label>
+            <ion-label class="course-detail">{{courseDuration}} Year(s)</ion-label>
         </ion-col>
   
         <!-- 'Share' button -->
           <!-- Redirects to Facebook sharing option with specific MCAST course website link -->
-        <ion-col class="ion-text-right">
-            <ion-button href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mcast.edu.mt%2Fcourses%2Fad6-05-19%2F">
+    <!--    <ion-col class="ion-text-right">
+          <ion-button href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.mcast.edu.mt%2Fcourses%2Fad6-05-19%2F">
               <ion-icon name="share-social-outline" class="prospectus-button-icon"></ion-icon>
               <ion-label>Share</ion-label>
-          </ion-button>
-        </ion-col>
 
+
+          </ion-button>
+            
+        </ion-col> -->
+            <!-- Scrapped feature -->
     </ion-row>
   </ion-grid>
 
@@ -81,8 +84,14 @@
     <!-- 'Course Requirements' label -->
     <ion-card-content>
       <ion-icon name="book-outline" class="course-detail-icon"></ion-icon>
-      <ion-label class="course-detail">Requirements</ion-label>
-      <p class="card-content-custom">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
+      <ion-label class="course-detail">Entry Requirements</ion-label>
+      <ion-label class="course-detail" style="font-size: 1rem; margin-left: 5px;">(either or)</ion-label>
+      <p class="card-content-custom" style="padding-top: 5px;" *ngFor="let req_entry of courseReqEntry">{{req_entry}}</p>
+      <ion-label class="course-detail-subtitle">Compulsory: </ion-label>
+      <p class="card-content-custom" style="padding-top: 5px;" *ngFor="let req_compulsory of courseReqCompulsory">{{req_compulsory}}</p>
+      <ion-label class="course-detail-subtitle">Preferred: </ion-label>
+      <p class="card-content-custom" style="padding-top: 5px;" *ngFor="let req_preferred of courseReqPrefer">{{req_preferred}}</p>
+      <p class="card-content-custom" style="padding-top: 5px;" *ngFor="let req_other of courseReqOther">{{req_other}}</p>
     </ion-card-content>
 
   </ion-card>
@@ -93,7 +102,7 @@
     <ion-card-content>
       <ion-icon name="briefcase-outline" class="course-detail-icon"></ion-icon>
       <ion-label class="course-detail">Career Opportunities</ion-label>
-      <p class="card-content-custom">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ad quae autem itaque aspernatur doloremque praesentium rem tenetur veniam pariatur perspiciatis laborum beatae ducimus, nemo a quas, nihil veritatis accusantium!</p>
+      <p class="card-content-custom">{{courseCareers}}</p>
     </ion-card-content>
 
   </ion-card>

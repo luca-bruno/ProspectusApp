@@ -1,14 +1,14 @@
-<app-header-regular title="Institute Info"></app-header-regular>
+<app-header-regular title="Institute Information"></app-header-regular>
 
 <ion-content class="background">
   <ion-grid>
     <ion-row>
       <ion-col>
-        <div class="ion-text-left institute-acronym ion-text-uppercase">
+        <div class="ion-text-left institute-acronym ion-text-uppercase" *ngIf="displayAcronymDiv" [ngStyle]="{ 'color': institute.color }">
             {{ institute.code }}
         </div>
 
-        <div class="institute-name">
+        <div class="institute-name" *ngIf="displayTitleDiv" [ngStyle]="{ 'color': institute.color }">
             {{ prospectusService.getInstituteName(institute) }}
         </div>
       </ion-col>
@@ -17,7 +17,7 @@
         <!-- Redirects to Google Maps institute location -->
       <ion-col>
         <div class="ion-text-right"> <!-- make div/button hidden for Masters Degrees/Generic Degrees/CPD -->
-          <ion-button href="https://www.google.com/maps?q=MCAST,+Triq+Kordin,+Paola&hl=en">
+          <ion-button href="{{location}}">
             <ion-icon name="location-outline" class="prospectus-button-icon"></ion-icon>
             <ion-label>Find Us</ion-label>
           </ion-button>
@@ -28,7 +28,7 @@
   </ion-grid>
 
   <!-- Institute info paragraph 1 -->
-  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom">
+  <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom card-properties" *ngIf="displayDescDiv" [ngStyle]="{ 'background-color': institute.color }">
     <ion-card-content>
       <p class="card-content-custom">
         {{ prospectusService.getInstituteDesc(institute) }}
@@ -38,7 +38,7 @@
   
   <!-- 'Course List' button -->
   <div class="ion-text-center">
-    <ion-button [routerLink]="['/courses', 'select', institute.code]" >
+    <ion-button [routerLink]="['/courses', 'select', institute.code]">
       <ion-label>Course List</ion-label>
     </ion-button>
   </div>
