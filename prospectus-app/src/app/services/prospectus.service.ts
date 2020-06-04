@@ -91,16 +91,4 @@ export class ProspectusService {
         const course = institute.courses.find(c => c.code == code);
         return course;
     }
-
-    /**
-     * Finds and returns the course name from the JSON object.
-     * @param course The course object
-     */
-    public getCourseName(course: any): string
-    {
-        // this isn't needed
-        // because data is an array -> it has an index property but no courses
-        // therefore, this doesn't work
-        return this._data.courses.find(i => i.course.title == course.title);
-    }
 }

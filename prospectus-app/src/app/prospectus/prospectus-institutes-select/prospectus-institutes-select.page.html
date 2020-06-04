@@ -6,7 +6,7 @@
     <ion-row>
       <!-- IAS -->
       <ion-col class="align-self-stretch">
-        <div class="ion-text-right institute-acronym" style="color:#5DA733">
+        <div class="ion-text-right institute-acronym" style="color:#5DA733"> <!-- would not work without hex code-->
           IAS
         </div>
 
@@ -100,7 +100,7 @@
 
       <!-- Generic Degrees -->
       <ion-col>
-        <div class="institute-button-container" style="color:white">
+        <div class="institute-button-container">
           <ion-button class="institute-button" [routerLink]="['/institutes', 'view', 'gd']" style="--background:black">
             <ion-label class="ion-text-wrap">Generic Degrees</ion-label>
           </ion-button>
@@ -120,8 +120,8 @@
 
       <!-- CPD -->
       <ion-col>
-        <div class="institute-button-container" style="color:white">
-          <ion-button class="institute-button" [routerLink]="['/institutes', 'view', 'cpd']"style="--background:black">
+        <div class="institute-button-container">
+          <ion-button class="institute-button" [routerLink]="['/institutes', 'view', 'cpd']" style="--background:black">
             <ion-label class="ion-text-wrap">CPD</ion-label>
           </ion-button>
         </div>
@@ -131,8 +131,8 @@
   <ion-row>
     <!-- Other Courses -->
     <ion-col>
-      <div class="institute-button-container" style="color:white">
-        <ion-button class="institute-button-center" [routerLink]="['/institutes', 'view', 'oc']"style="--background:black">
+      <div class="institute-button-container">
+        <ion-button class="institute-button-center" [routerLink]="['/institutes', 'view', 'oc']" style="--background:black">
           <ion-label class="ion-text-wrap">Other Courses</ion-label>
         </ion-button>
       </div>

@@ -23,7 +23,7 @@
 <ion-grid class="course-basic-grid">
   <ion-row>
     <ion-col>
-      <div class="ion-text-left course-name" [ngStyle]="{ 'color': institute.color }">
+      <div class="ion-text-left course-name" [ngStyle]="{ 'color': selectedInstitute.color }">
         {{courseTitle}}
       </div>
     </ion-col>
@@ -33,7 +33,7 @@
         {{courseCode}}
         <!-- 'More Info' button -->
           <!-- Redirects to specific course page on MCAST website -->
-        <ion-button href="https://www.mcast.edu.mt/courses/ad6-05-19/">
+        <ion-button href="https://www.mcast.edu.mt/courses/{{courseCode}}/">
           <ion-icon name="earth-outline" class="prospectus-button-icon"></ion-icon>
           <ion-label class="prospectus-button-icon-text">More Info</ion-label>
       </ion-button>
@@ -44,7 +44,7 @@
 
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom card-properties">
     <!-- Course info paragraph -->
-    <ion-card-content [ngStyle]="{ 'background-color': institute.color }">
+    <ion-card-content [ngStyle]="{ 'background-color': selectedInstitute.color }">
       <p class="card-content-custom" style="padding-bottom: 5px; color: white;" *ngFor="let desc of courseDesc">{{desc}}</p>
     </ion-card-content>
 
@@ -83,7 +83,7 @@
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom card-properties">
 
     <!-- 'Course Requirements' label -->
-    <ion-card-content style="color: white; background-color: cyan;">
+    <ion-card-content [ngStyle]="{ 'background-color': selectedInstitute.color }">
       <ion-icon name="book-outline" class="course-detail-icon"></ion-icon>
       <ion-label class="course-detail">Entry Requirements</ion-label>
       <ion-label class="course-detail" style="font-size: 1rem; margin-left: 5px;">(either or)</ion-label>
@@ -100,7 +100,7 @@
   <ion-card class="ion-no-margin ion-margin-horizontal ion-margin-bottom card-properties">
 
     <!-- 'Career Opportunities' label -->
-    <ion-card-content style="color: white; background-color: cyan;">
+    <ion-card-content [ngStyle]="{ 'background-color': selectedInstitute.color }">
       <ion-icon name="briefcase-outline" class="course-detail-icon"></ion-icon>
       <ion-label class="course-detail">Career Opportunities</ion-label>
       <p class="card-content-custom">{{courseCareers}}</p>
