@@ -27,12 +27,12 @@ export class ProspectusTestimonialsPage implements OnInit {
     this.institute = this.prospectusService.getInstitutes();
     
     for(var i = 0; i < this.institute.length; i++){ //testimonials fields for some institutes were empty, therefore used this
-      if(this.institute[i].testimonial_name == ""){
-        this.instituteTestNames.push(this.institute[6].testimonial_name);
+      if(this.institute[i].testimonial_name == ""){ //testimonial field for each institute is checked for being empty
+        this.instituteTestNames.push(this.institute[6].testimonial_name); //if empty, pushed into 6th [not outputted] element
         this.instituteTestRoles.push(this.institute[6].testimonial_role);
         this.instituteTestContent.push(this.institute[6].testimonial_content);
       }else{
-      this.instituteTestNames.push(this.institute[i].testimonial_name);
+      this.instituteTestNames.push(this.institute[i].testimonial_name); //push into next available element if field not empty
       this.instituteTestRoles.push(this.institute[i].testimonial_role);
       this.instituteTestContent.push(this.institute[i].testimonial_content);
       }

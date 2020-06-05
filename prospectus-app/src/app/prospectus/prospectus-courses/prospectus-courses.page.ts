@@ -41,7 +41,7 @@ export class ProspectusCoursesPage implements OnInit {
   }
 
   /**
-   * Add/remove course into/from array favouritesArray when toggled
+   * Add/remove course into/from array favouritesArray when toggled // SCRAPPED
    */
   
   constructor(
@@ -55,7 +55,7 @@ export class ProspectusCoursesPage implements OnInit {
     this.institute = this.prospectusService.getInstitutes();
     const code = this.route.snapshot.params.code;
     console.log(this.institute);
-    for(var i = 0; i < this.institute.length; i++){ //alterative to find
+    for(var i = 0; i < this.institute.length; i++){ //alterative to find JSON
       for(var j = 0; j < this.institute[i].courses.length; j++){
         if(this.institute[i].courses[j].code == code){
           this.selectedInstitute = this.institute[i];
@@ -65,22 +65,22 @@ export class ProspectusCoursesPage implements OnInit {
           this.courseMqf = this.institute[i].courses[j].mqf;
           this.courseCareers = this.institute[i].courses[j].careers;
 
-          for(var k = 0; k < this.institute[i].courses[j].desc_en.length; k++){
-            this.courseDesc.push(this.institute[i].courses[j].desc_en[k]);
+          for(var k = 0; k < this.institute[i].courses[j].desc_en.length; k++){ //populates array courseDesc with desc_en fields
+            this.courseDesc.push(this.institute[i].courses[j].desc_en[k]); //pushes desc_en field data into array element
           }
-          for(var k = 0; k < this.institute[i].courses[j].req_entry.length; k++){
-            this.courseReqEntry.push(this.institute[i].courses[j].req_entry[k]);
+          for(var k = 0; k < this.institute[i].courses[j].req_entry.length; k++){ //populates array courseReqEntry with req_entry fields
+            this.courseReqEntry.push(this.institute[i].courses[j].req_entry[k]); //pushes req_entry field data into array element
           }
 
           try{ // avoids getting req_compulsory, req_preferred, req_other fields when not available [md & cpd]
-            for(var k = 0; k < this.institute[i].courses[j].req_compulsory.length; k++){
-              this.courseReqCompulsory.push(this.institute[i].courses[j].req_compulsory[k]);
+            for(var k = 0; k < this.institute[i].courses[j].req_compulsory.length; k++){ //populates array courseReqCompulsory with req_compulsory fields
+              this.courseReqCompulsory.push(this.institute[i].courses[j].req_compulsory[k]); //pushes req_compulsory field data into array element
             }
-            for(var k = 0; k < this.institute[i].courses[j].req_preferred.length; k++){
-              this.courseReqPrefer.push(this.institute[i].courses[j].req_preferred[k]);
+            for(var k = 0; k < this.institute[i].courses[j].req_preferred.length; k++){ //populates array courseReqPrefer with req_preferred fields
+              this.courseReqPrefer.push(this.institute[i].courses[j].req_preferred[k]); //pushes req_preferred field data into array element
             }
-            for(var k = 0; k < this.institute[i].courses[j].req_other.length; k++){
-              this.courseReqOther.push(this.institute[i].courses[j].req_other[k]);
+            for(var k = 0; k < this.institute[i].courses[j].req_other.length; k++){ //populates array courseReqOther with req_other fields
+              this.courseReqOther.push(this.institute[i].courses[j].req_other[k]); //pushes req_other field data into array element
             }
           } catch (error){}
         }
